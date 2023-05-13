@@ -1,5 +1,7 @@
 # BedrockData
-Some data generated from BDS
+Data generated from BDS. 
+
+All the file are in json format so that it can be easily used in any languages.
 
 ## 1. block_attributes.json
 
@@ -11,5 +13,18 @@ Contains aabb, hardness, resistance, friction ... for each ```block state```.
 
 Item data extracted from BDS.
 
+## 3. block_palette.json
 
-### Using tool [DataExtractor](https://github.com/AllayMC/DataExtractor)
+Block palette table extracted from BDS. 
+
+Similar to https://github.com/CloudburstMC/Data/blob/master/block_palette.nbt
+
+## 4. biome_definitions.json
+
+Biome definitions extracted from BDS.
+
+Similar to https://github.com/pmmp/BedrockData/blob/master/biome_definitions.nbt
+
+### Want to generate these files by yourself?
+
+You can use this tool [DataExtractor](https://github.com/AllayMC/DataExtractor)
