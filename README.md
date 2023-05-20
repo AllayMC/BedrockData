@@ -37,6 +37,10 @@ Command argument types extracted from BDS.
 
 Including all the command argument types and their id.
 
+## 7. entity_data.json
+
+Entity type (and few data) extracted from BDS.
+
 ### Want to generate these files by yourself?
 
 You can use this tool [DataExtractor](https://github.com/AllayMC/DataExtractor)
