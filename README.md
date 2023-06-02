@@ -41,6 +41,10 @@ Including all the command argument types and their id.
 
 Entity type (and few data) extracted from BDS.
 
+## 8. block_property_types.json
+
+All the vanilla block property type extracted from BDS. Including the value type, serialization name etc...
+
 ### Want to generate these files by yourself?
 
 You can use this tool [DataExtractor](https://github.com/AllayMC/DataExtractor)
