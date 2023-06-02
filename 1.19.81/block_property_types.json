@@ -4,6 +4,19 @@
         "rail_direction"
     ],
     "propertyTypes": {
+        "activator_rail_rail_direction": {
+            "multi": true,
+            "serializationName": "rail_direction",
+            "valueType": "INTEGER",
+            "values": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
         "active": {
             "multi": false,
             "serializationName": "active",
@@ -254,6 +267,29 @@
                 true
             ]
         },
+        "cactus_age": {
+            "multi": true,
+            "serializationName": "age",
+            "valueType": "INTEGER",
+            "values": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
         "can_summon": {
             "multi": false,
             "serializationName": "can_summon",
@@ -328,6 +364,16 @@
                 1,
                 2,
                 3
+            ]
+        },
+        "cocoa_age": {
+            "multi": true,
+            "serializationName": "age",
+            "valueType": "INTEGER",
+            "values": [
+                0,
+                1,
+                2
             ]
         },
         "color": {
@@ -643,6 +689,17 @@
                 "tulip_pink",
                 "tulip_red",
                 "tulip_white"
+            ]
+        },
+        "frosted_ice_age": {
+            "multi": true,
+            "serializationName": "age",
+            "valueType": "INTEGER",
+            "values": [
+                0,
+                1,
+                2,
+                3
             ]
         },
         "ground_sign_direction": {
@@ -1156,6 +1213,29 @@
         "redstone_signal": {
             "multi": false,
             "serializationName": "redstone_signal",
+            "valueType": "INTEGER",
+            "values": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        "reeds_age": {
+            "multi": true,
+            "serializationName": "age",
             "valueType": "INTEGER",
             "values": [
                 0,
