@@ -45,6 +45,10 @@ Entity type (and few data) extracted from BDS.
 
 All the vanilla block property type extracted from BDS. Including the value type, serialization name etc...
 
+## 9. biome_id_and_type.json
+
+Vanilla biomes' name & id & type
+
 ### Want to generate these files by yourself?
 
 You can use this tool [DataExtractor](https://github.com/AllayMC/DataExtractor)
