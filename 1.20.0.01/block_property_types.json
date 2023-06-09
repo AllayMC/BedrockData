@@ -73,30 +73,12 @@
                 true
             ]
         },
-        "allow_underwater_bit": {
-            "serializationName": "allow_underwater_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
-            ]
-        },
         "attached_bit": {
             "serializationName": "attached_bit",
             "valueType": "BOOLEAN",
             "values": [
                 false,
                 true
-            ]
-        },
-        "attachment": {
-            "serializationName": "attachment",
-            "valueType": "ENUM",
-            "values": [
-                "hanging",
-                "multiple",
-                "side",
-                "standing"
             ]
         },
         "bamboo_leaf_size": {
@@ -132,41 +114,6 @@
                 "none",
                 "partial_tilt",
                 "unstable"
-            ]
-        },
-        "bite_counter": {
-            "serializationName": "bite_counter",
-            "valueType": "INTEGER",
-            "values": [
-                0,
-                1,
-                2,
-                3,
-                4,
-                5,
-                6
-            ]
-        },
-        "block_light_level": {
-            "serializationName": "block_light_level",
-            "valueType": "INTEGER",
-            "values": [
-                0,
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15
             ]
         },
         "bloom": {
@@ -247,30 +194,6 @@
                 63
             ]
         },
-        "brewing_stand_slot_a_bit": {
-            "serializationName": "brewing_stand_slot_a_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
-            ]
-        },
-        "brewing_stand_slot_b_bit": {
-            "serializationName": "brewing_stand_slot_b_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
-            ]
-        },
-        "brewing_stand_slot_c_bit": {
-            "serializationName": "brewing_stand_slot_c_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
-            ]
-        },
         "brushed_progress": {
             "serializationName": "brushed_progress",
             "valueType": "INTEGER",
@@ -305,25 +228,6 @@
                 1,
                 2,
                 3
-            ]
-        },
-        "cauldron_liquid": {
-            "serializationName": "cauldron_liquid",
-            "valueType": "ENUM",
-            "values": [
-                "lava",
-                "powder_snow",
-                "water"
-            ]
-        },
-        "chemistry_table_type": {
-            "serializationName": "chemistry_table_type",
-            "valueType": "ENUM",
-            "values": [
-                "compound_creator",
-                "element_constructor",
-                "lab_table",
-                "material_reducer"
             ]
         },
         "chisel_type": {
@@ -366,14 +270,6 @@
                 "silver",
                 "white",
                 "yellow"
-            ]
-        },
-        "color_bit": {
-            "serializationName": "color_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
             ]
         },
         "composter_fill_level": {
@@ -444,15 +340,6 @@
                 true
             ]
         },
-        "cracked_state": {
-            "serializationName": "cracked_state",
-            "valueType": "ENUM",
-            "values": [
-                "cracked",
-                "max_cracked",
-                "no_cracks"
-            ]
-        },
         "damage": {
             "serializationName": "damage",
             "valueType": "ENUM",
@@ -499,14 +386,6 @@
                 "normal"
             ]
         },
-        "disarmed_bit": {
-            "serializationName": "disarmed_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
-            ]
-        },
         "door_hinge_bit": {
             "serializationName": "door_hinge_bit",
             "valueType": "BOOLEAN",
@@ -535,27 +414,8 @@
                 true
             ]
         },
-        "dripstone_thickness": {
-            "serializationName": "dripstone_thickness",
-            "valueType": "ENUM",
-            "values": [
-                "base",
-                "frustum",
-                "merge",
-                "middle",
-                "tip"
-            ]
-        },
         "end_portal_eye_bit": {
             "serializationName": "end_portal_eye_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
-            ]
-        },
-        "explode_bit": {
-            "serializationName": "explode_bit",
             "valueType": "BOOLEAN",
             "values": [
                 false,
@@ -580,19 +440,6 @@
                 3,
                 4,
                 5
-            ]
-        },
-        "fill_level": {
-            "serializationName": "fill_level",
-            "valueType": "INTEGER",
-            "values": [
-                0,
-                1,
-                2,
-                3,
-                4,
-                5,
-                6
             ]
         },
         "flower_type": {
@@ -688,14 +535,6 @@
                 true
             ]
         },
-        "head_piece_bit": {
-            "serializationName": "head_piece_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
-            ]
-        },
         "height": {
             "serializationName": "height",
             "valueType": "INTEGER",
@@ -746,14 +585,6 @@
         },
         "in_wall_bit": {
             "serializationName": "in_wall_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
-            ]
-        },
-        "infiniburn_bit": {
-            "serializationName": "infiniburn_bit",
             "valueType": "BOOLEAN",
             "values": [
                 false,
@@ -966,14 +797,6 @@
                 "dark_oak"
             ]
         },
-        "occupied_bit": {
-            "serializationName": "occupied_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
-            ]
-        },
         "old_leaf_type": {
             "serializationName": "old_leaf_type",
             "valueType": "ENUM",
@@ -1025,15 +848,6 @@
                 "z"
             ]
         },
-        "portal_axis": {
-            "serializationName": "portal_axis",
-            "valueType": "ENUM",
-            "values": [
-                "unknown",
-                "x",
-                "z"
-            ]
-        },
         "powered_bit": {
             "serializationName": "powered_bit",
             "valueType": "BOOLEAN",
@@ -1049,17 +863,6 @@
                 "bricks",
                 "dark",
                 "default"
-            ]
-        },
-        "propagule_stage": {
-            "serializationName": "propagule_stage",
-            "valueType": "INTEGER",
-            "values": [
-                0,
-                1,
-                2,
-                3,
-                4
             ]
         },
         "rail_data_bit": {
@@ -1334,14 +1137,6 @@
                 "void"
             ]
         },
-        "suspended_bit": {
-            "serializationName": "suspended_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
-            ]
-        },
         "tall_grass_type": {
             "serializationName": "tall_grass_type",
             "valueType": "ENUM",
@@ -1350,14 +1145,6 @@
                 "fern",
                 "snow",
                 "tall"
-            ]
-        },
-        "toggle_bit": {
-            "serializationName": "toggle_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
             ]
         },
         "top_slot_bit": {
@@ -1378,24 +1165,6 @@
                 "top",
                 "unknown",
                 "west"
-            ]
-        },
-        "triggered_bit": {
-            "serializationName": "triggered_bit",
-            "valueType": "BOOLEAN",
-            "values": [
-                false,
-                true
-            ]
-        },
-        "turtle_egg_count": {
-            "serializationName": "turtle_egg_count",
-            "valueType": "ENUM",
-            "values": [
-                "four_egg",
-                "one_egg",
-                "three_egg",
-                "two_egg"
             ]
         },
         "twisting_vines_age": {
@@ -1599,9 +1368,6 @@
         "minecraft:activator_rail": {
             "rail_direction": "rail_direction_6"
         },
-        "minecraft:cactus": {
-            "age": "age_16"
-        },
         "minecraft:chorus_flower": {
             "age": "age_6"
         },
@@ -1619,9 +1385,6 @@
         },
         "minecraft:golden_rail": {
             "rail_direction": "rail_direction_6"
-        },
-        "minecraft:nether_wart": {
-            "age": "age_4"
         },
         "minecraft:rail": {
             "rail_direction": "rail_direction_10"
