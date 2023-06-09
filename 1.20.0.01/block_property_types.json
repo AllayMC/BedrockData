@@ -852,7 +852,7 @@
                 true
             ]
         },
-        "minecraft:cardinal_direction": {
+        "minecraft_cardinal_direction": {
             "serializationName": "minecraft:cardinal_direction",
             "valueType": "ENUM",
             "values": [
