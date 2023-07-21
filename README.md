@@ -49,6 +49,10 @@ All the vanilla block property type extracted from BDS. Including the value type
 
 Vanilla biomes' name & id & type
 
+## 10. creative_items_snbt.json
+
+Creative player's inventory dumping from BDS
+
 ### Want to generate these files by yourself?
 
 You can use this tool [DataExtractor](https://github.com/AllayMC/DataExtractor)
