@@ -13,13 +13,13 @@ Contains aabb, hardness, resistance, friction ... for each ```block state```.
 
 Item data extracted from BDS.
 
-## 3. block_palette.json
+## 3. block_palette.snbt
 
 Block palette table extracted from BDS. 
 
 Similar to https://github.com/CloudburstMC/Data/blob/master/block_palette.nbt
 
-## 4. biome_definitions.json
+## 4. biome_definitions.snbt
 
 Biome definitions extracted from BDS.
 
@@ -49,7 +49,7 @@ All the vanilla block property type extracted from BDS. Including the value type
 
 Vanilla biomes' name & id & type
 
-## 10. creative_items_snbt.json
+## 10. creative_items.snbt
 
 Creative player's inventory dumping from BDS
 
