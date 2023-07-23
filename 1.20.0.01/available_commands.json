@@ -3047,19 +3047,12 @@
         "in_elastic",
         "out_elastic",
         "in_out_elastic",
-        "set",
-        "ease",
-        "pos",
-        "rot",
-        "clear",
-        "fade",
-        "time",
-        "color",
         "add",
         "stop",
         "positional",
         "rotational",
         "camerashake",
+        "clear",
         "clearspawnpoint",
         "replace",
         "masked",
@@ -3202,6 +3195,7 @@
         "runset",
         "runsetuntilfail",
         "clearall",
+        "pos",
         "create",
         "runthese",
         "stopall",
@@ -3210,6 +3204,7 @@
         "give",
         "help",
         "?",
+        "set",
         "query",
         "inputpermission",
         "kick",
@@ -3315,6 +3310,7 @@
         "sunset",
         "night",
         "midnight",
+        "time",
         "title",
         "subtitle",
         "actionbar",
@@ -3327,8 +3323,6 @@
         "wsserver",
         "connect",
         "xp",
-        "volumearea",
-        "scriptevent",
         "up",
         "down",
         "forward",
@@ -3411,7 +3405,7 @@
                 [
                     {
                         "description": "operation",
-                        "sym": 3145928
+                        "sym": 3145914
                     },
                     {
                         "description": "addonName",
@@ -3421,7 +3415,7 @@
                 [
                     {
                         "description": "operation",
-                        "sym": 3145928
+                        "sym": 3145914
                     },
                     {
                         "description": "addonIndex",
@@ -3431,7 +3425,7 @@
                 [
                     {
                         "description": "operation",
-                        "sym": 3145929
+                        "sym": 3145915
                     },
                     {
                         "description": "addonName",
@@ -3441,7 +3435,7 @@
                 [
                     {
                         "description": "operation",
-                        "sym": 3145930
+                        "sym": 3145916
                     },
                     {
                         "description": "addonName",
@@ -3451,7 +3445,7 @@
                 [
                     {
                         "description": "operation",
-                        "sym": 3145930
+                        "sym": 3145916
                     },
                     {
                         "description": "addonIndex",
@@ -3462,7 +3456,7 @@
             "perm": 1
         },
         {
-            "aliasIndex": 197,
+            "aliasIndex": 183,
             "description": "commands.allowlist.description",
             "flag": 128,
             "name": "allowlist",
@@ -3470,7 +3464,7 @@
                 [
                     {
                         "description": "action",
-                        "sym": 3145924
+                        "sym": 3145910
                     },
                     {
                         "description": "name",
@@ -3482,377 +3476,6 @@
         },
         {
             "aliasIndex": -1,
-            "description": "commands.camera.description",
-            "flag": 128,
-            "name": "camera",
-            "overloads": [
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "set",
-                        "sym": 3145749
-                    },
-                    {
-                        "description": "preset",
-                        "sym": 68157445
-                    },
-                    {
-                        "description": "ease",
-                        "sym": 3145750
-                    },
-                    {
-                        "description": "easeTime",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "easeType",
-                        "sym": 3145748
-                    },
-                    {
-                        "description": "pos",
-                        "sym": 3145751
-                    },
-                    {
-                        "description": "position",
-                        "sym": 1048629
-                    },
-                    {
-                        "description": "rot",
-                        "sym": 3145752
-                    },
-                    {
-                        "description": "xRot",
-                        "sym": 1048580
-                    },
-                    {
-                        "description": "yRot",
-                        "sym": 1048580
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "set",
-                        "sym": 3145749
-                    },
-                    {
-                        "description": "preset",
-                        "sym": 68157445
-                    },
-                    {
-                        "description": "ease",
-                        "sym": 3145750
-                    },
-                    {
-                        "description": "easeTime",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "easeType",
-                        "sym": 3145748
-                    },
-                    {
-                        "description": "pos",
-                        "sym": 3145751
-                    },
-                    {
-                        "description": "position",
-                        "sym": 1048629
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "set",
-                        "sym": 3145749
-                    },
-                    {
-                        "description": "preset",
-                        "sym": 68157445
-                    },
-                    {
-                        "description": "ease",
-                        "sym": 3145750
-                    },
-                    {
-                        "description": "easeTime",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "easeType",
-                        "sym": 3145748
-                    },
-                    {
-                        "description": "rot",
-                        "sym": 3145752
-                    },
-                    {
-                        "description": "xRot",
-                        "sym": 1048580
-                    },
-                    {
-                        "description": "yRot",
-                        "sym": 1048580
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "set",
-                        "sym": 3145749
-                    },
-                    {
-                        "description": "preset",
-                        "sym": 68157445
-                    },
-                    {
-                        "description": "ease",
-                        "sym": 3145750
-                    },
-                    {
-                        "description": "easeTime",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "easeType",
-                        "sym": 3145748
-                    },
-                    {
-                        "description": "default",
-                        "sym": 3145753
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "set",
-                        "sym": 3145749
-                    },
-                    {
-                        "description": "preset",
-                        "sym": 68157445
-                    },
-                    {
-                        "description": "pos",
-                        "sym": 3145751
-                    },
-                    {
-                        "description": "position",
-                        "sym": 1048629
-                    },
-                    {
-                        "description": "rot",
-                        "sym": 3145752
-                    },
-                    {
-                        "description": "xRot",
-                        "sym": 1048580
-                    },
-                    {
-                        "description": "yRot",
-                        "sym": 1048580
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "set",
-                        "sym": 3145749
-                    },
-                    {
-                        "description": "preset",
-                        "sym": 68157445
-                    },
-                    {
-                        "description": "pos",
-                        "sym": 3145751
-                    },
-                    {
-                        "description": "position",
-                        "sym": 1048629
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "set",
-                        "sym": 3145749
-                    },
-                    {
-                        "description": "preset",
-                        "sym": 68157445
-                    },
-                    {
-                        "description": "rot",
-                        "sym": 3145752
-                    },
-                    {
-                        "description": "xRot",
-                        "sym": 1048580
-                    },
-                    {
-                        "description": "yRot",
-                        "sym": 1048580
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "set",
-                        "sym": 3145749
-                    },
-                    {
-                        "description": "preset",
-                        "sym": 68157445
-                    },
-                    {
-                        "description": "default",
-                        "sym": 3145753
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "clear",
-                        "sym": 3145754
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "fade",
-                        "sym": 3145755
-                    },
-                    {
-                        "description": "time",
-                        "sym": 3145756
-                    },
-                    {
-                        "description": "fadeInSeconds",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "holdSeconds",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "fadeOutSeconds",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "color",
-                        "sym": 3145757
-                    },
-                    {
-                        "description": "red",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "green",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "blue",
-                        "sym": 1048579
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "fade",
-                        "sym": 3145755
-                    },
-                    {
-                        "description": "time",
-                        "sym": 3145756
-                    },
-                    {
-                        "description": "fadeInSeconds",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "holdSeconds",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "fadeOutSeconds",
-                        "sym": 1048579
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "fade",
-                        "sym": 3145755
-                    },
-                    {
-                        "description": "color",
-                        "sym": 3145757
-                    },
-                    {
-                        "description": "red",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "green",
-                        "sym": 1048579
-                    },
-                    {
-                        "description": "blue",
-                        "sym": 1048579
-                    }
-                ],
-                [
-                    {
-                        "description": "players",
-                        "sym": 1048584
-                    },
-                    {
-                        "description": "fade",
-                        "sym": 3145755
-                    }
-                ]
-            ],
-            "perm": 1
-        },
-        {
-            "aliasIndex": -1,
             "description": "commands.screenshake.description",
             "flag": 128,
             "name": "camerashake",
@@ -3860,7 +3483,7 @@
                 [
                     {
                         "description": "action",
-                        "sym": 3145759
+                        "sym": 3145749
                     },
                     {
                         "description": "player",
@@ -3876,13 +3499,13 @@
                     },
                     {
                         "description": "shakeType",
-                        "sym": 3145761
+                        "sym": 3145751
                     }
                 ],
                 [
                     {
                         "description": "action",
-                        "sym": 3145760
+                        "sym": 3145750
                     },
                     {
                         "description": "player",
@@ -3901,7 +3524,7 @@
                 [
                     {
                         "description": "setting",
-                        "sym": 3145926
+                        "sym": 3145912
                     },
                     {
                         "description": "value",
@@ -3911,17 +3534,17 @@
                 [
                     {
                         "description": "setting",
-                        "sym": 3145927
+                        "sym": 3145913
                     },
                     {
                         "description": "value",
-                        "sym": 3145770
+                        "sym": 3145761
                     }
                 ],
                 [
                     {
                         "description": "setting",
-                        "sym": 3145927
+                        "sym": 3145913
                     },
                     {
                         "description": "value",
@@ -3994,11 +3617,11 @@
                     },
                     {
                         "description": "maskMode",
-                        "sym": 3145762
+                        "sym": 3145753
                     },
                     {
                         "description": "cloneMode",
-                        "sym": 3145764
+                        "sym": 3145755
                     }
                 ],
                 [
@@ -4016,11 +3639,11 @@
                     },
                     {
                         "description": "maskMode",
-                        "sym": 3145763
+                        "sym": 3145754
                     },
                     {
                         "description": "cloneMode",
-                        "sym": 3145764
+                        "sym": 3145755
                     },
                     {
                         "description": "tileName",
@@ -4051,7 +3674,7 @@
                     },
                     {
                         "description": "cause",
-                        "sym": 3145765
+                        "sym": 3145756
                     }
                 ],
                 [
@@ -4065,11 +3688,11 @@
                     },
                     {
                         "description": "cause",
-                        "sym": 3145765
+                        "sym": 3145756
                     },
                     {
                         "description": "origin",
-                        "sym": 3145766
+                        "sym": 3145757
                     },
                     {
                         "description": "damager",
@@ -4080,7 +3703,7 @@
             "perm": 1
         },
         {
-            "aliasIndex": 39,
+            "aliasIndex": 30,
             "description": "commands.daylock.description",
             "flag": 128,
             "name": "daylock",
@@ -4118,7 +3741,7 @@
                 [
                     {
                         "description": "open",
-                        "sym": 3145768
+                        "sym": 3145759
                     },
                     {
                         "description": "npc",
@@ -4136,7 +3759,7 @@
                 [
                     {
                         "description": "change",
-                        "sym": 3145769
+                        "sym": 3145760
                     },
                     {
                         "description": "npc",
@@ -4163,7 +3786,7 @@
                 [
                     {
                         "description": "difficulty",
-                        "sym": 3145770
+                        "sym": 3145761
                     }
                 ],
                 [
@@ -4188,7 +3811,7 @@
                     },
                     {
                         "description": "clear",
-                        "sym": 3145771
+                        "sym": 3145762
                     }
                 ],
                 [
@@ -4198,7 +3821,7 @@
                     },
                     {
                         "description": "effect",
-                        "sym": 3145772
+                        "sym": 3145763
                     },
                     {
                         "description": "seconds",
@@ -4262,7 +3885,7 @@
                 [
                     {
                         "description": "entity",
-                        "sym": 3145773
+                        "sym": 3145764
                     },
                     {
                         "description": "target",
@@ -4285,7 +3908,7 @@
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145775
+                        "sym": 3145766
                     },
                     {
                         "description": "origin",
@@ -4293,13 +3916,13 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145776
+                        "sym": 3145767
                     },
                     {
                         "description": "origin",
@@ -4307,13 +3930,13 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145777
+                        "sym": 3145768
                     },
                     {
                         "description": "dimension",
@@ -4321,13 +3944,13 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145778
+                        "sym": 3145769
                     },
                     {
                         "description": "position",
@@ -4335,17 +3958,17 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145778
+                        "sym": 3145769
                     },
                     {
                         "description": "secondary subcommand",
-                        "sym": 3145775
+                        "sym": 3145766
                     },
                     {
                         "description": "origin",
@@ -4353,13 +3976,13 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145779
+                        "sym": 3145770
                     },
                     {
                         "description": "yaw",
@@ -4371,17 +3994,17 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145779
+                        "sym": 3145770
                     },
                     {
                         "description": "secondary subcommand",
-                        "sym": 3145775
+                        "sym": 3145766
                     },
                     {
                         "description": "origin",
@@ -4389,13 +4012,13 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145780
+                        "sym": 3145771
                     },
                     {
                         "description": "position",
@@ -4403,17 +4026,17 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145780
+                        "sym": 3145771
                     },
                     {
                         "description": "secondary subcommand",
-                        "sym": 3145781
+                        "sym": 3145772
                     },
                     {
                         "description": "origin",
@@ -4421,17 +4044,17 @@
                     },
                     {
                         "description": "anchor",
-                        "sym": 3145791
+                        "sym": 3145782
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145782
+                        "sym": 3145773
                     },
                     {
                         "description": "axes",
@@ -4439,31 +4062,31 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145783
+                        "sym": 3145774
                     },
                     {
                         "description": "anchored",
-                        "sym": 3145791
+                        "sym": 3145782
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145784
+                        "sym": 3145775
                     },
                     {
                         "description": "secondary subcommand",
-                        "sym": 3145785
+                        "sym": 3145776
                     },
                     {
                         "description": "position",
@@ -4475,17 +4098,17 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145784
+                        "sym": 3145775
                     },
                     {
                         "description": "secondary subcommand",
-                        "sym": 3145785
+                        "sym": 3145776
                     },
                     {
                         "description": "position",
@@ -4501,17 +4124,17 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145784
+                        "sym": 3145775
                     },
                     {
                         "description": "secondary subcommand",
-                        "sym": 3145786
+                        "sym": 3145777
                     },
                     {
                         "description": "begin",
@@ -4527,21 +4150,21 @@
                     },
                     {
                         "description": "scan mode",
-                        "sym": 3145792
+                        "sym": 3145783
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145784
+                        "sym": 3145775
                     },
                     {
                         "description": "secondary subcommand",
-                        "sym": 3145787
+                        "sym": 3145778
                     },
                     {
                         "description": "target",
@@ -4549,17 +4172,17 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145784
+                        "sym": 3145775
                     },
                     {
                         "description": "secondary subcommand",
-                        "sym": 3145788
+                        "sym": 3145779
                     },
                     {
                         "description": "target",
@@ -4583,17 +4206,17 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145784
+                        "sym": 3145775
                     },
                     {
                         "description": "secondary subcommand",
-                        "sym": 3145788
+                        "sym": 3145779
                     },
                     {
                         "description": "target",
@@ -4605,7 +4228,7 @@
                     },
                     {
                         "description": "matches",
-                        "sym": 3145793
+                        "sym": 3145784
                     },
                     {
                         "description": "range",
@@ -4613,13 +4236,13 @@
                     },
                     {
                         "description": "chainedCommand",
-                        "sym": 3145790
+                        "sym": 3145781
                     }
                 ],
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145789
+                        "sym": 3145780
                     },
                     {
                         "description": "command",
@@ -4664,7 +4287,7 @@
                     },
                     {
                         "description": "oldBlockHandling",
-                        "sym": 3145794
+                        "sym": 3145785
                     }
                 ],
                 [
@@ -4682,7 +4305,7 @@
                     },
                     {
                         "description": "oldBlockHandling",
-                        "sym": 3145794
+                        "sym": 3145785
                     }
                 ],
                 [
@@ -4704,7 +4327,7 @@
                     },
                     {
                         "description": "oldBlockHandling",
-                        "sym": 3145795
+                        "sym": 3145786
                     },
                     {
                         "description": "replaceTileName",
@@ -4730,7 +4353,7 @@
                     },
                     {
                         "description": "oldBlockHandling",
-                        "sym": 3145795
+                        "sym": 3145786
                     },
                     {
                         "description": "replaceTileName",
@@ -4757,7 +4380,7 @@
                     },
                     {
                         "description": "mode",
-                        "sym": 3145796
+                        "sym": 3145787
                     },
                     {
                         "description": "fogId",
@@ -4775,7 +4398,7 @@
                     },
                     {
                         "description": "mode",
-                        "sym": 3145797
+                        "sym": 3145788
                     },
                     {
                         "description": "userProvidedId",
@@ -4839,7 +4462,7 @@
                 [
                     {
                         "description": "rule",
-                        "sym": 3145798
+                        "sym": 3145789
                     },
                     {
                         "description": "value",
@@ -4849,7 +4472,7 @@
                 [
                     {
                         "description": "rule",
-                        "sym": 3145799
+                        "sym": 3145790
                     },
                     {
                         "description": "value",
@@ -4868,13 +4491,13 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145801
+                        "sym": 3145792
                     }
                 ],
                 [
                     {
                         "description": "mode",
-                        "sym": 3145800
+                        "sym": 3145791
                     },
                     {
                         "description": "testName",
@@ -4888,7 +4511,7 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145800
+                        "sym": 3145791
                     },
                     {
                         "description": "testName",
@@ -4910,7 +4533,7 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145802
+                        "sym": 3145793
                     },
                     {
                         "description": "tag",
@@ -4924,7 +4547,7 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145803
+                        "sym": 3145794
                     },
                     {
                         "description": "tag",
@@ -4938,19 +4561,19 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145804
+                        "sym": 3145795
                     }
                 ],
                 [
                     {
                         "description": "mode",
-                        "sym": 3145805
+                        "sym": 3145796
                     }
                 ],
                 [
                     {
                         "description": "mode",
-                        "sym": 3145806
+                        "sym": 3145797
                     },
                     {
                         "description": "testName",
@@ -4972,13 +4595,13 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145807
+                        "sym": 3145798
                     }
                 ],
                 [
                     {
                         "description": "mode",
-                        "sym": 3145808
+                        "sym": 3145799
                     }
                 ]
             ],
@@ -5024,7 +4647,7 @@
                 [
                     {
                         "description": "option",
-                        "sym": 3145810
+                        "sym": 3145801
                     },
                     {
                         "description": "targets",
@@ -5032,17 +4655,17 @@
                     },
                     {
                         "description": "permission",
-                        "sym": 3145812
+                        "sym": 3145803
                     },
                     {
                         "description": "state",
-                        "sym": 3145813
+                        "sym": 3145804
                     }
                 ],
                 [
                     {
                         "description": "option",
-                        "sym": 3145811
+                        "sym": 3145802
                     },
                     {
                         "description": "targets",
@@ -5050,11 +4673,11 @@
                     },
                     {
                         "description": "permission",
-                        "sym": 3145812
+                        "sym": 3145803
                     },
                     {
                         "description": "state",
-                        "sym": 3145813
+                        "sym": 3145804
                     }
                 ]
             ],
@@ -5113,17 +4736,17 @@
                 [
                     {
                         "description": "Operation",
-                        "sym": 3145948
+                        "sym": 3145934
                     }
                 ],
                 [
                     {
                         "description": "Operation",
-                        "sym": 3145949
+                        "sym": 3145935
                     },
                     {
                         "description": "SettingsOperation",
-                        "sym": 3145950
+                        "sym": 3145936
                     },
                     {
                         "description": "JsonPointer",
@@ -5137,7 +4760,7 @@
                 [
                     {
                         "description": "Operation",
-                        "sym": 3145951
+                        "sym": 3145937
                     },
                     {
                         "description": "pluginPath",
@@ -5147,7 +4770,7 @@
                 [
                     {
                         "description": "Operation",
-                        "sym": 3145952
+                        "sym": 3145938
                     },
                     {
                         "description": "pluginName",
@@ -5157,7 +4780,7 @@
                 [
                     {
                         "description": "Operation",
-                        "sym": 3145953
+                        "sym": 3145939
                     },
                     {
                         "description": "pluginName",
@@ -5176,7 +4799,7 @@
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145815
+                        "sym": 3145806
                     },
                     {
                         "description": "structure",
@@ -5190,7 +4813,7 @@
                 [
                     {
                         "description": "subcommand",
-                        "sym": 3145816
+                        "sym": 3145807
                     },
                     {
                         "description": "biome",
@@ -5209,7 +4832,7 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145817
+                        "sym": 3145808
                     },
                     {
                         "description": "position",
@@ -5217,7 +4840,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145823
+                        "sym": 3145814
                     },
                     {
                         "description": "loot_table",
@@ -5231,7 +4854,7 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145817
+                        "sym": 3145808
                     },
                     {
                         "description": "position",
@@ -5239,7 +4862,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145824
+                        "sym": 3145815
                     },
                     {
                         "description": "entity",
@@ -5253,7 +4876,7 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145818
+                        "sym": 3145809
                     },
                     {
                         "description": "players",
@@ -5261,7 +4884,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145823
+                        "sym": 3145814
                     },
                     {
                         "description": "loot_table",
@@ -5275,7 +4898,7 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145818
+                        "sym": 3145809
                     },
                     {
                         "description": "players",
@@ -5283,7 +4906,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145824
+                        "sym": 3145815
                     },
                     {
                         "description": "entity",
@@ -5297,7 +4920,7 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145819
+                        "sym": 3145810
                     },
                     {
                         "description": "position",
@@ -5305,7 +4928,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145823
+                        "sym": 3145814
                     },
                     {
                         "description": "loot_table",
@@ -5319,7 +4942,7 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145819
+                        "sym": 3145810
                     },
                     {
                         "description": "position",
@@ -5327,7 +4950,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145824
+                        "sym": 3145815
                     },
                     {
                         "description": "entity",
@@ -5341,11 +4964,11 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145820
+                        "sym": 3145811
                     },
                     {
                         "description": "entity",
-                        "sym": 3145821
+                        "sym": 3145812
                     },
                     {
                         "description": "entity",
@@ -5365,7 +4988,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145823
+                        "sym": 3145814
                     },
                     {
                         "description": "loot_table",
@@ -5379,11 +5002,11 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145820
+                        "sym": 3145811
                     },
                     {
                         "description": "entity",
-                        "sym": 3145821
+                        "sym": 3145812
                     },
                     {
                         "description": "entity",
@@ -5399,7 +5022,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145823
+                        "sym": 3145814
                     },
                     {
                         "description": "loot_table",
@@ -5413,11 +5036,11 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145820
+                        "sym": 3145811
                     },
                     {
                         "description": "entity",
-                        "sym": 3145821
+                        "sym": 3145812
                     },
                     {
                         "description": "entity",
@@ -5437,7 +5060,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145824
+                        "sym": 3145815
                     },
                     {
                         "description": "entity",
@@ -5451,11 +5074,11 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145820
+                        "sym": 3145811
                     },
                     {
                         "description": "entity",
-                        "sym": 3145821
+                        "sym": 3145812
                     },
                     {
                         "description": "entity",
@@ -5471,7 +5094,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145824
+                        "sym": 3145815
                     },
                     {
                         "description": "entity",
@@ -5485,11 +5108,11 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145820
+                        "sym": 3145811
                     },
                     {
                         "description": "block",
-                        "sym": 3145822
+                        "sym": 3145813
                     },
                     {
                         "description": "position",
@@ -5497,7 +5120,7 @@
                     },
                     {
                         "description": "slotType",
-                        "sym": 3145825
+                        "sym": 3145816
                     },
                     {
                         "description": "slotId",
@@ -5509,7 +5132,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145823
+                        "sym": 3145814
                     },
                     {
                         "description": "loot_table",
@@ -5523,11 +5146,11 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145820
+                        "sym": 3145811
                     },
                     {
                         "description": "block",
-                        "sym": 3145822
+                        "sym": 3145813
                     },
                     {
                         "description": "position",
@@ -5535,7 +5158,7 @@
                     },
                     {
                         "description": "slotType",
-                        "sym": 3145825
+                        "sym": 3145816
                     },
                     {
                         "description": "slotId",
@@ -5543,7 +5166,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145823
+                        "sym": 3145814
                     },
                     {
                         "description": "loot_table",
@@ -5557,11 +5180,11 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145820
+                        "sym": 3145811
                     },
                     {
                         "description": "block",
-                        "sym": 3145822
+                        "sym": 3145813
                     },
                     {
                         "description": "position",
@@ -5569,7 +5192,7 @@
                     },
                     {
                         "description": "slotType",
-                        "sym": 3145825
+                        "sym": 3145816
                     },
                     {
                         "description": "slotId",
@@ -5581,7 +5204,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145824
+                        "sym": 3145815
                     },
                     {
                         "description": "entity",
@@ -5595,11 +5218,11 @@
                 [
                     {
                         "description": "target",
-                        "sym": 3145820
+                        "sym": 3145811
                     },
                     {
                         "description": "block",
-                        "sym": 3145822
+                        "sym": 3145813
                     },
                     {
                         "description": "position",
@@ -5607,7 +5230,7 @@
                     },
                     {
                         "description": "slotType",
-                        "sym": 3145825
+                        "sym": 3145816
                     },
                     {
                         "description": "slotId",
@@ -5615,7 +5238,7 @@
                     },
                     {
                         "description": "source",
-                        "sym": 3145824
+                        "sym": 3145815
                     },
                     {
                         "description": "entity",
@@ -5653,7 +5276,7 @@
                 [
                     {
                         "description": "event",
-                        "sym": 3145826
+                        "sym": 3145817
                     },
                     {
                         "description": "value",
@@ -5672,7 +5295,7 @@
                 [
                     {
                         "description": "optional",
-                        "sym": 3145931
+                        "sym": 3145917
                     },
                     {
                         "description": "PlayerName",
@@ -5682,7 +5305,7 @@
                 [
                     {
                         "description": "optional",
-                        "sym": 3145932
+                        "sym": 3145918
                     },
                     {
                         "description": "PlayerName",
@@ -5696,7 +5319,7 @@
                 [
                     {
                         "description": "optional",
-                        "sym": 3145933
+                        "sym": 3145919
                     },
                     {
                         "description": "time",
@@ -5715,7 +5338,7 @@
                 [
                     {
                         "description": "optional",
-                        "sym": 3145931
+                        "sym": 3145917
                     },
                     {
                         "description": "PlayerName",
@@ -5725,7 +5348,7 @@
                 [
                     {
                         "description": "optional",
-                        "sym": 3145932
+                        "sym": 3145918
                     },
                     {
                         "description": "PlayerName",
@@ -5748,7 +5371,7 @@
                 [
                     {
                         "description": "action",
-                        "sym": 3145827
+                        "sym": 3145818
                     },
                     {
                         "description": "trackName",
@@ -5764,13 +5387,13 @@
                     },
                     {
                         "description": "repeatMode",
-                        "sym": 3145831
+                        "sym": 3145822
                     }
                 ],
                 [
                     {
                         "description": "action",
-                        "sym": 3145828
+                        "sym": 3145819
                     },
                     {
                         "description": "trackName",
@@ -5786,13 +5409,13 @@
                     },
                     {
                         "description": "repeatMode",
-                        "sym": 3145831
+                        "sym": 3145822
                     }
                 ],
                 [
                     {
                         "description": "action",
-                        "sym": 3145829
+                        "sym": 3145820
                     },
                     {
                         "description": "fadeSeconds",
@@ -5802,7 +5425,7 @@
                 [
                     {
                         "description": "action",
-                        "sym": 3145830
+                        "sym": 3145821
                     },
                     {
                         "description": "volume",
@@ -5856,11 +5479,11 @@
                 [
                     {
                         "description": "Create",
-                        "sym": 3145934
+                        "sym": 3145920
                     },
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -5878,11 +5501,11 @@
                 [
                     {
                         "description": "Create",
-                        "sym": 3145934
+                        "sym": 3145920
                     },
                     {
                         "description": "Permission1",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name1",
@@ -5896,11 +5519,11 @@
                 [
                     {
                         "description": "Delete",
-                        "sym": 3145935
+                        "sym": 3145921
                     },
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -5910,11 +5533,11 @@
                 [
                     {
                         "description": "Delete",
-                        "sym": 3145935
+                        "sym": 3145921
                     },
                     {
                         "description": "Permission1",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name1",
@@ -5924,11 +5547,11 @@
                 [
                     {
                         "description": "Update",
-                        "sym": 3145936
+                        "sym": 3145922
                     },
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -5936,11 +5559,11 @@
                     },
                     {
                         "description": "Add",
-                        "sym": 3145939
+                        "sym": 3145925
                     },
                     {
                         "description": "Member2",
-                        "sym": 3145946
+                        "sym": 3145932
                     },
                     {
                         "description": "name2",
@@ -5950,11 +5573,11 @@
                 [
                     {
                         "description": "Update",
-                        "sym": 3145936
+                        "sym": 3145922
                     },
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -5962,11 +5585,11 @@
                     },
                     {
                         "description": "Remove",
-                        "sym": 3145941
+                        "sym": 3145927
                     },
                     {
                         "description": "Member2",
-                        "sym": 3145946
+                        "sym": 3145932
                     },
                     {
                         "description": "name2",
@@ -5976,11 +5599,11 @@
                 [
                     {
                         "description": "Update",
-                        "sym": 3145936
+                        "sym": 3145922
                     },
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -5988,11 +5611,11 @@
                     },
                     {
                         "description": "Add",
-                        "sym": 3145939
+                        "sym": 3145925
                     },
                     {
                         "description": "Permission2",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name2",
@@ -6010,11 +5633,11 @@
                 [
                     {
                         "description": "Update",
-                        "sym": 3145936
+                        "sym": 3145922
                     },
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6022,11 +5645,11 @@
                     },
                     {
                         "description": "Set",
-                        "sym": 3145940
+                        "sym": 3145926
                     },
                     {
                         "description": "Permission2",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name2",
@@ -6044,11 +5667,11 @@
                 [
                     {
                         "description": "Update",
-                        "sym": 3145936
+                        "sym": 3145922
                     },
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6056,11 +5679,11 @@
                     },
                     {
                         "description": "Remove",
-                        "sym": 3145941
+                        "sym": 3145927
                     },
                     {
                         "description": "Permission2",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name2",
@@ -6070,11 +5693,11 @@
                 [
                     {
                         "description": "Update",
-                        "sym": 3145936
+                        "sym": 3145922
                     },
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6082,11 +5705,11 @@
                     },
                     {
                         "description": "Set",
-                        "sym": 3145940
+                        "sym": 3145926
                     },
                     {
                         "description": "Priority2",
-                        "sym": 3145945
+                        "sym": 3145931
                     },
                     {
                         "description": "priority",
@@ -6096,11 +5719,11 @@
                 [
                     {
                         "description": "Update",
-                        "sym": 3145936
+                        "sym": 3145922
                     },
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6108,11 +5731,11 @@
                     },
                     {
                         "description": "Set",
-                        "sym": 3145940
+                        "sym": 3145926
                     },
                     {
                         "description": "DisplayName2",
-                        "sym": 3145947
+                        "sym": 3145933
                     },
                     {
                         "description": "display name",
@@ -6122,11 +5745,11 @@
                 [
                     {
                         "description": "Update",
-                        "sym": 3145936
+                        "sym": 3145922
                     },
                     {
                         "description": "Player1",
-                        "sym": 3145944
+                        "sym": 3145930
                     },
                     {
                         "description": "name1",
@@ -6134,11 +5757,11 @@
                     },
                     {
                         "description": "Add",
-                        "sym": 3145939
+                        "sym": 3145925
                     },
                     {
                         "description": "Role2",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name2",
@@ -6148,11 +5771,11 @@
                 [
                     {
                         "description": "Update",
-                        "sym": 3145936
+                        "sym": 3145922
                     },
                     {
                         "description": "Player1",
-                        "sym": 3145944
+                        "sym": 3145930
                     },
                     {
                         "description": "name1",
@@ -6160,11 +5783,11 @@
                     },
                     {
                         "description": "Remove",
-                        "sym": 3145941
+                        "sym": 3145927
                     },
                     {
                         "description": "Role2",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name2",
@@ -6174,11 +5797,11 @@
                 [
                     {
                         "description": "View",
-                        "sym": 3145937
+                        "sym": 3145923
                     },
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6188,11 +5811,11 @@
                 [
                     {
                         "description": "View",
-                        "sym": 3145937
+                        "sym": 3145923
                     },
                     {
                         "description": "Permission1",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name1",
@@ -6202,11 +5825,11 @@
                 [
                     {
                         "description": "View",
-                        "sym": 3145937
+                        "sym": 3145923
                     },
                     {
                         "description": "Player1",
-                        "sym": 3145944
+                        "sym": 3145930
                     },
                     {
                         "description": "name1",
@@ -6216,31 +5839,31 @@
                 [
                     {
                         "description": "List",
-                        "sym": 3145938
+                        "sym": 3145924
                     },
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     }
                 ],
                 [
                     {
                         "description": "List",
-                        "sym": 3145938
+                        "sym": 3145924
                     },
                     {
                         "description": "Permission1",
-                        "sym": 3145943
+                        "sym": 3145929
                     }
                 ],
                 [
                     {
                         "description": "Add",
-                        "sym": 3145939
+                        "sym": 3145925
                     },
                     {
                         "description": "Member2",
-                        "sym": 3145946
+                        "sym": 3145932
                     },
                     {
                         "description": "name1",
@@ -6254,11 +5877,11 @@
                 [
                     {
                         "description": "Remove",
-                        "sym": 3145941
+                        "sym": 3145927
                     },
                     {
                         "description": "Member2",
-                        "sym": 3145946
+                        "sym": 3145932
                     },
                     {
                         "description": "name1",
@@ -6272,11 +5895,11 @@
                 [
                     {
                         "description": "Add",
-                        "sym": 3145939
+                        "sym": 3145925
                     },
                     {
                         "description": "Permission2",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name1",
@@ -6298,11 +5921,11 @@
                 [
                     {
                         "description": "Remove",
-                        "sym": 3145941
+                        "sym": 3145927
                     },
                     {
                         "description": "Permission2",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name1",
@@ -6316,11 +5939,11 @@
                 [
                     {
                         "description": "Set",
-                        "sym": 3145940
+                        "sym": 3145926
                     },
                     {
                         "description": "Permission2",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name1",
@@ -6342,11 +5965,11 @@
                 [
                     {
                         "description": "Set",
-                        "sym": 3145940
+                        "sym": 3145926
                     },
                     {
                         "description": "Priority2",
-                        "sym": 3145945
+                        "sym": 3145931
                     },
                     {
                         "description": "name1",
@@ -6360,7 +5983,7 @@
                 [
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6370,7 +5993,7 @@
                 [
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6378,11 +6001,11 @@
                     },
                     {
                         "description": "Add",
-                        "sym": 3145939
+                        "sym": 3145925
                     },
                     {
                         "description": "Member2",
-                        "sym": 3145946
+                        "sym": 3145932
                     },
                     {
                         "description": "name2",
@@ -6392,7 +6015,7 @@
                 [
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6400,11 +6023,11 @@
                     },
                     {
                         "description": "Remove",
-                        "sym": 3145941
+                        "sym": 3145927
                     },
                     {
                         "description": "Member2",
-                        "sym": 3145946
+                        "sym": 3145932
                     },
                     {
                         "description": "name2",
@@ -6414,7 +6037,7 @@
                 [
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6422,11 +6045,11 @@
                     },
                     {
                         "description": "Add",
-                        "sym": 3145939
+                        "sym": 3145925
                     },
                     {
                         "description": "Permission2",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name2",
@@ -6444,7 +6067,7 @@
                 [
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6452,11 +6075,11 @@
                     },
                     {
                         "description": "Add",
-                        "sym": 3145939
+                        "sym": 3145925
                     },
                     {
                         "description": "Permission2",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name2",
@@ -6466,7 +6089,7 @@
                 [
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6474,11 +6097,11 @@
                     },
                     {
                         "description": "Set",
-                        "sym": 3145940
+                        "sym": 3145926
                     },
                     {
                         "description": "Permission2",
-                        "sym": 3145943
+                        "sym": 3145929
                     },
                     {
                         "description": "name2",
@@ -6496,7 +6119,7 @@
                 [
                     {
                         "description": "Role1",
-                        "sym": 3145942
+                        "sym": 3145928
                     },
                     {
                         "description": "name1",
@@ -6504,11 +6127,11 @@
                     },
                     {
                         "description": "Set",
-                        "sym": 3145940
+                        "sym": 3145926
                     },
                     {
                         "description": "Priority2",
-                        "sym": 3145945
+                        "sym": 3145931
                     },
                     {
                         "description": "priority",
@@ -6519,7 +6142,7 @@
             "perm": 0
         },
         {
-            "aliasIndex": 106,
+            "aliasIndex": 97,
             "description": "commands.permissions.description",
             "flag": 128,
             "name": "permission",
@@ -6527,7 +6150,7 @@
                 [
                     {
                         "description": "action",
-                        "sym": 3145832
+                        "sym": 3145823
                     }
                 ]
             ],
@@ -6622,7 +6245,7 @@
                 [
                     {
                         "description": "block",
-                        "sym": 3145835
+                        "sym": 3145826
                     },
                     {
                         "description": "position",
@@ -6630,7 +6253,7 @@
                     },
                     {
                         "description": "slotType",
-                        "sym": 3145825
+                        "sym": 3145816
                     },
                     {
                         "description": "slotId",
@@ -6656,7 +6279,7 @@
                 [
                     {
                         "description": "entity",
-                        "sym": 3145836
+                        "sym": 3145827
                     },
                     {
                         "description": "target",
@@ -6690,7 +6313,7 @@
                 [
                     {
                         "description": "block",
-                        "sym": 3145835
+                        "sym": 3145826
                     },
                     {
                         "description": "position",
@@ -6698,7 +6321,7 @@
                     },
                     {
                         "description": "slotType",
-                        "sym": 3145825
+                        "sym": 3145816
                     },
                     {
                         "description": "slotId",
@@ -6706,7 +6329,7 @@
                     },
                     {
                         "description": "oldItemHandling",
-                        "sym": 3145837
+                        "sym": 3145828
                     },
                     {
                         "description": "itemName",
@@ -6728,7 +6351,7 @@
                 [
                     {
                         "description": "entity",
-                        "sym": 3145836
+                        "sym": 3145827
                     },
                     {
                         "description": "target",
@@ -6744,7 +6367,7 @@
                     },
                     {
                         "description": "oldItemHandling",
-                        "sym": 3145837
+                        "sym": 3145828
                     },
                     {
                         "description": "itemName",
@@ -6779,7 +6402,7 @@
                     },
                     {
                         "description": "mode",
-                        "sym": 3145838
+                        "sym": 3145829
                     },
                     {
                         "description": "ride",
@@ -6787,11 +6410,11 @@
                     },
                     {
                         "description": "teleportRules",
-                        "sym": 3145844
+                        "sym": 3145835
                     },
                     {
                         "description": "howToFill",
-                        "sym": 3145843
+                        "sym": 3145834
                     }
                 ],
                 [
@@ -6801,7 +6424,7 @@
                     },
                     {
                         "description": "mode",
-                        "sym": 3145839
+                        "sym": 3145830
                     }
                 ],
                 [
@@ -6811,7 +6434,7 @@
                     },
                     {
                         "description": "mode",
-                        "sym": 3145840
+                        "sym": 3145831
                     }
                 ],
                 [
@@ -6821,7 +6444,7 @@
                     },
                     {
                         "description": "mode",
-                        "sym": 3145841
+                        "sym": 3145832
                     },
                     {
                         "description": "entityType",
@@ -6843,7 +6466,7 @@
                     },
                     {
                         "description": "mode",
-                        "sym": 3145842
+                        "sym": 3145833
                     },
                     {
                         "description": "entityType",
@@ -6851,7 +6474,7 @@
                     },
                     {
                         "description": "rideRules",
-                        "sym": 3145845
+                        "sym": 3145836
                     },
                     {
                         "description": "spawnEvent",
@@ -6874,7 +6497,7 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145923
+                        "sym": 3145909
                     }
                 ]
             ],
@@ -6904,11 +6527,11 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145846
+                        "sym": 3145837
                     },
                     {
                         "description": "condition",
-                        "sym": 3145847
+                        "sym": 3145838
                     },
                     {
                         "description": "from",
@@ -6926,15 +6549,15 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145846
+                        "sym": 3145837
                     },
                     {
                         "description": "condition",
-                        "sym": 3145847
+                        "sym": 3145838
                     },
                     {
                         "description": "type",
-                        "sym": 3145848
+                        "sym": 3145839
                     },
                     {
                         "description": "center",
@@ -6952,15 +6575,15 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145846
+                        "sym": 3145837
                     },
                     {
                         "description": "condition",
-                        "sym": 3145847
+                        "sym": 3145838
                     },
                     {
                         "description": "type",
-                        "sym": 3145849
+                        "sym": 3145840
                     },
                     {
                         "description": "name",
@@ -6983,11 +6606,11 @@
                 [
                     {
                         "description": "category",
-                        "sym": 3145850
+                        "sym": 3145841
                     },
                     {
                         "description": "action",
-                        "sym": 3145852
+                        "sym": 3145843
                     },
                     {
                         "description": "objective",
@@ -6995,7 +6618,7 @@
                     },
                     {
                         "description": "criteria",
-                        "sym": 3145864
+                        "sym": 3145855
                     },
                     {
                         "description": "displayName",
@@ -7005,11 +6628,11 @@
                 [
                     {
                         "description": "category",
-                        "sym": 3145850
+                        "sym": 3145841
                     },
                     {
                         "description": "action",
-                        "sym": 3145853
+                        "sym": 3145844
                     },
                     {
                         "description": "objective",
@@ -7019,25 +6642,25 @@
                 [
                     {
                         "description": "category",
-                        "sym": 3145850
+                        "sym": 3145841
                     },
                     {
                         "description": "action",
-                        "sym": 3145856
+                        "sym": 3145847
                     }
                 ],
                 [
                     {
                         "description": "category",
-                        "sym": 3145850
+                        "sym": 3145841
                     },
                     {
                         "description": "action",
-                        "sym": 3145855
+                        "sym": 3145846
                     },
                     {
                         "description": "displaySlot",
-                        "sym": 3145862
+                        "sym": 3145853
                     },
                     {
                         "description": "objective",
@@ -7045,21 +6668,21 @@
                     },
                     {
                         "description": "sortOrder",
-                        "sym": 3145861
+                        "sym": 3145852
                     }
                 ],
                 [
                     {
                         "description": "category",
-                        "sym": 3145850
+                        "sym": 3145841
                     },
                     {
                         "description": "action",
-                        "sym": 3145855
+                        "sym": 3145846
                     },
                     {
                         "description": "displaySlot",
-                        "sym": 3145863
+                        "sym": 3145854
                     },
                     {
                         "description": "objective",
@@ -7069,11 +6692,11 @@
                 [
                     {
                         "description": "category",
-                        "sym": 3145851
+                        "sym": 3145842
                     },
                     {
                         "description": "action",
-                        "sym": 3145856
+                        "sym": 3145847
                     },
                     {
                         "description": "playername",
@@ -7083,11 +6706,11 @@
                 [
                     {
                         "description": "category",
-                        "sym": 3145851
+                        "sym": 3145842
                     },
                     {
                         "description": "action",
-                        "sym": 3145857
+                        "sym": 3145848
                     },
                     {
                         "description": "player",
@@ -7101,11 +6724,11 @@
                 [
                     {
                         "description": "category",
-                        "sym": 3145851
+                        "sym": 3145842
                     },
                     {
                         "description": "action",
-                        "sym": 3145858
+                        "sym": 3145849
                     },
                     {
                         "description": "player",
@@ -7127,11 +6750,11 @@
                 [
                     {
                         "description": "category",
-                        "sym": 3145851
+                        "sym": 3145842
                     },
                     {
                         "description": "action",
-                        "sym": 3145854
+                        "sym": 3145845
                     },
                     {
                         "description": "player",
@@ -7153,11 +6776,11 @@
                 [
                     {
                         "description": "category",
-                        "sym": 3145851
+                        "sym": 3145842
                     },
                     {
                         "description": "action",
-                        "sym": 3145859
+                        "sym": 3145850
                     },
                     {
                         "description": "player",
@@ -7175,11 +6798,11 @@
                 [
                     {
                         "description": "category",
-                        "sym": 3145851
+                        "sym": 3145842
                     },
                     {
                         "description": "action",
-                        "sym": 3145860
+                        "sym": 3145851
                     },
                     {
                         "description": "targetName",
@@ -7214,54 +6837,35 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145955
+                        "sym": 3145941
                     },
                     {
                         "description": "action",
-                        "sym": 3145956
+                        "sym": 3145942
                     }
                 ],
                 [
                     {
                         "description": "mode",
-                        "sym": 3145955
+                        "sym": 3145941
                     },
                     {
                         "description": "action",
-                        "sym": 3145957
+                        "sym": 3145943
                     }
                 ],
                 [
                     {
                         "description": "mode",
-                        "sym": 3145958
+                        "sym": 3145944
                     },
                     {
                         "description": "action",
-                        "sym": 3145959
+                        "sym": 3145945
                     }
                 ]
             ],
             "perm": 2
-        },
-        {
-            "aliasIndex": -1,
-            "description": "commands.scriptevent.description",
-            "flag": 128,
-            "name": "scriptevent",
-            "overloads": [
-                [
-                    {
-                        "description": "messageId",
-                        "sym": 1048620
-                    },
-                    {
-                        "description": "message",
-                        "sym": 1048632
-                    }
-                ]
-            ],
-            "perm": 1
         },
         {
             "aliasIndex": -1,
@@ -7284,7 +6888,7 @@
                     },
                     {
                         "description": "oldBlockHandling",
-                        "sym": 3145865
+                        "sym": 3145856
                     }
                 ],
                 [
@@ -7298,7 +6902,7 @@
                     },
                     {
                         "description": "oldBlockHandling",
-                        "sym": 3145865
+                        "sym": 3145856
                     }
                 ]
             ],
@@ -7422,7 +7026,7 @@
                 [
                     {
                         "description": "action",
-                        "sym": 3145866
+                        "sym": 3145857
                     },
                     {
                         "description": "name",
@@ -7438,13 +7042,13 @@
                     },
                     {
                         "description": "saveMode",
-                        "sym": 3145869
+                        "sym": 3145860
                     }
                 ],
                 [
                     {
                         "description": "action",
-                        "sym": 3145866
+                        "sym": 3145857
                     },
                     {
                         "description": "name",
@@ -7464,7 +7068,7 @@
                     },
                     {
                         "description": "saveMode",
-                        "sym": 3145869
+                        "sym": 3145860
                     },
                     {
                         "description": "includeBlocks",
@@ -7474,7 +7078,7 @@
                 [
                     {
                         "description": "action",
-                        "sym": 3145868
+                        "sym": 3145859
                     },
                     {
                         "description": "name",
@@ -7484,7 +7088,7 @@
                 [
                     {
                         "description": "action",
-                        "sym": 3145867
+                        "sym": 3145858
                     },
                     {
                         "description": "name",
@@ -7526,7 +7130,7 @@
                 [
                     {
                         "description": "action",
-                        "sym": 3145867
+                        "sym": 3145858
                     },
                     {
                         "description": "name",
@@ -7546,7 +7150,7 @@
                     },
                     {
                         "description": "animationMode",
-                        "sym": 3145870
+                        "sym": 3145861
                     },
                     {
                         "description": "animationSeconds",
@@ -7633,7 +7237,7 @@
                     },
                     {
                         "description": "facing",
-                        "sym": 3145871
+                        "sym": 3145862
                     },
                     {
                         "description": "lookAtPosition",
@@ -7659,7 +7263,7 @@
                     },
                     {
                         "description": "facing",
-                        "sym": 3145871
+                        "sym": 3145862
                     },
                     {
                         "description": "lookAtEntity",
@@ -7690,7 +7294,7 @@
                     },
                     {
                         "description": "action",
-                        "sym": 3145872
+                        "sym": 3145863
                     },
                     {
                         "description": "name",
@@ -7704,14 +7308,14 @@
                     },
                     {
                         "description": "action",
-                        "sym": 3145873
+                        "sym": 3145864
                     }
                 ]
             ],
             "perm": 1
         },
         {
-            "aliasIndex": 146,
+            "aliasIndex": 137,
             "description": "commands.tp.description",
             "flag": 128,
             "name": "teleport",
@@ -7751,7 +7355,7 @@
                     },
                     {
                         "description": "facing",
-                        "sym": 3145871
+                        "sym": 3145862
                     },
                     {
                         "description": "lookAtPosition",
@@ -7769,7 +7373,7 @@
                     },
                     {
                         "description": "facing",
-                        "sym": 3145871
+                        "sym": 3145862
                     },
                     {
                         "description": "lookAtEntity",
@@ -7827,7 +7431,7 @@
                     },
                     {
                         "description": "facing",
-                        "sym": 3145871
+                        "sym": 3145862
                     },
                     {
                         "description": "lookAtPosition",
@@ -7849,7 +7453,7 @@
                     },
                     {
                         "description": "facing",
-                        "sym": 3145871
+                        "sym": 3145862
                     },
                     {
                         "description": "lookAtEntity",
@@ -7884,7 +7488,7 @@
             "perm": 1
         },
         {
-            "aliasIndex": 147,
+            "aliasIndex": 138,
             "description": "commands.tell.description",
             "flag": 192,
             "name": "tell",
@@ -7980,7 +7584,7 @@
                     },
                     {
                         "description": "mode",
-                        "sym": 3145876
+                        "sym": 3145867
                     }
                 ]
             ],
@@ -7995,7 +7599,7 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145877
+                        "sym": 3145868
                     },
                     {
                         "description": "from",
@@ -8017,11 +7621,11 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145877
+                        "sym": 3145868
                     },
                     {
                         "description": "circle",
-                        "sym": 3145882
+                        "sym": 3145873
                     },
                     {
                         "description": "center",
@@ -8043,7 +7647,7 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145878
+                        "sym": 3145869
                     },
                     {
                         "description": "position",
@@ -8053,7 +7657,7 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145878
+                        "sym": 3145869
                     },
                     {
                         "description": "name",
@@ -8063,23 +7667,23 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145879
+                        "sym": 3145870
                     }
                 ],
                 [
                     {
                         "description": "mode",
-                        "sym": 3145880
+                        "sym": 3145871
                     },
                     {
                         "description": "all-dimensions",
-                        "sym": 3145883
+                        "sym": 3145874
                     }
                 ],
                 [
                     {
                         "description": "mode",
-                        "sym": 3145881
+                        "sym": 3145872
                     },
                     {
                         "description": "position",
@@ -8093,7 +7697,7 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145881
+                        "sym": 3145872
                     },
                     {
                         "description": "name",
@@ -8116,7 +7720,7 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145885
+                        "sym": 3145876
                     },
                     {
                         "description": "amount",
@@ -8126,7 +7730,7 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145884
+                        "sym": 3145875
                     },
                     {
                         "description": "amount",
@@ -8136,21 +7740,21 @@
                 [
                     {
                         "description": "mode",
-                        "sym": 3145884
+                        "sym": 3145875
                     },
                     {
                         "description": "time",
-                        "sym": 3145888
+                        "sym": 3145879
                     }
                 ],
                 [
                     {
                         "description": "mode",
-                        "sym": 3145886
+                        "sym": 3145877
                     },
                     {
                         "description": "time",
-                        "sym": 3145887
+                        "sym": 3145878
                     }
                 ]
             ],
@@ -8169,7 +7773,7 @@
                     },
                     {
                         "description": "clear",
-                        "sym": 3145889
+                        "sym": 3145880
                     }
                 ],
                 [
@@ -8179,7 +7783,7 @@
                     },
                     {
                         "description": "reset",
-                        "sym": 3145890
+                        "sym": 3145881
                     }
                 ],
                 [
@@ -8189,7 +7793,7 @@
                     },
                     {
                         "description": "titleLocation",
-                        "sym": 3145891
+                        "sym": 3145882
                     },
                     {
                         "description": "titleText",
@@ -8203,7 +7807,7 @@
                     },
                     {
                         "description": "times",
-                        "sym": 3145892
+                        "sym": 3145883
                     },
                     {
                         "description": "fadeIn",
@@ -8234,7 +7838,7 @@
                     },
                     {
                         "description": "clear",
-                        "sym": 3145893
+                        "sym": 3145884
                     }
                 ],
                 [
@@ -8244,7 +7848,7 @@
                     },
                     {
                         "description": "reset",
-                        "sym": 3145894
+                        "sym": 3145885
                     }
                 ],
                 [
@@ -8254,7 +7858,7 @@
                     },
                     {
                         "description": "titleLocation",
-                        "sym": 3145895
+                        "sym": 3145886
                     },
                     {
                         "description": "raw json titleText",
@@ -8268,7 +7872,7 @@
                     },
                     {
                         "description": "times",
-                        "sym": 3145896
+                        "sym": 3145887
                     },
                     {
                         "description": "fadeIn",
@@ -8309,7 +7913,7 @@
                     },
                     {
                         "description": "Dimension",
-                        "sym": 3145954
+                        "sym": 3145940
                     },
                     {
                         "description": "Position",
@@ -8355,73 +7959,6 @@
         },
         {
             "aliasIndex": -1,
-            "description": "commands.volumearea.description",
-            "flag": 128,
-            "name": "volumearea",
-            "overloads": [
-                [
-                    {
-                        "description": "mode",
-                        "sym": 3145900
-                    },
-                    {
-                        "description": "identifier",
-                        "sym": 1048620
-                    },
-                    {
-                        "description": "from",
-                        "sym": 1048628
-                    },
-                    {
-                        "description": "to",
-                        "sym": 1048628
-                    },
-                    {
-                        "description": "name",
-                        "sym": 1048620
-                    }
-                ],
-                [
-                    {
-                        "description": "mode",
-                        "sym": 3145901
-                    },
-                    {
-                        "description": "name",
-                        "sym": 1048620
-                    }
-                ],
-                [
-                    {
-                        "description": "mode",
-                        "sym": 3145901
-                    },
-                    {
-                        "description": "position",
-                        "sym": 1048628
-                    }
-                ],
-                [
-                    {
-                        "description": "mode",
-                        "sym": 3145902
-                    }
-                ],
-                [
-                    {
-                        "description": "mode",
-                        "sym": 3145903
-                    },
-                    {
-                        "description": "all-dimensions",
-                        "sym": 3145904
-                    }
-                ]
-            ],
-            "perm": 1
-        },
-        {
-            "aliasIndex": -1,
             "description": "commands.weather.description",
             "flag": 128,
             "name": "weather",
@@ -8429,7 +7966,7 @@
                 [
                     {
                         "description": "type",
-                        "sym": 3145897
+                        "sym": 3145888
                     },
                     {
                         "description": "duration",
@@ -8439,14 +7976,14 @@
                 [
                     {
                         "description": "query",
-                        "sym": 3145898
+                        "sym": 3145889
                     }
                 ]
             ],
             "perm": 1
         },
         {
-            "aliasIndex": 171,
+            "aliasIndex": 162,
             "description": "commands.wsserver.description",
             "flag": 160,
             "name": "wsserver",
@@ -21393,666 +20930,645 @@
             ]
         },
         {
-            "enumIndex": 33,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3059,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
             "enumIndex": 3051,
-            "enumNameIndex": 30,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
-            "enumIndex": 3060,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3067,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3090,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3091,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3093,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3094,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3104,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3134,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3135,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3137,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3156,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3164,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3165,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3166,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3167,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3168,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3169,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3172,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3174,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3175,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3176,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3177,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3178,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3179,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3184,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3185,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3186,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3190,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3192,
-            "enumNameIndex": 70,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3193,
-            "enumNameIndex": 71,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3194,
-            "enumNameIndex": 71,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3195,
-            "enumNameIndex": 71,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3197,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3205,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3206,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3207,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3211,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3212,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3213,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3218,
-            "enumNameIndex": 30,
-            "indices": [
-                2
-            ]
-        },
-        {
-            "enumIndex": 3221,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3224,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3231,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3237,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3238,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3239,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3244,
-            "enumNameIndex": 30,
-            "indices": [
-                2
-            ]
-        },
-        {
-            "enumIndex": 3246,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3247,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3248,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3240,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3249,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3250,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3263,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3267,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3280,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3281,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3282,
-            "enumNameIndex": 30,
-            "indices": [
-                2
-            ]
-        },
-        {
-            "enumIndex": 3283,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3284,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3285,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3286,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3219,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3294,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 30,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3295,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3300,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3301,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3302,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3303,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3266,
-            "enumNameIndex": 30,
+            "enumIndex": 3052,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
             "enumIndex": 3053,
-            "enumNameIndex": 30,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3060,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3083,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3084,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3086,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3087,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3097,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3127,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3128,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3130,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3149,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3157,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3158,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3159,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3160,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3161,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3162,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3165,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3167,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3168,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3169,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3170,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3171,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3172,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3177,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3178,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3179,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3183,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3185,
+            "enumNameIndex": 61,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3186,
+            "enumNameIndex": 62,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3187,
+            "enumNameIndex": 62,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3188,
+            "enumNameIndex": 62,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3190,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3199,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3200,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3201,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3206,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3207,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3208,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3213,
+            "enumNameIndex": 24,
+            "indices": [
+                2
+            ]
+        },
+        {
+            "enumIndex": 3216,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3219,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3226,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3232,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3233,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3234,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3239,
+            "enumNameIndex": 24,
+            "indices": [
+                2
+            ]
+        },
+        {
+            "enumIndex": 3241,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3242,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3243,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3235,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3244,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3245,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3258,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3262,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3275,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3276,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3277,
+            "enumNameIndex": 24,
+            "indices": [
+                2
+            ]
+        },
+        {
+            "enumIndex": 3278,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3279,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3280,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3281,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3214,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3289,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 30,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3290,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3295,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3296,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3297,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3298,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3261,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3310,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3311,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
             "enumIndex": 3315,
-            "enumNameIndex": 30,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3316,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
             "enumIndex": 3319,
-            "enumNameIndex": 30,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
             "enumIndex": 3320,
-            "enumNameIndex": 30,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
-            "enumIndex": 3323,
-            "enumNameIndex": 30,
+            "enumIndex": 3322,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
-            "enumIndex": 3324,
-            "enumNameIndex": 30,
+            "enumIndex": 3344,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
-            "enumIndex": 3326,
-            "enumNameIndex": 30,
+            "enumIndex": 3349,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
-            "enumIndex": 3327,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3328,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3350,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3355,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3287,
-            "enumNameIndex": 30,
+            "enumIndex": 3282,
+            "enumNameIndex": 24,
             "indices": [
                 2
             ]
         },
         {
-            "enumIndex": 3056,
-            "enumNameIndex": 30,
+            "enumIndex": 3048,
+            "enumNameIndex": 24,
             "indices": [
                 2
             ]
         },
         {
-            "enumIndex": 3360,
-            "enumNameIndex": 30,
+            "enumIndex": 3354,
+            "enumNameIndex": 24,
             "indices": [
                 2
             ]
         },
         {
-            "enumIndex": 3363,
-            "enumNameIndex": 30,
+            "enumIndex": 3357,
+            "enumNameIndex": 24,
             "indices": [
                 2
             ]
         },
         {
-            "enumIndex": 3364,
-            "enumNameIndex": 30,
+            "enumIndex": 3358,
+            "enumNameIndex": 24,
+            "indices": [
+                1
+            ]
+        },
+        {
+            "enumIndex": 3376,
+            "enumNameIndex": 24,
+            "indices": [
+                2
+            ]
+        },
+        {
+            "enumIndex": 3377,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
             "enumIndex": 3382,
-            "enumNameIndex": 30,
-            "indices": [
-                2
-            ]
-        },
-        {
-            "enumIndex": 3383,
-            "enumNameIndex": 30,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
-            "enumIndex": 3388,
-            "enumNameIndex": 30,
+            "enumIndex": 3385,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
         },
         {
-            "enumIndex": 3391,
-            "enumNameIndex": 30,
-            "indices": [
-                1
-            ]
-        },
-        {
-            "enumIndex": 3392,
-            "enumNameIndex": 30,
+            "enumIndex": 3386,
+            "enumNameIndex": 24,
             "indices": [
                 1
             ]
@@ -26648,195 +26164,138 @@
             ]
         },
         {
-            "name": "set",
+            "name": "CameraShakeActionAdd",
             "valueIndices": [
                 3047
             ]
         },
         {
-            "name": "ease",
+            "name": "CameraShakeActionStop",
             "valueIndices": [
                 3048
             ]
         },
         {
-            "name": "pos",
+            "name": "CameraShakeType",
             "valueIndices": [
-                3049
-            ]
-        },
-        {
-            "name": "rot",
-            "valueIndices": [
+                3049,
                 3050
-            ]
-        },
-        {
-            "name": "default",
-            "valueIndices": [
-                0
-            ]
-        },
-        {
-            "name": "clear",
-            "valueIndices": [
-                3051
-            ]
-        },
-        {
-            "name": "fade",
-            "valueIndices": [
-                3052
-            ]
-        },
-        {
-            "name": "time",
-            "valueIndices": [
-                3053
-            ]
-        },
-        {
-            "name": "color",
-            "valueIndices": [
-                3054
             ]
         },
         {
             "name": "CommandName",
             "valueIndices": [
                 30,
-                33,
+                3048,
                 3051,
+                3052,
                 3053,
-                3056,
-                3059,
                 3060,
-                3067,
-                3090,
-                3091,
-                3092,
-                3093,
-                3094,
-                3104,
-                3134,
-                3135,
-                3137,
-                3156,
-                3164,
-                3165,
-                3166,
-                3197,
-                3205,
+                3083,
+                3084,
+                3085,
+                3086,
+                3087,
+                3097,
+                3127,
+                3128,
+                3130,
+                3149,
+                3157,
+                3158,
+                3159,
+                3190,
+                3199,
+                3200,
+                3201,
+                3202,
+                3203,
                 3206,
                 3207,
                 3208,
                 3209,
-                3211,
-                3212,
                 3213,
                 3214,
-                3218,
+                3216,
                 3219,
                 3221,
-                3224,
                 3226,
-                3231,
-                3237,
-                3238,
+                3232,
+                3233,
+                3234,
+                3235,
                 3239,
                 3240,
+                3241,
+                3242,
+                3243,
                 3244,
                 3245,
-                3246,
-                3247,
-                3248,
-                3249,
-                3250,
-                3263,
-                3266,
-                3267,
+                3258,
+                3261,
+                3262,
+                3275,
+                3276,
+                3277,
+                3278,
+                3279,
                 3280,
                 3281,
                 3282,
-                3283,
-                3284,
-                3285,
-                3286,
-                3287,
+                3289,
+                3290,
+                3291,
+                3292,
+                3293,
                 3294,
                 3295,
                 3296,
                 3297,
                 3298,
-                3299,
-                3300,
-                3301,
-                3302,
-                3303,
+                3310,
+                3311,
                 3315,
+                3316,
                 3319,
                 3320,
-                3323,
-                3324,
-                3325,
-                3326,
-                3327,
-                3328,
-                3350,
-                3353,
+                3321,
+                3322,
+                3344,
+                3347,
+                3349,
+                3354,
                 3355,
-                3360,
-                3361,
+                3357,
+                3358,
                 3363,
-                3364,
                 3369,
-                3375,
+                3370,
                 3376,
+                3377,
                 3382,
-                3383,
-                3388,
-                3391,
-                3392
-            ]
-        },
-        {
-            "name": "CameraShakeActionAdd",
-            "valueIndices": [
-                3055
-            ]
-        },
-        {
-            "name": "CameraShakeActionStop",
-            "valueIndices": [
-                3056
-            ]
-        },
-        {
-            "name": "CameraShakeType",
-            "valueIndices": [
-                3057,
-                3058
+                3385,
+                3386
             ]
         },
         {
             "name": "MaskMode",
             "valueIndices": [
-                3061,
-                3062
+                3054,
+                3055
             ]
         },
         {
             "name": "MaskModeFiltered",
             "valueIndices": [
-                3063
+                3056
             ]
         },
         {
             "name": "CloneMode",
             "valueIndices": [
-                3064,
-                3065,
-                3066
+                3057,
+                3058,
+                3059
             ]
         },
         {
@@ -26852,6 +26311,13 @@
                 2828,
                 2976,
                 3013,
+                3061,
+                3062,
+                3063,
+                3064,
+                3065,
+                3066,
+                3067,
                 3068,
                 3069,
                 3070,
@@ -26865,64 +26331,64 @@
                 3078,
                 3079,
                 3080,
-                3081,
-                3082,
-                3083,
-                3084,
-                3085,
-                3086,
-                3087,
-                3088
+                3081
             ]
         },
         {
             "name": "DamageOriginActor",
             "valueIndices": [
-                3089
+                3082
             ]
         },
         {
             "name": "daylockCommandAliases",
             "valueIndices": [
-                3091,
-                3092
+                3084,
+                3085
             ]
         },
         {
             "name": "DialogueOpenAction",
             "valueIndices": [
-                3095
+                3088
             ]
         },
         {
             "name": "DialogueChangeAction",
             "valueIndices": [
-                3096
+                3089
             ]
         },
         {
             "name": "Difficulty",
             "valueIndices": [
-                3064,
-                3097,
-                3098,
-                3099,
-                3100,
-                3101,
-                3102,
-                3103
+                3057,
+                3090,
+                3091,
+                3092,
+                3093,
+                3094,
+                3095,
+                3096
             ]
         },
         {
             "name": "ClearEffects",
             "valueIndices": [
-                3051
+                3052
             ]
         },
         {
             "name": "Effect",
             "valueIndices": [
                 1919,
+                3098,
+                3099,
+                3100,
+                3101,
+                3102,
+                3103,
+                3104,
                 3105,
                 3106,
                 3107,
@@ -26944,186 +26410,186 @@
                 3123,
                 3124,
                 3125,
-                3126,
-                3127,
-                3128,
-                3129,
-                3130,
-                3131,
-                3132,
-                3133
+                3126
             ]
         },
         {
             "name": "EventEntityAction",
             "valueIndices": [
-                3089
+                3082
             ]
         },
         {
             "name": "ExecuteModeDetect",
             "valueIndices": [
-                3136
+                3129
             ]
         },
         {
             "name": "Option_As",
             "valueIndices": [
-                3138
+                3131
             ]
         },
         {
             "name": "Option_At",
             "valueIndices": [
-                3139
+                3132
             ]
         },
         {
             "name": "Option_In",
             "valueIndices": [
-                3140
+                3133
             ]
         },
         {
             "name": "Option_Positioned",
             "valueIndices": [
-                3141
+                3134
             ]
         },
         {
             "name": "Option_Rotated",
             "valueIndices": [
-                3142
+                3135
             ]
         },
         {
             "name": "Option_Facing",
             "valueIndices": [
-                3143
+                3136
             ]
         },
         {
             "name": "Option_Entity",
             "valueIndices": [
-                3089
+                3082
             ]
         },
         {
             "name": "Option_Align",
             "valueIndices": [
-                3144
+                3137
             ]
         },
         {
             "name": "Option_Anchored",
             "valueIndices": [
-                3145
+                3138
             ]
         },
         {
             "name": "Option_If_Unless",
             "valueIndices": [
-                3146,
-                3147
+                3139,
+                3140
             ]
         },
         {
             "name": "Option_Condition_Block",
             "valueIndices": [
-                3148
+                3141
             ]
         },
         {
             "name": "Option_Condition_Blocks",
             "valueIndices": [
-                3149
+                3142
             ]
         },
         {
             "name": "Option_Condition_Entity",
             "valueIndices": [
-                3089
+                3082
             ]
         },
         {
             "name": "Option_Condition_Score",
             "valueIndices": [
-                3150
+                3143
             ]
         },
         {
             "name": "Option_Run",
             "valueIndices": [
-                3151
+                3144
             ]
         },
         {
             "name": "ExecuteChainedOption_0",
             "valueIndices": [
+                3131,
+                3132,
+                3133,
+                3134,
+                3135,
+                3136,
+                3137,
                 3138,
                 3139,
                 3140,
-                3141,
-                3142,
-                3143,
-                3144,
-                3145,
-                3146,
-                3147,
-                3151
+                3144
             ]
         },
         {
             "name": "ActorLocation",
             "valueIndices": [
-                3152,
-                3153
+                3145,
+                3146
             ]
         },
         {
             "name": "BlocksScanMode",
             "valueIndices": [
-                3062,
-                3154
+                3055,
+                3147
             ]
         },
         {
             "name": "ScoreRangeMode",
             "valueIndices": [
-                3155
+                3148
             ]
         },
         {
             "name": "FillMode",
             "valueIndices": [
-                3157,
-                3158,
-                3159,
-                3160
+                3150,
+                3151,
+                3152,
+                3153
             ]
         },
         {
             "name": "Replace",
             "valueIndices": [
-                3061
+                3054
             ]
         },
         {
             "name": "add",
             "valueIndices": [
-                3161
+                3154
             ]
         },
         {
             "name": "delete",
             "valueIndices": [
-                3162,
-                3163
+                3155,
+                3156
             ]
         },
         {
             "name": "BoolGameRule",
             "valueIndices": [
+                3160,
+                3161,
+                3162,
+                3163,
+                3164,
+                3165,
+                3166,
                 3167,
                 3168,
                 3169,
@@ -27142,96 +26608,89 @@
                 3182,
                 3183,
                 3184,
-                3185,
-                3186,
-                3187,
-                3188,
-                3189,
-                3190,
-                3191,
-                3192
+                3185
             ]
         },
         {
             "name": "IntGameRule",
             "valueIndices": [
-                3193,
-                3194,
-                3195,
-                3196
+                3186,
+                3187,
+                3188,
+                3189
             ]
         },
         {
             "name": "GameTestModeRun",
             "valueIndices": [
-                3151
+                3144
             ]
         },
         {
             "name": "GameTestModeRunThis",
             "valueIndices": [
-                3198
+                3191
             ]
         },
         {
             "name": "GameTestModeRunSet",
             "valueIndices": [
-                3199
+                3192
             ]
         },
         {
             "name": "GameTestModeRunSetUntilFail",
             "valueIndices": [
-                3200
+                3193
             ]
         },
         {
             "name": "GameTestModeClearAll",
             "valueIndices": [
-                3201
+                3194
             ]
         },
         {
             "name": "GameTestModeShowPosition",
             "valueIndices": [
-                3049
+                3195
             ]
         },
         {
             "name": "GameTestModeCreateTest",
             "valueIndices": [
-                3202
+                3196
             ]
         },
         {
             "name": "GameTestRunNearbyTests",
             "valueIndices": [
-                3203
+                3197
             ]
         },
         {
             "name": "GameTestStopTests",
             "valueIndices": [
-                3204
+                3198
             ]
         },
         {
             "name": "helpCommandAliases",
             "valueIndices": [
-                3208,
-                3209
+                3202,
+                3203
             ]
         },
         {
             "name": "Option_Set",
             "valueIndices": [
-                3047
+                3204
             ]
         },
         {
             "name": "Option_Query",
             "valueIndices": [
-                3210
+                3205
             ]
         },
         {
@@ -27251,836 +26710,806 @@
         {
             "name": "ListDetails",
             "valueIndices": [
-                3215,
-                3216,
-                3217
+                3210,
+                3211,
+                3212
             ]
         },
         {
             "name": "LocateSubcommandStructure",
             "valueIndices": [
-                3219
+                3214
             ]
         },
         {
             "name": "LocateSubcommandBiome",
             "valueIndices": [
-                3220
+                3215
             ]
         },
         {
             "name": "TargetSpawn",
             "valueIndices": [
-                3222
+                3217
             ]
         },
         {
             "name": "TargetGive",
             "valueIndices": [
-                3207
+                3201
             ]
         },
         {
             "name": "TargetInsert",
             "valueIndices": [
-                3223
+                3218
             ]
         },
         {
             "name": "TargetReplace",
             "valueIndices": [
-                3061
+                3054
             ]
         },
         {
             "name": "TargetEntity",
             "valueIndices": [
-                3089
+                3082
             ]
         },
         {
             "name": "TargetBlock",
             "valueIndices": [
-                3148
+                3141
             ]
         },
         {
             "name": "SourceLoot",
             "valueIndices": [
-                3224
+                3219
             ]
         },
         {
             "name": "SourceKill",
             "valueIndices": [
-                3213
+                3208
             ]
         },
         {
             "name": "BlockEquipmentSlot",
             "valueIndices": [
-                3225
+                3220
             ]
         },
         {
             "name": "MobEvent",
             "valueIndices": [
-                3227,
-                3228,
-                3229,
-                3230
+                3222,
+                3223,
+                3224,
+                3225
             ]
         },
         {
             "name": "MusicQueueAction",
             "valueIndices": [
-                3232
+                3227
             ]
         },
         {
             "name": "MusicPlayAction",
             "valueIndices": [
-                3233
+                3228
             ]
         },
         {
             "name": "MusicStopAction",
             "valueIndices": [
-                3056
+                3048
             ]
         },
         {
             "name": "MusicVolumeAction",
             "valueIndices": [
-                3234
+                3229
             ]
         },
         {
             "name": "MusicRepeatMode",
             "valueIndices": [
-                3235,
-                3236
+                3230,
+                3231
             ]
         },
         {
             "name": "PermissionsAction",
             "valueIndices": [
-                3214,
-                3240
+                3209,
+                3235
             ]
         },
         {
             "name": "PermissionLevel",
             "valueIndices": [
-                3241,
-                3242,
-                3243
+                3236,
+                3237,
+                3238
             ]
         },
         {
             "name": "permissionCommandAliases",
             "valueIndices": [
-                3244,
-                3245
+                3239,
+                3240
             ]
         },
         {
             "name": "ReplaceItemBlock",
             "valueIndices": [
-                3148
+                3141
             ]
         },
         {
             "name": "ReplaceItemEntity",
             "valueIndices": [
-                3089
+                3082
             ]
         },
         {
             "name": "ReplaceMode",
             "valueIndices": [
-                3159,
-                3160
+                3152,
+                3153
             ]
         },
         {
             "name": "RideModeStart",
             "valueIndices": [
-                3251
+                3246
             ]
         },
         {
             "name": "RideModeStop",
             "valueIndices": [
-                3252
+                3247
             ]
         },
         {
             "name": "RideModeEvict",
             "valueIndices": [
-                3253
+                3248
             ]
         },
         {
             "name": "RideModeSummonRider",
             "valueIndices": [
-                3254
+                3249
             ]
         },
         {
             "name": "RideModeSummonRide",
             "valueIndices": [
-                3255
+                3250
             ]
         },
         {
             "name": "FillType",
             "valueIndices": [
-                3256,
-                3257
+                3251,
+                3252
             ]
         },
         {
             "name": "TeleportRules",
             "valueIndices": [
-                3258,
-                3259
+                3253,
+                3254
             ]
         },
         {
             "name": "RideRules",
             "valueIndices": [
-                3260,
-                3261,
-                3262
+                3255,
+                3256,
+                3257
             ]
         },
         {
             "name": "ScheduleActionOnAreaLoaded",
             "valueIndices": [
-                3264
+                3259
             ]
         },
         {
             "name": "RequestAction",
             "valueIndices": [
-                3055
+                3047
             ]
         },
         {
             "name": "CircleArea",
             "valueIndices": [
-                3265
+                3260
             ]
         },
         {
             "name": "TickingArea",
             "valueIndices": [
-                3266
+                3261
             ]
         },
         {
             "name": "ScoreboardObjectivesCategory",
             "valueIndices": [
-                3268
+                3263
             ]
         },
         {
             "name": "ScoreboardPlayersCategory",
             "valueIndices": [
-                3269
+                3264
             ]
         },
         {
             "name": "ScoreboardAddAction",
             "valueIndices": [
-                3055
+                3047
             ]
         },
         {
             "name": "ScoreboardRemoveAction",
             "valueIndices": [
-                3163
+                3156
             ]
         },
         {
             "name": "ScoreboardRandomAction",
             "valueIndices": [
-                3270
+                3265
             ]
         },
         {
             "name": "ScoreboardSetDisplayAction",
             "valueIndices": [
-                3271
+                3266
             ]
         },
         {
             "name": "ScoreboardListAction",
             "valueIndices": [
-                3214
+                3209
             ]
         },
         {
             "name": "ScoreboardResetAction",
             "valueIndices": [
-                3272
+                3267
             ]
         },
         {
             "name": "ScoreboardTestAction",
             "valueIndices": [
-                3273
+                3268
             ]
         },
         {
             "name": "ScoreboardPlayersNumAction",
             "valueIndices": [
                 3047,
-                3055,
-                3163
+                3156,
+                3204
             ]
         },
         {
             "name": "ScoreboardOperationAction",
             "valueIndices": [
-                3274
+                3269
             ]
         },
         {
             "name": "ScoreboardSortOrder",
             "valueIndices": [
-                3275,
-                3276
+                3270,
+                3271
             ]
         },
         {
             "name": "ScoreboardDisplaySlotSortable",
             "valueIndices": [
-                3214,
-                3277
+                3209,
+                3272
             ]
         },
         {
             "name": "ScoreboardDisplaySlotNonSortable",
             "valueIndices": [
-                3278
+                3273
             ]
         },
         {
             "name": "ScoreboardCriteria",
             "valueIndices": [
-                3279
+                3274
             ]
         },
         {
             "name": "SetBlockMode",
             "valueIndices": [
-                3061,
-                3159,
-                3160
+                3054,
+                3152,
+                3153
             ]
         },
         {
             "name": "StructureSaveAction",
             "valueIndices": [
-                3287
+                3282
             ]
         },
         {
             "name": "StructureLoadAction",
             "valueIndices": [
-                3288
+                3283
             ]
         },
         {
             "name": "StructureDeleteAction",
             "valueIndices": [
-                3289
+                3284
             ]
         },
         {
             "name": "StructureSaveMode",
+            "valueIndices": [
+                3285,
+                3286
+            ]
+        },
+        {
+            "name": "StructureAnimationMode",
+            "valueIndices": [
+                3287,
+                3288
+            ]
+        },
+        {
+            "name": "TeleportFacing",
+            "valueIndices": [
+                3136
+            ]
+        },
+        {
+            "name": "TagChangeAction",
+            "valueIndices": [
+                3047,
+                3156
+            ]
+        },
+        {
+            "name": "TagListAction",
+            "valueIndices": [
+                3209
+            ]
+        },
+        {
+            "name": "teleportCommandAliases",
             "valueIndices": [
                 3290,
                 3291
             ]
         },
         {
-            "name": "StructureAnimationMode",
-            "valueIndices": [
-                3292,
-                3293
-            ]
-        },
-        {
-            "name": "TeleportFacing",
-            "valueIndices": [
-                3143
-            ]
-        },
-        {
-            "name": "TagChangeAction",
-            "valueIndices": [
-                3055,
-                3163
-            ]
-        },
-        {
-            "name": "TagListAction",
-            "valueIndices": [
-                3214
-            ]
-        },
-        {
-            "name": "teleportCommandAliases",
-            "valueIndices": [
-                3295,
-                3296
-            ]
-        },
-        {
             "name": "tellCommandAliases",
             "valueIndices": [
-                3297,
-                3298,
-                3299
+                3292,
+                3293,
+                3294
             ]
         },
         {
             "name": "TestForBlocksMode",
             "valueIndices": [
-                3062,
-                3154
+                3055,
+                3147
             ]
         },
         {
             "name": "TickingAreaModeAdd",
             "valueIndices": [
-                3055
+                3047
             ]
         },
         {
             "name": "TickingAreaModeRemove",
             "valueIndices": [
-                3163
+                3156
             ]
         },
         {
             "name": "TickingAreaModeRemoveAll",
             "valueIndices": [
-                3304
+                3299
             ]
         },
         {
             "name": "TickingAreaModeList",
             "valueIndices": [
-                3214
+                3209
             ]
         },
         {
             "name": "TickingAreaModePreload",
             "valueIndices": [
-                3305
+                3300
             ]
         },
         {
             "name": "AddTickingAreaType",
             "valueIndices": [
-                3265
+                3260
             ]
         },
         {
             "name": "AllDimensions",
             "valueIndices": [
-                3306
+                3301
             ]
         },
         {
             "name": "TimeModeSet",
             "valueIndices": [
-                3047
+                3204
             ]
         },
         {
             "name": "TimeModeAdd",
             "valueIndices": [
-                3055
+                3047
             ]
         },
         {
             "name": "TimeModeQuery",
             "valueIndices": [
-                3210
+                3205
             ]
         },
         {
             "name": "TimeQuery",
             "valueIndices": [
+                3302,
+                3303,
+                3304
+            ]
+        },
+        {
+            "name": "TimeSpec",
+            "valueIndices": [
+                3304,
+                3305,
+                3306,
                 3307,
                 3308,
                 3309
             ]
         },
         {
-            "name": "TimeSpec",
-            "valueIndices": [
-                3309,
-                3310,
-                3311,
-                3312,
-                3313,
-                3314
-            ]
-        },
-        {
             "name": "TitleClear",
             "valueIndices": [
-                3051
+                3052
             ]
         },
         {
             "name": "TitleReset",
             "valueIndices": [
-                3272
+                3267
             ]
         },
         {
             "name": "TitleSet",
             "valueIndices": [
-                3315,
-                3316,
-                3317
+                3311,
+                3312,
+                3313
             ]
         },
         {
             "name": "TitleTimes",
             "valueIndices": [
-                3318
+                3314
             ]
         },
         {
             "name": "TitleRawClear",
             "valueIndices": [
-                3051
+                3052
             ]
         },
         {
             "name": "TitleRawReset",
             "valueIndices": [
-                3272
+                3267
             ]
         },
         {
             "name": "TitleRawSet",
             "valueIndices": [
-                3315,
-                3316,
-                3317
+                3311,
+                3312,
+                3313
             ]
         },
         {
             "name": "TitleRawTimes",
             "valueIndices": [
-                3318
+                3314
             ]
         },
         {
             "name": "WeatherType",
             "valueIndices": [
-                3051,
-                3321,
-                3322
+                3052,
+                3317,
+                3318
             ]
         },
         {
             "name": "WeatherQuery",
             "valueIndices": [
-                3210
+                3205
             ]
         },
         {
             "name": "wsserverCommandAliases",
             "valueIndices": [
-                3324,
-                3325
-            ]
-        },
-        {
-            "name": "VolumeAreaAdd",
-            "valueIndices": [
-                3055
-            ]
-        },
-        {
-            "name": "VolumeAreaRemove",
-            "valueIndices": [
-                3163
-            ]
-        },
-        {
-            "name": "VolumeAreaRemoveAll",
-            "valueIndices": [
-                3304
-            ]
-        },
-        {
-            "name": "VolumeAreaList",
-            "valueIndices": [
-                3214
-            ]
-        },
-        {
-            "name": "VolumeAreaAllDimensions",
-            "valueIndices": [
-                3306
+                3320,
+                3321
             ]
         },
         {
             "name": "AgentTeleportFacing",
             "valueIndices": [
-                3143
+                3136
             ]
         },
         {
             "name": "AgentDirection",
             "valueIndices": [
-                3329,
-                3330,
-                3331,
-                3332,
-                3333,
-                3334
+                3323,
+                3324,
+                3325,
+                3326,
+                3327,
+                3328
             ]
         },
         {
             "name": "AgentTurnDirection",
             "valueIndices": [
-                3333,
-                3334
+                3327,
+                3328
             ]
         },
         {
             "name": "AgentDirectionCommand",
             "valueIndices": [
-                3066,
-                3136,
-                3335,
-                3336,
-                3337,
-                3338,
-                3339
+                3059,
+                3129,
+                3329,
+                3330,
+                3331,
+                3332,
+                3333
             ]
         },
         {
             "name": "AgentTurnCommand",
             "valueIndices": [
-                3340
+                3334
             ]
         },
         {
             "name": "AgentItemCommand",
             "valueIndices": [
-                3341,
-                3342,
-                3343
+                3335,
+                3336,
+                3337
             ]
         },
         {
             "name": "AgentCommand",
             "valueIndices": [
-                3202,
-                3344
+                3196,
+                3338
             ]
         },
         {
             "name": "AgentTPCommand",
             "valueIndices": [
-                3296
+                3291
             ]
         },
         {
             "name": "AgentTransferCommand",
             "valueIndices": [
-                3345
+                3339
             ]
         },
         {
             "name": "AgentDropCommand",
             "valueIndices": [
-                3346
+                3340
             ]
         },
         {
             "name": "AgentPlaceCommand",
             "valueIndices": [
-                3347
+                3341
             ]
         },
         {
             "name": "AgentCollectCommand",
             "valueIndices": [
-                3348
+                3342
             ]
         },
         {
             "name": "AgentCollectAllItems",
             "valueIndices": [
-                3154
+                3147
             ]
         },
         {
             "name": "AgentSetItemCommand",
             "valueIndices": [
-                3349
+                3343
             ]
         },
         {
             "name": "AGENT_DESTROY",
             "valueIndices": [
-                3159
+                3152
             ]
         },
         {
             "name": "AGENT_INSPECT",
             "valueIndices": [
-                3351
+                3345
             ]
         },
         {
             "name": "AGENT_INTERACT",
             "valueIndices": [
-                3352
+                3346
             ]
         },
         {
             "name": "CodeBuilderActionInventory",
             "valueIndices": [
-                3354
+                3348
             ]
         },
         {
             "name": "SaveMode",
             "valueIndices": [
-                3210,
-                3356,
-                3357
+                3205,
+                3350,
+                3351
             ]
         },
         {
             "name": "AllowListAction",
             "valueIndices": [
-                3055,
-                3163,
-                3214,
-                3240,
-                3358,
-                3359
+                3047,
+                3156,
+                3209,
+                3235,
+                3352,
+                3353
             ]
         },
         {
             "name": "allowlistCommandAliases",
             "valueIndices": [
-                3360,
-                3361
+                3354,
+                3355
             ]
         },
         {
             "name": "BoolSettingName",
             "valueIndices": [
-                3362
+                3356
             ]
         },
         {
             "name": "DifficultySettingName",
             "valueIndices": [
-                3104
+                3097
             ]
         },
         {
             "name": "Operation_Addons_List",
             "valueIndices": [
-                3214
+                3209
             ]
         },
         {
             "name": "Operation_Addons_Install",
             "valueIndices": [
-                3365
+                3359
             ]
         },
         {
             "name": "Operation_Addons_Others",
             "valueIndices": [
-                3163,
-                3366,
-                3367,
-                3368
+                3156,
+                3360,
+                3361,
+                3362
             ]
         },
         {
             "name": "MoneyOP1",
             "valueIndices": [
-                3210,
-                3370,
-                3371
+                3205,
+                3364,
+                3365
             ]
         },
         {
             "name": "MoneyOP2",
             "valueIndices": [
                 3047,
-                3055,
-                3372,
-                3373
+                3204,
+                3366,
+                3367
             ]
         },
         {
             "name": "MoneyOP3",
             "valueIndices": [
-                3374
+                3368
             ]
         },
         {
             "name": "Create",
             "valueIndices": [
-                3202
+                3196
             ]
         },
         {
             "name": "Delete",
             "valueIndices": [
-                3289
+                3284
             ]
         },
         {
             "name": "Update",
             "valueIndices": [
-                3377
+                3371
             ]
         },
         {
             "name": "View",
             "valueIndices": [
-                3378
+                3372
             ]
         },
         {
             "name": "List",
             "valueIndices": [
-                3214
+                3209
             ]
         },
         {
             "name": "Add",
             "valueIndices": [
-                3055
+                3047
             ]
         },
         {
             "name": "Set",
             "valueIndices": [
-                3047
+                3204
             ]
         },
         {
@@ -28092,13 +27521,13 @@
         {
             "name": "Role",
             "valueIndices": [
-                3379
+                3373
             ]
         },
         {
             "name": "Permission",
             "valueIndices": [
-                3376
+                3370
             ]
         },
         {
@@ -28110,63 +27539,63 @@
         {
             "name": "Priority",
             "valueIndices": [
-                3380
+                3374
             ]
         },
         {
             "name": "Member",
             "valueIndices": [
-                3242
+                3237
             ]
         },
         {
             "name": "DisplayName",
             "valueIndices": [
-                3381
+                3375
             ]
         },
         {
             "name": "Operation_Common",
             "valueIndices": [
-                3208,
-                3383
+                3202,
+                3377
             ]
         },
         {
             "name": "Operation_Settings",
             "valueIndices": [
-                3384
+                3378
             ]
         },
         {
             "name": "SettingsOperation",
             "valueIndices": [
-                3047,
-                3214,
-                3240,
-                3287,
-                3289,
-                3385
+                3204,
+                3209,
+                3235,
+                3282,
+                3284,
+                3379
             ]
         },
         {
             "name": "Operation_FreeFilePath",
             "valueIndices": [
-                3288
+                3283
             ]
         },
         {
             "name": "Operation_MustPluginName",
             "valueIndices": [
-                3386
+                3380
             ]
         },
         {
             "name": "Operation_OptionalPluginName",
             "valueIndices": [
-                3214,
-                3240,
-                3387
+                3209,
+                3235,
+                3381
             ]
         },
         {
@@ -28174,40 +27603,40 @@
             "valueIndices": [
                 55,
                 56,
-                3101,
-                3102,
-                3389,
-                3390
+                3094,
+                3095,
+                3383,
+                3384
             ]
         },
         {
             "name": "ScriptDebugModeProfiler",
             "valueIndices": [
-                3393
+                3387
             ]
         },
         {
             "name": "ScriptProfilerStart",
             "valueIndices": [
-                3394
+                3388
             ]
         },
         {
             "name": "ScriptProfilerStop",
             "valueIndices": [
-                3056
+                3048
             ]
         },
         {
             "name": "ScriptDebugModeWatchdog",
             "valueIndices": [
-                3395
+                3389
             ]
         },
         {
             "name": "ScriptWatchdogDumpMemory",
             "valueIndices": [
-                3396
+                3390
             ]
         }
     ],
@@ -28626,9 +28055,7 @@
         {
             "name": "CameraPresets",
             "values": [
-                "example:example_free",
                 "minecraft:first_person",
-                "minecraft:free",
                 "minecraft:third_person",
                 "minecraft:third_person_front"
             ]

@@ -1,189 +1,189 @@
 {
     "ACTORLOCATION": {
-        "debugString": "<Symbol ACTORLOCATION(3145791)>",
+        "debugString": "<Symbol ACTORLOCATION(3145782)>",
         "description": "ActorLocation",
-        "index": 63,
-        "value": 3145791
+        "index": 54,
+        "value": 3145782
     },
     "ADD": {
-        "debugString": "<Symbol ADD(3145939)>",
+        "debugString": "<Symbol ADD(3145925)>",
         "description": "Add",
-        "index": 211,
-        "value": 3145939
+        "index": 197,
+        "value": 3145925
     },
     "ADDONS_F0": {
-        "debugString": "<Symbol ADDONS_F0(9437325)>",
-        "description": "unknown",
-        "index": 141,
-        "value": 9437325
-    },
-    "ADDONS_F1": {
-        "debugString": "<Symbol ADDONS_F1(9437326)>",
-        "description": "unknown",
-        "index": 142,
-        "value": 9437326
-    },
-    "ADDONS_F2": {
-        "debugString": "<Symbol ADDONS_F2(9437327)>",
-        "description": "unknown",
-        "index": 143,
-        "value": 9437327
-    },
-    "ADDTICKINGAREATYPE": {
-        "debugString": "<Symbol ADDTICKINGAREATYPE(3145882)>",
-        "description": "AddTickingAreaType",
-        "index": 154,
-        "value": 3145882
-    },
-    "AGENTCOLLECTALLITEMS": {
-        "debugString": "<Symbol AGENTCOLLECTALLITEMS(3145917)>",
-        "description": "AgentCollectAllItems",
-        "index": 189,
-        "value": 3145917
-    },
-    "AGENTCOLLECTCOMMAND": {
-        "debugString": "<Symbol AGENTCOLLECTCOMMAND(3145916)>",
-        "description": "AgentCollectCommand",
-        "index": 188,
-        "value": 3145916
-    },
-    "AGENTCOMMAND": {
-        "debugString": "<Symbol AGENTCOMMAND(3145911)>",
-        "description": "AgentCommand",
-        "index": 183,
-        "value": 3145911
-    },
-    "AGENTDIRECTION": {
-        "debugString": "<Symbol AGENTDIRECTION(3145906)>",
-        "description": "AgentDirection",
-        "index": 178,
-        "value": 3145906
-    },
-    "AGENTDIRECTIONCOMMAND": {
-        "debugString": "<Symbol AGENTDIRECTIONCOMMAND(3145908)>",
-        "description": "AgentDirectionCommand",
-        "index": 180,
-        "value": 3145908
-    },
-    "AGENTDROPCOMMAND": {
-        "debugString": "<Symbol AGENTDROPCOMMAND(3145914)>",
-        "description": "AgentDropCommand",
-        "index": 186,
-        "value": 3145914
-    },
-    "AGENTITEMCOMMAND": {
-        "debugString": "<Symbol AGENTITEMCOMMAND(3145910)>",
-        "description": "AgentItemCommand",
-        "index": 182,
-        "value": 3145910
-    },
-    "AGENTPLACECOMMAND": {
-        "debugString": "<Symbol AGENTPLACECOMMAND(3145915)>",
-        "description": "AgentPlaceCommand",
-        "index": 187,
-        "value": 3145915
-    },
-    "AGENTSETITEMCOMMAND": {
-        "debugString": "<Symbol AGENTSETITEMCOMMAND(3145918)>",
-        "description": "AgentSetItemCommand",
-        "index": 190,
-        "value": 3145918
-    },
-    "AGENTTELEPORTFACING": {
-        "debugString": "<Symbol AGENTTELEPORTFACING(3145905)>",
-        "description": "AgentTeleportFacing",
-        "index": 177,
-        "value": 3145905
-    },
-    "AGENTTPCOMMAND": {
-        "debugString": "<Symbol AGENTTPCOMMAND(3145912)>",
-        "description": "AgentTPCommand",
-        "index": 184,
-        "value": 3145912
-    },
-    "AGENTTRANSFERCOMMAND": {
-        "debugString": "<Symbol AGENTTRANSFERCOMMAND(3145913)>",
-        "description": "AgentTransferCommand",
-        "index": 185,
-        "value": 3145913
-    },
-    "AGENTTURNCOMMAND": {
-        "debugString": "<Symbol AGENTTURNCOMMAND(3145909)>",
-        "description": "AgentTurnCommand",
-        "index": 181,
-        "value": 3145909
-    },
-    "AGENTTURNDIRECTION": {
-        "debugString": "<Symbol AGENTTURNDIRECTION(3145907)>",
-        "description": "AgentTurnDirection",
-        "index": 179,
-        "value": 3145907
-    },
-    "AGENT_DESTROY": {
-        "debugString": "<Symbol AGENT_DESTROY(3145919)>",
-        "description": "AGENT_DESTROY",
-        "index": 191,
-        "value": 3145919
-    },
-    "AGENT_F0": {
-        "debugString": "<Symbol AGENT_F0(9437314)>",
+        "debugString": "<Symbol ADDONS_F0(9437314)>",
         "description": "unknown",
         "index": 130,
         "value": 9437314
     },
-    "AGENT_F1": {
-        "debugString": "<Symbol AGENT_F1(9437315)>",
+    "ADDONS_F1": {
+        "debugString": "<Symbol ADDONS_F1(9437315)>",
         "description": "unknown",
         "index": 131,
         "value": 9437315
     },
-    "AGENT_F2": {
-        "debugString": "<Symbol AGENT_F2(9437316)>",
+    "ADDONS_F2": {
+        "debugString": "<Symbol ADDONS_F2(9437316)>",
         "description": "unknown",
         "index": 132,
         "value": 9437316
     },
-    "AGENT_F3": {
-        "debugString": "<Symbol AGENT_F3(9437317)>",
+    "ADDTICKINGAREATYPE": {
+        "debugString": "<Symbol ADDTICKINGAREATYPE(3145873)>",
+        "description": "AddTickingAreaType",
+        "index": 145,
+        "value": 3145873
+    },
+    "AGENTCOLLECTALLITEMS": {
+        "debugString": "<Symbol AGENTCOLLECTALLITEMS(3145903)>",
+        "description": "AgentCollectAllItems",
+        "index": 175,
+        "value": 3145903
+    },
+    "AGENTCOLLECTCOMMAND": {
+        "debugString": "<Symbol AGENTCOLLECTCOMMAND(3145902)>",
+        "description": "AgentCollectCommand",
+        "index": 174,
+        "value": 3145902
+    },
+    "AGENTCOMMAND": {
+        "debugString": "<Symbol AGENTCOMMAND(3145897)>",
+        "description": "AgentCommand",
+        "index": 169,
+        "value": 3145897
+    },
+    "AGENTDIRECTION": {
+        "debugString": "<Symbol AGENTDIRECTION(3145892)>",
+        "description": "AgentDirection",
+        "index": 164,
+        "value": 3145892
+    },
+    "AGENTDIRECTIONCOMMAND": {
+        "debugString": "<Symbol AGENTDIRECTIONCOMMAND(3145894)>",
+        "description": "AgentDirectionCommand",
+        "index": 166,
+        "value": 3145894
+    },
+    "AGENTDROPCOMMAND": {
+        "debugString": "<Symbol AGENTDROPCOMMAND(3145900)>",
+        "description": "AgentDropCommand",
+        "index": 172,
+        "value": 3145900
+    },
+    "AGENTITEMCOMMAND": {
+        "debugString": "<Symbol AGENTITEMCOMMAND(3145896)>",
+        "description": "AgentItemCommand",
+        "index": 168,
+        "value": 3145896
+    },
+    "AGENTPLACECOMMAND": {
+        "debugString": "<Symbol AGENTPLACECOMMAND(3145901)>",
+        "description": "AgentPlaceCommand",
+        "index": 173,
+        "value": 3145901
+    },
+    "AGENTSETITEMCOMMAND": {
+        "debugString": "<Symbol AGENTSETITEMCOMMAND(3145904)>",
+        "description": "AgentSetItemCommand",
+        "index": 176,
+        "value": 3145904
+    },
+    "AGENTTELEPORTFACING": {
+        "debugString": "<Symbol AGENTTELEPORTFACING(3145891)>",
+        "description": "AgentTeleportFacing",
+        "index": 163,
+        "value": 3145891
+    },
+    "AGENTTPCOMMAND": {
+        "debugString": "<Symbol AGENTTPCOMMAND(3145898)>",
+        "description": "AgentTPCommand",
+        "index": 170,
+        "value": 3145898
+    },
+    "AGENTTRANSFERCOMMAND": {
+        "debugString": "<Symbol AGENTTRANSFERCOMMAND(3145899)>",
+        "description": "AgentTransferCommand",
+        "index": 171,
+        "value": 3145899
+    },
+    "AGENTTURNCOMMAND": {
+        "debugString": "<Symbol AGENTTURNCOMMAND(3145895)>",
+        "description": "AgentTurnCommand",
+        "index": 167,
+        "value": 3145895
+    },
+    "AGENTTURNDIRECTION": {
+        "debugString": "<Symbol AGENTTURNDIRECTION(3145893)>",
+        "description": "AgentTurnDirection",
+        "index": 165,
+        "value": 3145893
+    },
+    "AGENT_DESTROY": {
+        "debugString": "<Symbol AGENT_DESTROY(3145905)>",
+        "description": "AGENT_DESTROY",
+        "index": 177,
+        "value": 3145905
+    },
+    "AGENT_F0": {
+        "debugString": "<Symbol AGENT_F0(9437303)>",
         "description": "unknown",
-        "index": 133,
-        "value": 9437317
+        "index": 119,
+        "value": 9437303
+    },
+    "AGENT_F1": {
+        "debugString": "<Symbol AGENT_F1(9437304)>",
+        "description": "unknown",
+        "index": 120,
+        "value": 9437304
+    },
+    "AGENT_F2": {
+        "debugString": "<Symbol AGENT_F2(9437305)>",
+        "description": "unknown",
+        "index": 121,
+        "value": 9437305
+    },
+    "AGENT_F3": {
+        "debugString": "<Symbol AGENT_F3(9437306)>",
+        "description": "unknown",
+        "index": 122,
+        "value": 9437306
     },
     "AGENT_INSPECT": {
-        "debugString": "<Symbol AGENT_INSPECT(3145920)>",
+        "debugString": "<Symbol AGENT_INSPECT(3145906)>",
         "description": "AGENT_INSPECT",
-        "index": 192,
-        "value": 3145920
+        "index": 178,
+        "value": 3145906
     },
     "AGENT_INTERACT": {
-        "debugString": "<Symbol AGENT_INTERACT(3145921)>",
+        "debugString": "<Symbol AGENT_INTERACT(3145907)>",
         "description": "AGENT_INTERACT",
-        "index": 193,
-        "value": 3145921
+        "index": 179,
+        "value": 3145907
     },
     "ALLDIMENSIONS": {
-        "debugString": "<Symbol ALLDIMENSIONS(3145883)>",
+        "debugString": "<Symbol ALLDIMENSIONS(3145874)>",
         "description": "AllDimensions",
-        "index": 155,
-        "value": 3145883
+        "index": 146,
+        "value": 3145874
     },
     "ALLOWLISTACTION": {
-        "debugString": "<Symbol ALLOWLISTACTION(3145924)>",
+        "debugString": "<Symbol ALLOWLISTACTION(3145910)>",
         "description": "AllowListAction",
-        "index": 196,
-        "value": 3145924
+        "index": 182,
+        "value": 3145910
     },
     "ALLOWLISTCOMMANDALIASES": {
-        "debugString": "<Symbol ALLOWLISTCOMMANDALIASES(3145925)>",
+        "debugString": "<Symbol ALLOWLISTCOMMANDALIASES(3145911)>",
         "description": "allowlistCommandAliases",
-        "index": 197,
-        "value": 3145925
+        "index": 183,
+        "value": 3145911
     },
     "ALLOWLIST_F0": {
-        "debugString": "<Symbol ALLOWLIST_F0(9437322)>",
+        "debugString": "<Symbol ALLOWLIST_F0(9437311)>",
         "description": "unknown",
-        "index": 138,
-        "value": 9437322
+        "index": 127,
+        "value": 9437311
     },
     "ARG": {
         "debugString": "<Symbol ARG(1048602)>",
@@ -210,16 +210,16 @@
         "value": 3145740
     },
     "BLOCKEQUIPMENTSLOT": {
-        "debugString": "<Symbol BLOCKEQUIPMENTSLOT(3145825)>",
+        "debugString": "<Symbol BLOCKEQUIPMENTSLOT(3145816)>",
         "description": "BlockEquipmentSlot",
-        "index": 97,
-        "value": 3145825
+        "index": 88,
+        "value": 3145816
     },
     "BLOCKSSCANMODE": {
-        "debugString": "<Symbol BLOCKSSCANMODE(3145792)>",
+        "debugString": "<Symbol BLOCKSSCANMODE(3145783)>",
         "description": "BlocksScanMode",
-        "index": 64,
-        "value": 3145792
+        "index": 55,
+        "value": 3145783
     },
     "BLOCK_STATE": {
         "debugString": "<Symbol BLOCK_STATE(1048644)>",
@@ -264,172 +264,112 @@
         "value": 3145733
     },
     "BOOLGAMERULE": {
-        "debugString": "<Symbol BOOLGAMERULE(3145798)>",
+        "debugString": "<Symbol BOOLGAMERULE(3145789)>",
         "description": "BoolGameRule",
-        "index": 70,
-        "value": 3145798
+        "index": 61,
+        "value": 3145789
     },
     "BOOLSETTINGNAME": {
-        "debugString": "<Symbol BOOLSETTINGNAME(3145926)>",
+        "debugString": "<Symbol BOOLSETTINGNAME(3145912)>",
         "description": "BoolSettingName",
-        "index": 198,
-        "value": 3145926
+        "index": 184,
+        "value": 3145912
     },
     "CAMERASHAKEACTIONADD": {
-        "debugString": "<Symbol CAMERASHAKEACTIONADD(3145759)>",
+        "debugString": "<Symbol CAMERASHAKEACTIONADD(3145749)>",
         "description": "CameraShakeActionAdd",
-        "index": 31,
-        "value": 3145759
+        "index": 21,
+        "value": 3145749
     },
     "CAMERASHAKEACTIONSTOP": {
-        "debugString": "<Symbol CAMERASHAKEACTIONSTOP(3145760)>",
+        "debugString": "<Symbol CAMERASHAKEACTIONSTOP(3145750)>",
         "description": "CameraShakeActionStop",
-        "index": 32,
-        "value": 3145760
+        "index": 22,
+        "value": 3145750
     },
     "CAMERASHAKETYPE": {
-        "debugString": "<Symbol CAMERASHAKETYPE(3145761)>",
+        "debugString": "<Symbol CAMERASHAKETYPE(3145751)>",
         "description": "CameraShakeType",
-        "index": 33,
-        "value": 3145761
+        "index": 23,
+        "value": 3145751
     },
     "CAMERASHAKE_F0": {
-        "debugString": "<Symbol CAMERASHAKE_F0(9437192)>",
-        "description": "unknown",
-        "index": 8,
-        "value": 9437192
-    },
-    "CAMERA_F0": {
-        "debugString": "<Symbol CAMERA_F0(9437184)>",
+        "debugString": "<Symbol CAMERASHAKE_F0(9437184)>",
         "description": "unknown",
         "index": 0,
         "value": 9437184
     },
-    "CAMERA_F1": {
-        "debugString": "<Symbol CAMERA_F1(9437185)>",
+    "CHANGESETTING_F0": {
+        "debugString": "<Symbol CHANGESETTING_F0(9437312)>",
         "description": "unknown",
-        "index": 1,
-        "value": 9437185
+        "index": 128,
+        "value": 9437312
     },
-    "CAMERA_F2": {
-        "debugString": "<Symbol CAMERA_F2(9437186)>",
+    "CHANGESETTING_F1": {
+        "debugString": "<Symbol CHANGESETTING_F1(9437313)>",
+        "description": "unknown",
+        "index": 129,
+        "value": 9437313
+    },
+    "CIRCLEAREA": {
+        "debugString": "<Symbol CIRCLEAREA(3145839)>",
+        "description": "CircleArea",
+        "index": 111,
+        "value": 3145839
+    },
+    "CLEAREFFECTS": {
+        "debugString": "<Symbol CLEAREFFECTS(3145762)>",
+        "description": "ClearEffects",
+        "index": 34,
+        "value": 3145762
+    },
+    "CLEARSPAWNPOINT_F0": {
+        "debugString": "<Symbol CLEARSPAWNPOINT_F0(9437186)>",
         "description": "unknown",
         "index": 2,
         "value": 9437186
     },
-    "CAMERA_F3": {
-        "debugString": "<Symbol CAMERA_F3(9437187)>",
+    "CLEAR_F0": {
+        "debugString": "<Symbol CLEAR_F0(9437185)>",
+        "description": "unknown",
+        "index": 1,
+        "value": 9437185
+    },
+    "CLONEMODE": {
+        "debugString": "<Symbol CLONEMODE(3145755)>",
+        "description": "CloneMode",
+        "index": 27,
+        "value": 3145755
+    },
+    "CLONE_F0": {
+        "debugString": "<Symbol CLONE_F0(9437187)>",
         "description": "unknown",
         "index": 3,
         "value": 9437187
     },
-    "CAMERA_F4": {
-        "debugString": "<Symbol CAMERA_F4(9437188)>",
+    "CLONE_F1": {
+        "debugString": "<Symbol CLONE_F1(9437188)>",
         "description": "unknown",
         "index": 4,
         "value": 9437188
     },
-    "CAMERA_F5": {
-        "debugString": "<Symbol CAMERA_F5(9437189)>",
+    "CLONE_F2": {
+        "debugString": "<Symbol CLONE_F2(9437189)>",
         "description": "unknown",
         "index": 5,
         "value": 9437189
     },
-    "CAMERA_F6": {
-        "debugString": "<Symbol CAMERA_F6(9437190)>",
-        "description": "unknown",
-        "index": 6,
-        "value": 9437190
-    },
-    "CAMERA_F7": {
-        "debugString": "<Symbol CAMERA_F7(9437191)>",
-        "description": "unknown",
-        "index": 7,
-        "value": 9437191
-    },
-    "CHANGESETTING_F0": {
-        "debugString": "<Symbol CHANGESETTING_F0(9437323)>",
-        "description": "unknown",
-        "index": 139,
-        "value": 9437323
-    },
-    "CHANGESETTING_F1": {
-        "debugString": "<Symbol CHANGESETTING_F1(9437324)>",
-        "description": "unknown",
-        "index": 140,
-        "value": 9437324
-    },
-    "CIRCLEAREA": {
-        "debugString": "<Symbol CIRCLEAREA(3145848)>",
-        "description": "CircleArea",
-        "index": 120,
-        "value": 3145848
-    },
-    "CLEAR": {
-        "debugString": "<Symbol CLEAR(3145754)>",
-        "description": "clear",
-        "index": 26,
-        "value": 3145754
-    },
-    "CLEAREFFECTS": {
-        "debugString": "<Symbol CLEAREFFECTS(3145771)>",
-        "description": "ClearEffects",
-        "index": 43,
-        "value": 3145771
-    },
-    "CLEARSPAWNPOINT_F0": {
-        "debugString": "<Symbol CLEARSPAWNPOINT_F0(9437194)>",
-        "description": "unknown",
-        "index": 10,
-        "value": 9437194
-    },
-    "CLEAR_F0": {
-        "debugString": "<Symbol CLEAR_F0(9437193)>",
-        "description": "unknown",
-        "index": 9,
-        "value": 9437193
-    },
-    "CLONEMODE": {
-        "debugString": "<Symbol CLONEMODE(3145764)>",
-        "description": "CloneMode",
-        "index": 36,
-        "value": 3145764
-    },
-    "CLONE_F0": {
-        "debugString": "<Symbol CLONE_F0(9437195)>",
-        "description": "unknown",
-        "index": 11,
-        "value": 9437195
-    },
-    "CLONE_F1": {
-        "debugString": "<Symbol CLONE_F1(9437196)>",
-        "description": "unknown",
-        "index": 12,
-        "value": 9437196
-    },
-    "CLONE_F2": {
-        "debugString": "<Symbol CLONE_F2(9437197)>",
-        "description": "unknown",
-        "index": 13,
-        "value": 9437197
-    },
     "CODEBUILDERACTIONINVENTORY": {
-        "debugString": "<Symbol CODEBUILDERACTIONINVENTORY(3145922)>",
+        "debugString": "<Symbol CODEBUILDERACTIONINVENTORY(3145908)>",
         "description": "CodeBuilderActionInventory",
-        "index": 194,
-        "value": 3145922
+        "index": 180,
+        "value": 3145908
     },
     "CODEBUILDER_ACTORINFO_F0": {
-        "debugString": "<Symbol CODEBUILDER_ACTORINFO_F0(9437318)>",
+        "debugString": "<Symbol CODEBUILDER_ACTORINFO_F0(9437307)>",
         "description": "unknown",
-        "index": 134,
-        "value": 9437318
-    },
-    "COLOR": {
-        "debugString": "<Symbol COLOR(3145757)>",
-        "description": "color",
-        "index": 29,
-        "value": 3145757
+        "index": 123,
+        "value": 9437307
     },
     "COMMAND": {
         "debugString": "<Symbol COMMAND(1048650)>",
@@ -438,10 +378,10 @@
         "value": 1048650
     },
     "COMMANDNAME": {
-        "debugString": "<Symbol COMMANDNAME(3145758)>",
+        "debugString": "<Symbol COMMANDNAME(3145752)>",
         "description": "CommandName",
-        "index": 30,
-        "value": 3145758
+        "index": 24,
+        "value": 3145752
     },
     "COMPAREOPERATOR": {
         "debugString": "<Symbol COMPAREOPERATOR(1048583)>",
@@ -486,106 +426,100 @@
         "value": 1048624
     },
     "CREATE": {
-        "debugString": "<Symbol CREATE(3145934)>",
+        "debugString": "<Symbol CREATE(3145920)>",
         "description": "Create",
-        "index": 206,
-        "value": 3145934
+        "index": 192,
+        "value": 3145920
     },
     "DAMAGECAUSE": {
-        "debugString": "<Symbol DAMAGECAUSE(3145765)>",
+        "debugString": "<Symbol DAMAGECAUSE(3145756)>",
         "description": "DamageCause",
-        "index": 37,
-        "value": 3145765
+        "index": 28,
+        "value": 3145756
     },
     "DAMAGEORIGINACTOR": {
-        "debugString": "<Symbol DAMAGEORIGINACTOR(3145766)>",
+        "debugString": "<Symbol DAMAGEORIGINACTOR(3145757)>",
         "description": "DamageOriginActor",
-        "index": 38,
-        "value": 3145766
+        "index": 29,
+        "value": 3145757
     },
     "DAMAGE_F0": {
-        "debugString": "<Symbol DAMAGE_F0(9437198)>",
+        "debugString": "<Symbol DAMAGE_F0(9437190)>",
         "description": "unknown",
-        "index": 14,
-        "value": 9437198
+        "index": 6,
+        "value": 9437190
     },
     "DAMAGE_F1": {
-        "debugString": "<Symbol DAMAGE_F1(9437199)>",
+        "debugString": "<Symbol DAMAGE_F1(9437191)>",
         "description": "unknown",
-        "index": 15,
-        "value": 9437199
+        "index": 7,
+        "value": 9437191
     },
     "DAMAGE_F2": {
-        "debugString": "<Symbol DAMAGE_F2(9437200)>",
+        "debugString": "<Symbol DAMAGE_F2(9437192)>",
         "description": "unknown",
-        "index": 16,
-        "value": 9437200
+        "index": 8,
+        "value": 9437192
     },
     "DAYLOCKCOMMANDALIASES": {
-        "debugString": "<Symbol DAYLOCKCOMMANDALIASES(3145767)>",
+        "debugString": "<Symbol DAYLOCKCOMMANDALIASES(3145758)>",
         "description": "daylockCommandAliases",
-        "index": 39,
-        "value": 3145767
+        "index": 30,
+        "value": 3145758
     },
     "DAYLOCK_F0": {
-        "debugString": "<Symbol DAYLOCK_F0(9437201)>",
+        "debugString": "<Symbol DAYLOCK_F0(9437193)>",
         "description": "unknown",
-        "index": 17,
-        "value": 9437201
-    },
-    "DEFAULT": {
-        "debugString": "<Symbol DEFAULT(3145753)>",
-        "description": "default",
-        "index": 25,
-        "value": 3145753
+        "index": 9,
+        "value": 9437193
     },
     "DELETE": {
-        "debugString": "<Symbol DELETE(3145935)>",
+        "debugString": "<Symbol DELETE(3145921)>",
         "description": "Delete",
-        "index": 207,
-        "value": 3145935
+        "index": 193,
+        "value": 3145921
     },
     "DEOP_F0": {
-        "debugString": "<Symbol DEOP_F0(9437202)>",
+        "debugString": "<Symbol DEOP_F0(9437194)>",
         "description": "unknown",
-        "index": 18,
-        "value": 9437202
+        "index": 10,
+        "value": 9437194
     },
     "DIALOGUECHANGEACTION": {
-        "debugString": "<Symbol DIALOGUECHANGEACTION(3145769)>",
+        "debugString": "<Symbol DIALOGUECHANGEACTION(3145760)>",
         "description": "DialogueChangeAction",
-        "index": 41,
-        "value": 3145769
+        "index": 32,
+        "value": 3145760
     },
     "DIALOGUEOPENACTION": {
-        "debugString": "<Symbol DIALOGUEOPENACTION(3145768)>",
+        "debugString": "<Symbol DIALOGUEOPENACTION(3145759)>",
         "description": "DialogueOpenAction",
-        "index": 40,
-        "value": 3145768
+        "index": 31,
+        "value": 3145759
     },
     "DIALOGUE_F0": {
-        "debugString": "<Symbol DIALOGUE_F0(9437203)>",
+        "debugString": "<Symbol DIALOGUE_F0(9437195)>",
         "description": "unknown",
-        "index": 19,
-        "value": 9437203
+        "index": 11,
+        "value": 9437195
     },
     "DIFFICULTY": {
-        "debugString": "<Symbol DIFFICULTY(3145770)>",
+        "debugString": "<Symbol DIFFICULTY(3145761)>",
         "description": "Difficulty",
-        "index": 42,
-        "value": 3145770
+        "index": 33,
+        "value": 3145761
     },
     "DIFFICULTYSETTINGNAME": {
-        "debugString": "<Symbol DIFFICULTYSETTINGNAME(3145927)>",
+        "debugString": "<Symbol DIFFICULTYSETTINGNAME(3145913)>",
         "description": "DifficultySettingName",
-        "index": 199,
-        "value": 3145927
+        "index": 185,
+        "value": 3145913
     },
     "DIFFICULTY_F0": {
-        "debugString": "<Symbol DIFFICULTY_F0(9437204)>",
+        "debugString": "<Symbol DIFFICULTY_F0(9437196)>",
         "description": "unknown",
-        "index": 20,
-        "value": 9437204
+        "index": 12,
+        "value": 9437196
     },
     "DIGITSPARAM": {
         "debugString": "<Symbol DIGITSPARAM(3145732)>",
@@ -600,22 +534,16 @@
         "value": 3145739
     },
     "DIMENSIONTYPE": {
-        "debugString": "<Symbol DIMENSIONTYPE(3145954)>",
+        "debugString": "<Symbol DIMENSIONTYPE(3145940)>",
         "description": "DimensionType",
-        "index": 226,
-        "value": 3145954
+        "index": 212,
+        "value": 3145940
     },
     "DISPLAYNAME": {
-        "debugString": "<Symbol DISPLAYNAME(3145947)>",
+        "debugString": "<Symbol DISPLAYNAME(3145933)>",
         "description": "DisplayName",
-        "index": 219,
-        "value": 3145947
-    },
-    "EASE": {
-        "debugString": "<Symbol EASE(3145750)>",
-        "description": "ease",
-        "index": 22,
-        "value": 3145750
+        "index": 205,
+        "value": 3145933
     },
     "EASING": {
         "debugString": "<Symbol EASING(3145748)>",
@@ -624,22 +552,22 @@
         "value": 3145748
     },
     "EFFECT": {
-        "debugString": "<Symbol EFFECT(3145772)>",
+        "debugString": "<Symbol EFFECT(3145763)>",
         "description": "Effect",
-        "index": 44,
-        "value": 3145772
+        "index": 35,
+        "value": 3145763
     },
     "EFFECT_F0": {
-        "debugString": "<Symbol EFFECT_F0(9437205)>",
+        "debugString": "<Symbol EFFECT_F0(9437197)>",
         "description": "unknown",
-        "index": 21,
-        "value": 9437205
+        "index": 13,
+        "value": 9437197
     },
     "EFFECT_F1": {
-        "debugString": "<Symbol EFFECT_F1(9437206)>",
+        "debugString": "<Symbol EFFECT_F1(9437198)>",
         "description": "unknown",
-        "index": 22,
-        "value": 9437206
+        "index": 14,
+        "value": 9437198
     },
     "ENCHANT": {
         "debugString": "<Symbol ENCHANT(3145745)>",
@@ -648,16 +576,16 @@
         "value": 3145745
     },
     "ENCHANT_F0": {
-        "debugString": "<Symbol ENCHANT_F0(9437319)>",
+        "debugString": "<Symbol ENCHANT_F0(9437308)>",
         "description": "unknown",
-        "index": 135,
-        "value": 9437319
+        "index": 124,
+        "value": 9437308
     },
     "ENCHANT_F1": {
-        "debugString": "<Symbol ENCHANT_F1(9437320)>",
+        "debugString": "<Symbol ENCHANT_F1(9437309)>",
         "description": "unknown",
-        "index": 136,
-        "value": 9437320
+        "index": 125,
+        "value": 9437309
     },
     "ENTITYEQUIPMENTSLOT": {
         "debugString": "<Symbol ENTITYEQUIPMENTSLOT(3145737)>",
@@ -684,82 +612,76 @@
         "value": 1048619
     },
     "EVENTENTITYACTION": {
-        "debugString": "<Symbol EVENTENTITYACTION(3145773)>",
+        "debugString": "<Symbol EVENTENTITYACTION(3145764)>",
         "description": "EventEntityAction",
-        "index": 45,
-        "value": 3145773
+        "index": 36,
+        "value": 3145764
     },
     "EVENT_F0": {
-        "debugString": "<Symbol EVENT_F0(9437207)>",
+        "debugString": "<Symbol EVENT_F0(9437199)>",
+        "description": "unknown",
+        "index": 15,
+        "value": 9437199
+    },
+    "EXECUTECHAINEDOPTION_0": {
+        "debugString": "<Symbol EXECUTECHAINEDOPTION_0(3145781)>",
+        "description": "ExecuteChainedOption_0",
+        "index": 53,
+        "value": 3145781
+    },
+    "EXECUTEMODEDETECT": {
+        "debugString": "<Symbol EXECUTEMODEDETECT(3145765)>",
+        "description": "ExecuteModeDetect",
+        "index": 37,
+        "value": 3145765
+    },
+    "EXECUTE_F0": {
+        "debugString": "<Symbol EXECUTE_F0(9437200)>",
+        "description": "unknown",
+        "index": 16,
+        "value": 9437200
+    },
+    "EXECUTE_F1": {
+        "debugString": "<Symbol EXECUTE_F1(9437201)>",
+        "description": "unknown",
+        "index": 17,
+        "value": 9437201
+    },
+    "EXECUTE_F2": {
+        "debugString": "<Symbol EXECUTE_F2(9437202)>",
+        "description": "unknown",
+        "index": 18,
+        "value": 9437202
+    },
+    "EXECUTE_F3": {
+        "debugString": "<Symbol EXECUTE_F3(9437203)>",
+        "description": "unknown",
+        "index": 19,
+        "value": 9437203
+    },
+    "EXECUTE_F4": {
+        "debugString": "<Symbol EXECUTE_F4(9437204)>",
+        "description": "unknown",
+        "index": 20,
+        "value": 9437204
+    },
+    "EXECUTE_F5": {
+        "debugString": "<Symbol EXECUTE_F5(9437205)>",
+        "description": "unknown",
+        "index": 21,
+        "value": 9437205
+    },
+    "EXECUTE_F6": {
+        "debugString": "<Symbol EXECUTE_F6(9437206)>",
+        "description": "unknown",
+        "index": 22,
+        "value": 9437206
+    },
+    "EXECUTE_F7": {
+        "debugString": "<Symbol EXECUTE_F7(9437207)>",
         "description": "unknown",
         "index": 23,
         "value": 9437207
-    },
-    "EXECUTECHAINEDOPTION_0": {
-        "debugString": "<Symbol EXECUTECHAINEDOPTION_0(3145790)>",
-        "description": "ExecuteChainedOption_0",
-        "index": 62,
-        "value": 3145790
-    },
-    "EXECUTEMODEDETECT": {
-        "debugString": "<Symbol EXECUTEMODEDETECT(3145774)>",
-        "description": "ExecuteModeDetect",
-        "index": 46,
-        "value": 3145774
-    },
-    "EXECUTE_F0": {
-        "debugString": "<Symbol EXECUTE_F0(9437208)>",
-        "description": "unknown",
-        "index": 24,
-        "value": 9437208
-    },
-    "EXECUTE_F1": {
-        "debugString": "<Symbol EXECUTE_F1(9437209)>",
-        "description": "unknown",
-        "index": 25,
-        "value": 9437209
-    },
-    "EXECUTE_F2": {
-        "debugString": "<Symbol EXECUTE_F2(9437210)>",
-        "description": "unknown",
-        "index": 26,
-        "value": 9437210
-    },
-    "EXECUTE_F3": {
-        "debugString": "<Symbol EXECUTE_F3(9437211)>",
-        "description": "unknown",
-        "index": 27,
-        "value": 9437211
-    },
-    "EXECUTE_F4": {
-        "debugString": "<Symbol EXECUTE_F4(9437212)>",
-        "description": "unknown",
-        "index": 28,
-        "value": 9437212
-    },
-    "EXECUTE_F5": {
-        "debugString": "<Symbol EXECUTE_F5(9437213)>",
-        "description": "unknown",
-        "index": 29,
-        "value": 9437213
-    },
-    "EXECUTE_F6": {
-        "debugString": "<Symbol EXECUTE_F6(9437214)>",
-        "description": "unknown",
-        "index": 30,
-        "value": 9437214
-    },
-    "EXECUTE_F7": {
-        "debugString": "<Symbol EXECUTE_F7(9437215)>",
-        "description": "unknown",
-        "index": 31,
-        "value": 9437215
-    },
-    "FADE": {
-        "debugString": "<Symbol FADE(3145755)>",
-        "description": "fade",
-        "index": 27,
-        "value": 3145755
     },
     "FAMILYARG": {
         "debugString": "<Symbol FAMILYARG(1048607)>",
@@ -774,40 +696,40 @@
         "value": 3145741
     },
     "FILLMODE": {
-        "debugString": "<Symbol FILLMODE(3145794)>",
+        "debugString": "<Symbol FILLMODE(3145785)>",
         "description": "FillMode",
-        "index": 66,
-        "value": 3145794
+        "index": 57,
+        "value": 3145785
     },
     "FILLTYPE": {
-        "debugString": "<Symbol FILLTYPE(3145843)>",
+        "debugString": "<Symbol FILLTYPE(3145834)>",
         "description": "FillType",
-        "index": 115,
-        "value": 3145843
+        "index": 106,
+        "value": 3145834
     },
     "FILL_F0": {
-        "debugString": "<Symbol FILL_F0(9437216)>",
+        "debugString": "<Symbol FILL_F0(9437208)>",
         "description": "unknown",
-        "index": 32,
-        "value": 9437216
+        "index": 24,
+        "value": 9437208
     },
     "FILL_F1": {
-        "debugString": "<Symbol FILL_F1(9437217)>",
+        "debugString": "<Symbol FILL_F1(9437209)>",
         "description": "unknown",
-        "index": 33,
-        "value": 9437217
+        "index": 25,
+        "value": 9437209
     },
     "FILL_F2": {
-        "debugString": "<Symbol FILL_F2(9437218)>",
+        "debugString": "<Symbol FILL_F2(9437210)>",
         "description": "unknown",
-        "index": 34,
-        "value": 9437218
+        "index": 26,
+        "value": 9437210
     },
     "FILL_F3": {
-        "debugString": "<Symbol FILL_F3(9437219)>",
+        "debugString": "<Symbol FILL_F3(9437211)>",
         "description": "unknown",
-        "index": 35,
-        "value": 9437219
+        "index": 27,
+        "value": 9437211
     },
     "FLOAT": {
         "debugString": "<Symbol FLOAT(1048578)>",
@@ -816,16 +738,16 @@
         "value": 1048578
     },
     "FOG_F0": {
-        "debugString": "<Symbol FOG_F0(9437220)>",
+        "debugString": "<Symbol FOG_F0(9437212)>",
         "description": "unknown",
-        "index": 36,
-        "value": 9437220
+        "index": 28,
+        "value": 9437212
     },
     "FOG_F1": {
-        "debugString": "<Symbol FOG_F1(9437221)>",
+        "debugString": "<Symbol FOG_F1(9437213)>",
         "description": "unknown",
-        "index": 37,
-        "value": 9437221
+        "index": 29,
+        "value": 9437213
     },
     "FULLINTEGERRANGE": {
         "debugString": "<Symbol FULLINTEGERRANGE(1048599)>",
@@ -834,10 +756,10 @@
         "value": 1048599
     },
     "FUNCTION_F0": {
-        "debugString": "<Symbol FUNCTION_F0(9437222)>",
+        "debugString": "<Symbol FUNCTION_F0(9437214)>",
         "description": "unknown",
-        "index": 38,
-        "value": 9437222
+        "index": 30,
+        "value": 9437214
     },
     "GAMEMODE": {
         "debugString": "<Symbol GAMEMODE(3145728)>",
@@ -846,94 +768,94 @@
         "value": 3145728
     },
     "GAMEMODE_F0": {
-        "debugString": "<Symbol GAMEMODE_F0(9437223)>",
+        "debugString": "<Symbol GAMEMODE_F0(9437215)>",
         "description": "unknown",
-        "index": 39,
-        "value": 9437223
+        "index": 31,
+        "value": 9437215
     },
     "GAMERULE_F0": {
-        "debugString": "<Symbol GAMERULE_F0(9437224)>",
+        "debugString": "<Symbol GAMERULE_F0(9437216)>",
         "description": "unknown",
-        "index": 40,
-        "value": 9437224
+        "index": 32,
+        "value": 9437216
     },
     "GAMETESTMODECLEARALL": {
-        "debugString": "<Symbol GAMETESTMODECLEARALL(3145804)>",
+        "debugString": "<Symbol GAMETESTMODECLEARALL(3145795)>",
         "description": "GameTestModeClearAll",
-        "index": 76,
-        "value": 3145804
+        "index": 67,
+        "value": 3145795
     },
     "GAMETESTMODECREATETEST": {
-        "debugString": "<Symbol GAMETESTMODECREATETEST(3145806)>",
+        "debugString": "<Symbol GAMETESTMODECREATETEST(3145797)>",
         "description": "GameTestModeCreateTest",
-        "index": 78,
-        "value": 3145806
+        "index": 69,
+        "value": 3145797
     },
     "GAMETESTMODERUN": {
-        "debugString": "<Symbol GAMETESTMODERUN(3145800)>",
+        "debugString": "<Symbol GAMETESTMODERUN(3145791)>",
         "description": "GameTestModeRun",
-        "index": 72,
-        "value": 3145800
+        "index": 63,
+        "value": 3145791
     },
     "GAMETESTMODERUNSET": {
-        "debugString": "<Symbol GAMETESTMODERUNSET(3145802)>",
+        "debugString": "<Symbol GAMETESTMODERUNSET(3145793)>",
         "description": "GameTestModeRunSet",
-        "index": 74,
-        "value": 3145802
+        "index": 65,
+        "value": 3145793
     },
     "GAMETESTMODERUNSETUNTILFAIL": {
-        "debugString": "<Symbol GAMETESTMODERUNSETUNTILFAIL(3145803)>",
+        "debugString": "<Symbol GAMETESTMODERUNSETUNTILFAIL(3145794)>",
         "description": "GameTestModeRunSetUntilFail",
-        "index": 75,
-        "value": 3145803
+        "index": 66,
+        "value": 3145794
     },
     "GAMETESTMODERUNTHIS": {
-        "debugString": "<Symbol GAMETESTMODERUNTHIS(3145801)>",
+        "debugString": "<Symbol GAMETESTMODERUNTHIS(3145792)>",
         "description": "GameTestModeRunThis",
-        "index": 73,
-        "value": 3145801
+        "index": 64,
+        "value": 3145792
     },
     "GAMETESTMODESHOWPOSITION": {
-        "debugString": "<Symbol GAMETESTMODESHOWPOSITION(3145805)>",
+        "debugString": "<Symbol GAMETESTMODESHOWPOSITION(3145796)>",
         "description": "GameTestModeShowPosition",
-        "index": 77,
-        "value": 3145805
+        "index": 68,
+        "value": 3145796
     },
     "GAMETESTRUNNEARBYTESTS": {
-        "debugString": "<Symbol GAMETESTRUNNEARBYTESTS(3145807)>",
+        "debugString": "<Symbol GAMETESTRUNNEARBYTESTS(3145798)>",
         "description": "GameTestRunNearbyTests",
-        "index": 79,
-        "value": 3145807
+        "index": 70,
+        "value": 3145798
     },
     "GAMETESTSTOPTESTS": {
-        "debugString": "<Symbol GAMETESTSTOPTESTS(3145808)>",
+        "debugString": "<Symbol GAMETESTSTOPTESTS(3145799)>",
         "description": "GameTestStopTests",
-        "index": 80,
-        "value": 3145808
+        "index": 71,
+        "value": 3145799
     },
     "GAMETEST_F0": {
-        "debugString": "<Symbol GAMETEST_F0(9437225)>",
+        "debugString": "<Symbol GAMETEST_F0(9437217)>",
         "description": "unknown",
-        "index": 41,
-        "value": 9437225
+        "index": 33,
+        "value": 9437217
     },
     "GAMETEST_F1": {
-        "debugString": "<Symbol GAMETEST_F1(9437226)>",
+        "debugString": "<Symbol GAMETEST_F1(9437218)>",
         "description": "unknown",
-        "index": 42,
-        "value": 9437226
+        "index": 34,
+        "value": 9437218
     },
     "GETTOPSOLIDBLOCK_F0": {
-        "debugString": "<Symbol GETTOPSOLIDBLOCK_F0(9437227)>",
+        "debugString": "<Symbol GETTOPSOLIDBLOCK_F0(9437219)>",
         "description": "unknown",
-        "index": 43,
-        "value": 9437227
+        "index": 35,
+        "value": 9437219
     },
     "GIVE_F0": {
-        "debugString": "<Symbol GIVE_F0(9437228)>",
+        "debugString": "<Symbol GIVE_F0(9437220)>",
         "description": "unknown",
-        "index": 44,
-        "value": 9437228
+        "index": 36,
+        "value": 9437220
     },
     "HASITEMARG": {
         "debugString": "<Symbol HASITEMARG(1048616)>",
@@ -966,16 +888,16 @@
         "value": 1048618
     },
     "HELPCOMMANDALIASES": {
-        "debugString": "<Symbol HELPCOMMANDALIASES(3145809)>",
+        "debugString": "<Symbol HELPCOMMANDALIASES(3145800)>",
         "description": "helpCommandAliases",
-        "index": 81,
-        "value": 3145809
+        "index": 72,
+        "value": 3145800
     },
     "HELP_F0": {
-        "debugString": "<Symbol HELP_F0(9437229)>",
+        "debugString": "<Symbol HELP_F0(9437221)>",
         "description": "unknown",
-        "index": 45,
-        "value": 9437229
+        "index": 37,
+        "value": 9437221
     },
     "ID": {
         "debugString": "<Symbol ID(1048620)>",
@@ -990,10 +912,10 @@
         "value": 1048621
     },
     "INPUTPERMISSION_F0": {
-        "debugString": "<Symbol INPUTPERMISSION_F0(9437230)>",
+        "debugString": "<Symbol INPUTPERMISSION_F0(9437222)>",
         "description": "unknown",
-        "index": 46,
-        "value": 9437230
+        "index": 38,
+        "value": 9437222
     },
     "INT": {
         "debugString": "<Symbol INT(1048577)>",
@@ -1020,10 +942,10 @@
         "value": 1048596
     },
     "INTGAMERULE": {
-        "debugString": "<Symbol INTGAMERULE(3145799)>",
+        "debugString": "<Symbol INTGAMERULE(3145790)>",
         "description": "IntGameRule",
-        "index": 71,
-        "value": 3145799
+        "index": 62,
+        "value": 3145790
     },
     "INTPARAM": {
         "debugString": "<Symbol INTPARAM(3145731)>",
@@ -1086,112 +1008,112 @@
         "value": 1048636
     },
     "KICK_F0": {
-        "debugString": "<Symbol KICK_F0(9437231)>",
+        "debugString": "<Symbol KICK_F0(9437223)>",
+        "description": "unknown",
+        "index": 39,
+        "value": 9437223
+    },
+    "KILL_F0": {
+        "debugString": "<Symbol KILL_F0(9437224)>",
+        "description": "unknown",
+        "index": 40,
+        "value": 9437224
+    },
+    "LIST": {
+        "debugString": "<Symbol LIST(3145924)>",
+        "description": "List",
+        "index": 196,
+        "value": 3145924
+    },
+    "LISTDETAILS": {
+        "debugString": "<Symbol LISTDETAILS(3145805)>",
+        "description": "ListDetails",
+        "index": 77,
+        "value": 3145805
+    },
+    "LISTD_F0": {
+        "debugString": "<Symbol LISTD_F0(9437225)>",
+        "description": "unknown",
+        "index": 41,
+        "value": 9437225
+    },
+    "LL_F0": {
+        "debugString": "<Symbol LL_F0(9437336)>",
+        "description": "unknown",
+        "index": 152,
+        "value": 9437336
+    },
+    "LOCATESUBCOMMANDBIOME": {
+        "debugString": "<Symbol LOCATESUBCOMMANDBIOME(3145807)>",
+        "description": "LocateSubcommandBiome",
+        "index": 79,
+        "value": 3145807
+    },
+    "LOCATESUBCOMMANDSTRUCTURE": {
+        "debugString": "<Symbol LOCATESUBCOMMANDSTRUCTURE(3145806)>",
+        "description": "LocateSubcommandStructure",
+        "index": 78,
+        "value": 3145806
+    },
+    "LOCATE_F0": {
+        "debugString": "<Symbol LOCATE_F0(9437226)>",
+        "description": "unknown",
+        "index": 42,
+        "value": 9437226
+    },
+    "LOOT_F0": {
+        "debugString": "<Symbol LOOT_F0(9437227)>",
+        "description": "unknown",
+        "index": 43,
+        "value": 9437227
+    },
+    "LOOT_F1": {
+        "debugString": "<Symbol LOOT_F1(9437228)>",
+        "description": "unknown",
+        "index": 44,
+        "value": 9437228
+    },
+    "LOOT_F2": {
+        "debugString": "<Symbol LOOT_F2(9437229)>",
+        "description": "unknown",
+        "index": 45,
+        "value": 9437229
+    },
+    "LOOT_F3": {
+        "debugString": "<Symbol LOOT_F3(9437230)>",
+        "description": "unknown",
+        "index": 46,
+        "value": 9437230
+    },
+    "LOOT_F4": {
+        "debugString": "<Symbol LOOT_F4(9437231)>",
         "description": "unknown",
         "index": 47,
         "value": 9437231
     },
-    "KILL_F0": {
-        "debugString": "<Symbol KILL_F0(9437232)>",
+    "LOOT_F5": {
+        "debugString": "<Symbol LOOT_F5(9437232)>",
         "description": "unknown",
         "index": 48,
         "value": 9437232
     },
-    "LIST": {
-        "debugString": "<Symbol LIST(3145938)>",
-        "description": "List",
-        "index": 210,
-        "value": 3145938
-    },
-    "LISTDETAILS": {
-        "debugString": "<Symbol LISTDETAILS(3145814)>",
-        "description": "ListDetails",
-        "index": 86,
-        "value": 3145814
-    },
-    "LISTD_F0": {
-        "debugString": "<Symbol LISTD_F0(9437233)>",
+    "LOOT_F6": {
+        "debugString": "<Symbol LOOT_F6(9437233)>",
         "description": "unknown",
         "index": 49,
         "value": 9437233
     },
-    "LL_F0": {
-        "debugString": "<Symbol LL_F0(9437347)>",
-        "description": "unknown",
-        "index": 163,
-        "value": 9437347
-    },
-    "LOCATESUBCOMMANDBIOME": {
-        "debugString": "<Symbol LOCATESUBCOMMANDBIOME(3145816)>",
-        "description": "LocateSubcommandBiome",
-        "index": 88,
-        "value": 3145816
-    },
-    "LOCATESUBCOMMANDSTRUCTURE": {
-        "debugString": "<Symbol LOCATESUBCOMMANDSTRUCTURE(3145815)>",
-        "description": "LocateSubcommandStructure",
-        "index": 87,
-        "value": 3145815
-    },
-    "LOCATE_F0": {
-        "debugString": "<Symbol LOCATE_F0(9437234)>",
+    "LOOT_F7": {
+        "debugString": "<Symbol LOOT_F7(9437234)>",
         "description": "unknown",
         "index": 50,
         "value": 9437234
     },
-    "LOOT_F0": {
-        "debugString": "<Symbol LOOT_F0(9437235)>",
+    "LOOT_F8": {
+        "debugString": "<Symbol LOOT_F8(9437235)>",
         "description": "unknown",
         "index": 51,
         "value": 9437235
-    },
-    "LOOT_F1": {
-        "debugString": "<Symbol LOOT_F1(9437236)>",
-        "description": "unknown",
-        "index": 52,
-        "value": 9437236
-    },
-    "LOOT_F2": {
-        "debugString": "<Symbol LOOT_F2(9437237)>",
-        "description": "unknown",
-        "index": 53,
-        "value": 9437237
-    },
-    "LOOT_F3": {
-        "debugString": "<Symbol LOOT_F3(9437238)>",
-        "description": "unknown",
-        "index": 54,
-        "value": 9437238
-    },
-    "LOOT_F4": {
-        "debugString": "<Symbol LOOT_F4(9437239)>",
-        "description": "unknown",
-        "index": 55,
-        "value": 9437239
-    },
-    "LOOT_F5": {
-        "debugString": "<Symbol LOOT_F5(9437240)>",
-        "description": "unknown",
-        "index": 56,
-        "value": 9437240
-    },
-    "LOOT_F6": {
-        "debugString": "<Symbol LOOT_F6(9437241)>",
-        "description": "unknown",
-        "index": 57,
-        "value": 9437241
-    },
-    "LOOT_F7": {
-        "debugString": "<Symbol LOOT_F7(9437242)>",
-        "description": "unknown",
-        "index": 58,
-        "value": 9437242
-    },
-    "LOOT_F8": {
-        "debugString": "<Symbol LOOT_F8(9437243)>",
-        "description": "unknown",
-        "index": 59,
-        "value": 9437243
     },
     "MARG": {
         "debugString": "<Symbol MARG(1048603)>",
@@ -1200,22 +1122,22 @@
         "value": 1048603
     },
     "MASKMODE": {
-        "debugString": "<Symbol MASKMODE(3145762)>",
+        "debugString": "<Symbol MASKMODE(3145753)>",
         "description": "MaskMode",
-        "index": 34,
-        "value": 3145762
+        "index": 25,
+        "value": 3145753
     },
     "MASKMODEFILTERED": {
-        "debugString": "<Symbol MASKMODEFILTERED(3145763)>",
+        "debugString": "<Symbol MASKMODEFILTERED(3145754)>",
         "description": "MaskModeFiltered",
-        "index": 35,
-        "value": 3145763
+        "index": 26,
+        "value": 3145754
     },
     "MEMBER": {
-        "debugString": "<Symbol MEMBER(3145946)>",
+        "debugString": "<Symbol MEMBER(3145932)>",
         "description": "Member",
-        "index": 218,
-        "value": 3145946
+        "index": 204,
+        "value": 3145932
     },
     "MESSAGE": {
         "debugString": "<Symbol MESSAGE(1048631)>",
@@ -1236,10 +1158,10 @@
         "value": 1048632
     },
     "ME_F0": {
-        "debugString": "<Symbol ME_F0(9437244)>",
+        "debugString": "<Symbol ME_F0(9437236)>",
         "description": "unknown",
-        "index": 60,
-        "value": 9437244
+        "index": 52,
+        "value": 9437236
     },
     "MIRROR": {
         "debugString": "<Symbol MIRROR(3145747)>",
@@ -1248,82 +1170,82 @@
         "value": 3145747
     },
     "MOBEVENT": {
-        "debugString": "<Symbol MOBEVENT(3145826)>",
+        "debugString": "<Symbol MOBEVENT(3145817)>",
         "description": "MobEvent",
-        "index": 98,
-        "value": 3145826
+        "index": 89,
+        "value": 3145817
     },
     "MOBEVENT_F0": {
-        "debugString": "<Symbol MOBEVENT_F0(9437245)>",
+        "debugString": "<Symbol MOBEVENT_F0(9437237)>",
         "description": "unknown",
-        "index": 61,
-        "value": 9437245
+        "index": 53,
+        "value": 9437237
     },
     "MONEYOP1": {
-        "debugString": "<Symbol MONEYOP1(3145931)>",
+        "debugString": "<Symbol MONEYOP1(3145917)>",
         "description": "MoneyOP1",
-        "index": 203,
-        "value": 3145931
+        "index": 189,
+        "value": 3145917
     },
     "MONEYOP2": {
-        "debugString": "<Symbol MONEYOP2(3145932)>",
+        "debugString": "<Symbol MONEYOP2(3145918)>",
         "description": "MoneyOP2",
-        "index": 204,
-        "value": 3145932
+        "index": 190,
+        "value": 3145918
     },
     "MONEYOP3": {
-        "debugString": "<Symbol MONEYOP3(3145933)>",
+        "debugString": "<Symbol MONEYOP3(3145919)>",
         "description": "MoneyOP3",
-        "index": 205,
-        "value": 3145933
+        "index": 191,
+        "value": 3145919
     },
     "MONEY_F0": {
-        "debugString": "<Symbol MONEY_F0(9437328)>",
+        "debugString": "<Symbol MONEY_F0(9437317)>",
         "description": "unknown",
-        "index": 144,
-        "value": 9437328
+        "index": 133,
+        "value": 9437317
     },
     "MONEY_S_F0": {
-        "debugString": "<Symbol MONEY_S_F0(9437329)>",
+        "debugString": "<Symbol MONEY_S_F0(9437318)>",
         "description": "unknown",
-        "index": 145,
-        "value": 9437329
+        "index": 134,
+        "value": 9437318
     },
     "MUSICPLAYACTION": {
-        "debugString": "<Symbol MUSICPLAYACTION(3145828)>",
+        "debugString": "<Symbol MUSICPLAYACTION(3145819)>",
         "description": "MusicPlayAction",
-        "index": 100,
-        "value": 3145828
+        "index": 91,
+        "value": 3145819
     },
     "MUSICQUEUEACTION": {
-        "debugString": "<Symbol MUSICQUEUEACTION(3145827)>",
+        "debugString": "<Symbol MUSICQUEUEACTION(3145818)>",
         "description": "MusicQueueAction",
-        "index": 99,
-        "value": 3145827
+        "index": 90,
+        "value": 3145818
     },
     "MUSICREPEATMODE": {
-        "debugString": "<Symbol MUSICREPEATMODE(3145831)>",
+        "debugString": "<Symbol MUSICREPEATMODE(3145822)>",
         "description": "MusicRepeatMode",
-        "index": 103,
-        "value": 3145831
+        "index": 94,
+        "value": 3145822
     },
     "MUSICSTOPACTION": {
-        "debugString": "<Symbol MUSICSTOPACTION(3145829)>",
+        "debugString": "<Symbol MUSICSTOPACTION(3145820)>",
         "description": "MusicStopAction",
-        "index": 101,
-        "value": 3145829
+        "index": 92,
+        "value": 3145820
     },
     "MUSICVOLUMEACTION": {
-        "debugString": "<Symbol MUSICVOLUMEACTION(3145830)>",
+        "debugString": "<Symbol MUSICVOLUMEACTION(3145821)>",
         "description": "MusicVolumeAction",
-        "index": 102,
-        "value": 3145830
+        "index": 93,
+        "value": 3145821
     },
     "MUSIC_F0": {
-        "debugString": "<Symbol MUSIC_F0(9437246)>",
+        "debugString": "<Symbol MUSIC_F0(9437238)>",
         "description": "unknown",
-        "index": 62,
-        "value": 9437246
+        "index": 54,
+        "value": 9437238
     },
     "MVALUE": {
         "debugString": "<Symbol MVALUE(1048604)>",
@@ -1344,52 +1266,52 @@
         "value": 1048587
     },
     "OPERATION_ADDONS_INSTALL": {
-        "debugString": "<Symbol OPERATION_ADDONS_INSTALL(3145929)>",
+        "debugString": "<Symbol OPERATION_ADDONS_INSTALL(3145915)>",
         "description": "Operation_Addons_Install",
-        "index": 201,
-        "value": 3145929
+        "index": 187,
+        "value": 3145915
     },
     "OPERATION_ADDONS_LIST": {
-        "debugString": "<Symbol OPERATION_ADDONS_LIST(3145928)>",
+        "debugString": "<Symbol OPERATION_ADDONS_LIST(3145914)>",
         "description": "Operation_Addons_List",
-        "index": 200,
-        "value": 3145928
+        "index": 186,
+        "value": 3145914
     },
     "OPERATION_ADDONS_OTHERS": {
-        "debugString": "<Symbol OPERATION_ADDONS_OTHERS(3145930)>",
+        "debugString": "<Symbol OPERATION_ADDONS_OTHERS(3145916)>",
         "description": "Operation_Addons_Others",
-        "index": 202,
-        "value": 3145930
+        "index": 188,
+        "value": 3145916
     },
     "OPERATION_COMMON": {
-        "debugString": "<Symbol OPERATION_COMMON(3145948)>",
+        "debugString": "<Symbol OPERATION_COMMON(3145934)>",
         "description": "Operation_Common",
-        "index": 220,
-        "value": 3145948
+        "index": 206,
+        "value": 3145934
     },
     "OPERATION_FREEFILEPATH": {
-        "debugString": "<Symbol OPERATION_FREEFILEPATH(3145951)>",
+        "debugString": "<Symbol OPERATION_FREEFILEPATH(3145937)>",
         "description": "Operation_FreeFilePath",
-        "index": 223,
-        "value": 3145951
+        "index": 209,
+        "value": 3145937
     },
     "OPERATION_MUSTPLUGINNAME": {
-        "debugString": "<Symbol OPERATION_MUSTPLUGINNAME(3145952)>",
+        "debugString": "<Symbol OPERATION_MUSTPLUGINNAME(3145938)>",
         "description": "Operation_MustPluginName",
-        "index": 224,
-        "value": 3145952
+        "index": 210,
+        "value": 3145938
     },
     "OPERATION_OPTIONALPLUGINNAME": {
-        "debugString": "<Symbol OPERATION_OPTIONALPLUGINNAME(3145953)>",
+        "debugString": "<Symbol OPERATION_OPTIONALPLUGINNAME(3145939)>",
         "description": "Operation_OptionalPluginName",
-        "index": 225,
-        "value": 3145953
+        "index": 211,
+        "value": 3145939
     },
     "OPERATION_SETTINGS": {
-        "debugString": "<Symbol OPERATION_SETTINGS(3145949)>",
+        "debugString": "<Symbol OPERATION_SETTINGS(3145935)>",
         "description": "Operation_Settings",
-        "index": 221,
-        "value": 3145949
+        "index": 207,
+        "value": 3145935
     },
     "OPERATOR": {
         "debugString": "<Symbol OPERATOR(1048582)>",
@@ -1440,10 +1362,10 @@
         "value": 5242927
     },
     "OPTIONAL_BOOLEAN_RAWTEXT": {
-        "debugString": "<Symbol OPTIONAL_BOOLEAN_RAWTEXT(5242940)>",
+        "debugString": "<Symbol OPTIONAL_BOOLEAN_RAWTEXT(5242939)>",
         "description": "unknown",
-        "index": 60,
-        "value": 5242940
+        "index": 59,
+        "value": 5242939
     },
     "OPTIONAL_BOOLEAN_VAL_ID": {
         "debugString": "<Symbol OPTIONAL_BOOLEAN_VAL_ID(5242926)>",
@@ -1506,10 +1428,10 @@
         "value": 5242908
     },
     "OPTIONAL_ID_INT": {
-        "debugString": "<Symbol OPTIONAL_ID_INT(5242938)>",
+        "debugString": "<Symbol OPTIONAL_ID_INT(5242937)>",
         "description": "unknown",
-        "index": 58,
-        "value": 5242938
+        "index": 57,
+        "value": 5242937
     },
     "OPTIONAL_ID_VAL_ID_ID": {
         "debugString": "<Symbol OPTIONAL_ID_VAL_ID_ID(5242910)>",
@@ -1578,16 +1500,16 @@
         "value": 5242903
     },
     "OPTIONAL_PLUGINNAME": {
-        "debugString": "<Symbol OPTIONAL_PLUGINNAME(5242941)>",
+        "debugString": "<Symbol OPTIONAL_PLUGINNAME(5242940)>",
+        "description": "unknown",
+        "index": 60,
+        "value": 5242940
+    },
+    "OPTIONAL_POSITION": {
+        "debugString": "<Symbol OPTIONAL_POSITION(5242941)>",
         "description": "unknown",
         "index": 61,
         "value": 5242941
-    },
-    "OPTIONAL_POSITION": {
-        "debugString": "<Symbol OPTIONAL_POSITION(5242942)>",
-        "description": "unknown",
-        "index": 62,
-        "value": 5242942
     },
     "OPTIONAL_POSITION_FLOAT": {
         "debugString": "<Symbol OPTIONAL_POSITION_FLOAT(5242907)>",
@@ -1602,10 +1524,10 @@
         "value": 5242913
     },
     "OPTIONAL_RAWTEXT": {
-        "debugString": "<Symbol OPTIONAL_RAWTEXT(5242939)>",
+        "debugString": "<Symbol OPTIONAL_RAWTEXT(5242938)>",
         "description": "unknown",
-        "index": 59,
-        "value": 5242939
+        "index": 58,
+        "value": 5242938
     },
     "OPTIONAL_RIDERULES_ID_ID": {
         "debugString": "<Symbol OPTIONAL_RIDERULES_ID_ID(5242917)>",
@@ -1757,12 +1679,6 @@
         "index": 32,
         "value": 5242912
     },
-    "OPTIONAL_VOLUMEAREAALLDIMENSIONS": {
-        "debugString": "<Symbol OPTIONAL_VOLUMEAREAALLDIMENSIONS(5242937)>",
-        "description": "unknown",
-        "index": 57,
-        "value": 5242937
-    },
     "OPTIONAL_WILDCARDINT": {
         "debugString": "<Symbol OPTIONAL_WILDCARDINT(5242922)>",
         "description": "unknown",
@@ -1776,118 +1692,118 @@
         "value": 5242921
     },
     "OPTION_ALIGN": {
-        "debugString": "<Symbol OPTION_ALIGN(3145782)>",
+        "debugString": "<Symbol OPTION_ALIGN(3145773)>",
         "description": "Option_Align",
-        "index": 54,
-        "value": 3145782
+        "index": 45,
+        "value": 3145773
     },
     "OPTION_ANCHORED": {
-        "debugString": "<Symbol OPTION_ANCHORED(3145783)>",
+        "debugString": "<Symbol OPTION_ANCHORED(3145774)>",
         "description": "Option_Anchored",
-        "index": 55,
-        "value": 3145783
+        "index": 46,
+        "value": 3145774
     },
     "OPTION_AS": {
-        "debugString": "<Symbol OPTION_AS(3145775)>",
+        "debugString": "<Symbol OPTION_AS(3145766)>",
         "description": "Option_As",
-        "index": 47,
-        "value": 3145775
+        "index": 38,
+        "value": 3145766
     },
     "OPTION_AT": {
-        "debugString": "<Symbol OPTION_AT(3145776)>",
+        "debugString": "<Symbol OPTION_AT(3145767)>",
         "description": "Option_At",
+        "index": 39,
+        "value": 3145767
+    },
+    "OPTION_CONDITION_BLOCK": {
+        "debugString": "<Symbol OPTION_CONDITION_BLOCK(3145776)>",
+        "description": "Option_Condition_Block",
         "index": 48,
         "value": 3145776
     },
-    "OPTION_CONDITION_BLOCK": {
-        "debugString": "<Symbol OPTION_CONDITION_BLOCK(3145785)>",
-        "description": "Option_Condition_Block",
-        "index": 57,
-        "value": 3145785
-    },
     "OPTION_CONDITION_BLOCKS": {
-        "debugString": "<Symbol OPTION_CONDITION_BLOCKS(3145786)>",
+        "debugString": "<Symbol OPTION_CONDITION_BLOCKS(3145777)>",
         "description": "Option_Condition_Blocks",
-        "index": 58,
-        "value": 3145786
-    },
-    "OPTION_CONDITION_ENTITY": {
-        "debugString": "<Symbol OPTION_CONDITION_ENTITY(3145787)>",
-        "description": "Option_Condition_Entity",
-        "index": 59,
-        "value": 3145787
-    },
-    "OPTION_CONDITION_SCORE": {
-        "debugString": "<Symbol OPTION_CONDITION_SCORE(3145788)>",
-        "description": "Option_Condition_Score",
-        "index": 60,
-        "value": 3145788
-    },
-    "OPTION_ENTITY": {
-        "debugString": "<Symbol OPTION_ENTITY(3145781)>",
-        "description": "Option_Entity",
-        "index": 53,
-        "value": 3145781
-    },
-    "OPTION_FACING": {
-        "debugString": "<Symbol OPTION_FACING(3145780)>",
-        "description": "Option_Facing",
-        "index": 52,
-        "value": 3145780
-    },
-    "OPTION_IF_UNLESS": {
-        "debugString": "<Symbol OPTION_IF_UNLESS(3145784)>",
-        "description": "Option_If_Unless",
-        "index": 56,
-        "value": 3145784
-    },
-    "OPTION_IN": {
-        "debugString": "<Symbol OPTION_IN(3145777)>",
-        "description": "Option_In",
         "index": 49,
         "value": 3145777
     },
-    "OPTION_POSITIONED": {
-        "debugString": "<Symbol OPTION_POSITIONED(3145778)>",
-        "description": "Option_Positioned",
+    "OPTION_CONDITION_ENTITY": {
+        "debugString": "<Symbol OPTION_CONDITION_ENTITY(3145778)>",
+        "description": "Option_Condition_Entity",
         "index": 50,
         "value": 3145778
     },
-    "OPTION_QUERY": {
-        "debugString": "<Symbol OPTION_QUERY(3145811)>",
-        "description": "Option_Query",
-        "index": 83,
-        "value": 3145811
-    },
-    "OPTION_ROTATED": {
-        "debugString": "<Symbol OPTION_ROTATED(3145779)>",
-        "description": "Option_Rotated",
+    "OPTION_CONDITION_SCORE": {
+        "debugString": "<Symbol OPTION_CONDITION_SCORE(3145779)>",
+        "description": "Option_Condition_Score",
         "index": 51,
         "value": 3145779
     },
+    "OPTION_ENTITY": {
+        "debugString": "<Symbol OPTION_ENTITY(3145772)>",
+        "description": "Option_Entity",
+        "index": 44,
+        "value": 3145772
+    },
+    "OPTION_FACING": {
+        "debugString": "<Symbol OPTION_FACING(3145771)>",
+        "description": "Option_Facing",
+        "index": 43,
+        "value": 3145771
+    },
+    "OPTION_IF_UNLESS": {
+        "debugString": "<Symbol OPTION_IF_UNLESS(3145775)>",
+        "description": "Option_If_Unless",
+        "index": 47,
+        "value": 3145775
+    },
+    "OPTION_IN": {
+        "debugString": "<Symbol OPTION_IN(3145768)>",
+        "description": "Option_In",
+        "index": 40,
+        "value": 3145768
+    },
+    "OPTION_POSITIONED": {
+        "debugString": "<Symbol OPTION_POSITIONED(3145769)>",
+        "description": "Option_Positioned",
+        "index": 41,
+        "value": 3145769
+    },
+    "OPTION_QUERY": {
+        "debugString": "<Symbol OPTION_QUERY(3145802)>",
+        "description": "Option_Query",
+        "index": 74,
+        "value": 3145802
+    },
+    "OPTION_ROTATED": {
+        "debugString": "<Symbol OPTION_ROTATED(3145770)>",
+        "description": "Option_Rotated",
+        "index": 42,
+        "value": 3145770
+    },
     "OPTION_RUN": {
-        "debugString": "<Symbol OPTION_RUN(3145789)>",
+        "debugString": "<Symbol OPTION_RUN(3145780)>",
         "description": "Option_Run",
-        "index": 61,
-        "value": 3145789
+        "index": 52,
+        "value": 3145780
     },
     "OPTION_SET": {
-        "debugString": "<Symbol OPTION_SET(3145810)>",
+        "debugString": "<Symbol OPTION_SET(3145801)>",
         "description": "Option_Set",
-        "index": 82,
-        "value": 3145810
+        "index": 73,
+        "value": 3145801
     },
     "OP_F0": {
-        "debugString": "<Symbol OP_F0(9437247)>",
+        "debugString": "<Symbol OP_F0(9437239)>",
         "description": "unknown",
-        "index": 63,
-        "value": 9437247
+        "index": 55,
+        "value": 9437239
     },
     "PARTICLE_F0": {
-        "debugString": "<Symbol PARTICLE_F0(9437248)>",
+        "debugString": "<Symbol PARTICLE_F0(9437240)>",
         "description": "unknown",
-        "index": 64,
-        "value": 9437248
+        "index": 56,
+        "value": 9437240
     },
     "PATHCOMMAND": {
         "debugString": "<Symbol PATHCOMMAND(1048593)>",
@@ -1908,10 +1824,10 @@
         "value": 1048594
     },
     "PERMISSION": {
-        "debugString": "<Symbol PERMISSION(3145943)>",
+        "debugString": "<Symbol PERMISSION(3145929)>",
         "description": "Permission",
-        "index": 215,
-        "value": 3145943
+        "index": 201,
+        "value": 3145929
     },
     "PERMISSIONARG": {
         "debugString": "<Symbol PERMISSIONARG(1048608)>",
@@ -1932,10 +1848,10 @@
         "value": 3145734
     },
     "PERMISSIONCOMMANDALIASES": {
-        "debugString": "<Symbol PERMISSIONCOMMANDALIASES(3145834)>",
+        "debugString": "<Symbol PERMISSIONCOMMANDALIASES(3145825)>",
         "description": "permissionCommandAliases",
-        "index": 106,
-        "value": 3145834
+        "index": 97,
+        "value": 3145825
     },
     "PERMISSIONELEMENT": {
         "debugString": "<Symbol PERMISSIONELEMENT(1048611)>",
@@ -1950,16 +1866,16 @@
         "value": 1048612
     },
     "PERMISSIONLEVEL": {
-        "debugString": "<Symbol PERMISSIONLEVEL(3145833)>",
+        "debugString": "<Symbol PERMISSIONLEVEL(3145824)>",
         "description": "PermissionLevel",
-        "index": 105,
-        "value": 3145833
+        "index": 96,
+        "value": 3145824
     },
     "PERMISSIONSACTION": {
-        "debugString": "<Symbol PERMISSIONSACTION(3145832)>",
+        "debugString": "<Symbol PERMISSIONSACTION(3145823)>",
         "description": "PermissionsAction",
-        "index": 104,
-        "value": 3145832
+        "index": 95,
+        "value": 3145823
     },
     "PERMISSIONSELECTOR": {
         "debugString": "<Symbol PERMISSIONSELECTOR(1048610)>",
@@ -1974,136 +1890,130 @@
         "value": 3145735
     },
     "PERMISSION_F0": {
-        "debugString": "<Symbol PERMISSION_F0(9437249)>",
+        "debugString": "<Symbol PERMISSION_F0(9437241)>",
         "description": "unknown",
-        "index": 65,
-        "value": 9437249
+        "index": 57,
+        "value": 9437241
     },
     "PERM_F0": {
-        "debugString": "<Symbol PERM_F0(9437330)>",
+        "debugString": "<Symbol PERM_F0(9437319)>",
+        "description": "unknown",
+        "index": 135,
+        "value": 9437319
+    },
+    "PERM_F1": {
+        "debugString": "<Symbol PERM_F1(9437320)>",
+        "description": "unknown",
+        "index": 136,
+        "value": 9437320
+    },
+    "PERM_F10": {
+        "debugString": "<Symbol PERM_F10(9437329)>",
+        "description": "unknown",
+        "index": 145,
+        "value": 9437329
+    },
+    "PERM_F11": {
+        "debugString": "<Symbol PERM_F11(9437330)>",
         "description": "unknown",
         "index": 146,
         "value": 9437330
     },
-    "PERM_F1": {
-        "debugString": "<Symbol PERM_F1(9437331)>",
+    "PERM_F12": {
+        "debugString": "<Symbol PERM_F12(9437331)>",
         "description": "unknown",
         "index": 147,
         "value": 9437331
     },
-    "PERM_F10": {
-        "debugString": "<Symbol PERM_F10(9437340)>",
-        "description": "unknown",
-        "index": 156,
-        "value": 9437340
-    },
-    "PERM_F11": {
-        "debugString": "<Symbol PERM_F11(9437341)>",
-        "description": "unknown",
-        "index": 157,
-        "value": 9437341
-    },
-    "PERM_F12": {
-        "debugString": "<Symbol PERM_F12(9437342)>",
-        "description": "unknown",
-        "index": 158,
-        "value": 9437342
-    },
     "PERM_F13": {
-        "debugString": "<Symbol PERM_F13(9437343)>",
-        "description": "unknown",
-        "index": 159,
-        "value": 9437343
-    },
-    "PERM_F14": {
-        "debugString": "<Symbol PERM_F14(9437344)>",
-        "description": "unknown",
-        "index": 160,
-        "value": 9437344
-    },
-    "PERM_F15": {
-        "debugString": "<Symbol PERM_F15(9437345)>",
-        "description": "unknown",
-        "index": 161,
-        "value": 9437345
-    },
-    "PERM_F16": {
-        "debugString": "<Symbol PERM_F16(9437346)>",
-        "description": "unknown",
-        "index": 162,
-        "value": 9437346
-    },
-    "PERM_F2": {
-        "debugString": "<Symbol PERM_F2(9437332)>",
+        "debugString": "<Symbol PERM_F13(9437332)>",
         "description": "unknown",
         "index": 148,
         "value": 9437332
     },
-    "PERM_F3": {
-        "debugString": "<Symbol PERM_F3(9437333)>",
+    "PERM_F14": {
+        "debugString": "<Symbol PERM_F14(9437333)>",
         "description": "unknown",
         "index": 149,
         "value": 9437333
     },
-    "PERM_F4": {
-        "debugString": "<Symbol PERM_F4(9437334)>",
+    "PERM_F15": {
+        "debugString": "<Symbol PERM_F15(9437334)>",
         "description": "unknown",
         "index": 150,
         "value": 9437334
     },
-    "PERM_F5": {
-        "debugString": "<Symbol PERM_F5(9437335)>",
+    "PERM_F16": {
+        "debugString": "<Symbol PERM_F16(9437335)>",
         "description": "unknown",
         "index": 151,
         "value": 9437335
     },
-    "PERM_F6": {
-        "debugString": "<Symbol PERM_F6(9437336)>",
+    "PERM_F2": {
+        "debugString": "<Symbol PERM_F2(9437321)>",
         "description": "unknown",
-        "index": 152,
-        "value": 9437336
+        "index": 137,
+        "value": 9437321
+    },
+    "PERM_F3": {
+        "debugString": "<Symbol PERM_F3(9437322)>",
+        "description": "unknown",
+        "index": 138,
+        "value": 9437322
+    },
+    "PERM_F4": {
+        "debugString": "<Symbol PERM_F4(9437323)>",
+        "description": "unknown",
+        "index": 139,
+        "value": 9437323
+    },
+    "PERM_F5": {
+        "debugString": "<Symbol PERM_F5(9437324)>",
+        "description": "unknown",
+        "index": 140,
+        "value": 9437324
+    },
+    "PERM_F6": {
+        "debugString": "<Symbol PERM_F6(9437325)>",
+        "description": "unknown",
+        "index": 141,
+        "value": 9437325
     },
     "PERM_F7": {
-        "debugString": "<Symbol PERM_F7(9437337)>",
+        "debugString": "<Symbol PERM_F7(9437326)>",
         "description": "unknown",
-        "index": 153,
-        "value": 9437337
+        "index": 142,
+        "value": 9437326
     },
     "PERM_F8": {
-        "debugString": "<Symbol PERM_F8(9437338)>",
+        "debugString": "<Symbol PERM_F8(9437327)>",
         "description": "unknown",
-        "index": 154,
-        "value": 9437338
+        "index": 143,
+        "value": 9437327
     },
     "PERM_F9": {
-        "debugString": "<Symbol PERM_F9(9437339)>",
+        "debugString": "<Symbol PERM_F9(9437328)>",
         "description": "unknown",
-        "index": 155,
-        "value": 9437339
+        "index": 144,
+        "value": 9437328
     },
     "PLAYANIMATION_F0": {
-        "debugString": "<Symbol PLAYANIMATION_F0(9437250)>",
+        "debugString": "<Symbol PLAYANIMATION_F0(9437242)>",
         "description": "unknown",
-        "index": 66,
-        "value": 9437250
+        "index": 58,
+        "value": 9437242
     },
     "PLAYER": {
-        "debugString": "<Symbol PLAYER(3145944)>",
+        "debugString": "<Symbol PLAYER(3145930)>",
         "description": "Player",
-        "index": 216,
-        "value": 3145944
+        "index": 202,
+        "value": 3145930
     },
     "PLAYSOUND_F0": {
-        "debugString": "<Symbol PLAYSOUND_F0(9437251)>",
+        "debugString": "<Symbol PLAYSOUND_F0(9437243)>",
         "description": "unknown",
-        "index": 67,
-        "value": 9437251
-    },
-    "POS": {
-        "debugString": "<Symbol POS(3145751)>",
-        "description": "pos",
-        "index": 23,
-        "value": 3145751
+        "index": 59,
+        "value": 9437243
     },
     "POSITION": {
         "debugString": "<Symbol POSITION(1048628)>",
@@ -2124,16 +2034,16 @@
         "value": 1048633
     },
     "PRIORITY": {
-        "debugString": "<Symbol PRIORITY(3145945)>",
+        "debugString": "<Symbol PRIORITY(3145931)>",
         "description": "Priority",
-        "index": 217,
-        "value": 3145945
+        "index": 203,
+        "value": 3145931
     },
     "QUERYTARGET_F0": {
-        "debugString": "<Symbol QUERYTARGET_F0(9437252)>",
+        "debugString": "<Symbol QUERYTARGET_F0(9437244)>",
         "description": "unknown",
-        "index": 68,
-        "value": 9437252
+        "index": 60,
+        "value": 9437244
     },
     "RAWTEXT": {
         "debugString": "<Symbol RAWTEXT(1048634)>",
@@ -2148,118 +2058,112 @@
         "value": 1048635
     },
     "REMOVE": {
-        "debugString": "<Symbol REMOVE(3145941)>",
+        "debugString": "<Symbol REMOVE(3145927)>",
         "description": "Remove",
-        "index": 213,
-        "value": 3145941
+        "index": 199,
+        "value": 3145927
     },
     "REPLACE": {
-        "debugString": "<Symbol REPLACE(3145795)>",
+        "debugString": "<Symbol REPLACE(3145786)>",
         "description": "Replace",
-        "index": 67,
-        "value": 3145795
+        "index": 58,
+        "value": 3145786
     },
     "REPLACEITEMBLOCK": {
-        "debugString": "<Symbol REPLACEITEMBLOCK(3145835)>",
+        "debugString": "<Symbol REPLACEITEMBLOCK(3145826)>",
         "description": "ReplaceItemBlock",
-        "index": 107,
-        "value": 3145835
+        "index": 98,
+        "value": 3145826
     },
     "REPLACEITEMENTITY": {
-        "debugString": "<Symbol REPLACEITEMENTITY(3145836)>",
+        "debugString": "<Symbol REPLACEITEMENTITY(3145827)>",
         "description": "ReplaceItemEntity",
-        "index": 108,
-        "value": 3145836
+        "index": 99,
+        "value": 3145827
     },
     "REPLACEITEM_F0": {
-        "debugString": "<Symbol REPLACEITEM_F0(9437253)>",
+        "debugString": "<Symbol REPLACEITEM_F0(9437245)>",
         "description": "unknown",
-        "index": 69,
-        "value": 9437253
+        "index": 61,
+        "value": 9437245
     },
     "REPLACEITEM_F1": {
-        "debugString": "<Symbol REPLACEITEM_F1(9437254)>",
+        "debugString": "<Symbol REPLACEITEM_F1(9437246)>",
         "description": "unknown",
-        "index": 70,
-        "value": 9437254
+        "index": 62,
+        "value": 9437246
     },
     "REPLACEITEM_F2": {
-        "debugString": "<Symbol REPLACEITEM_F2(9437255)>",
+        "debugString": "<Symbol REPLACEITEM_F2(9437247)>",
         "description": "unknown",
-        "index": 71,
-        "value": 9437255
+        "index": 63,
+        "value": 9437247
     },
     "REPLACEMODE": {
-        "debugString": "<Symbol REPLACEMODE(3145837)>",
+        "debugString": "<Symbol REPLACEMODE(3145828)>",
         "description": "ReplaceMode",
-        "index": 109,
-        "value": 3145837
+        "index": 100,
+        "value": 3145828
     },
     "REQUESTACTION": {
-        "debugString": "<Symbol REQUESTACTION(3145847)>",
+        "debugString": "<Symbol REQUESTACTION(3145838)>",
         "description": "RequestAction",
-        "index": 119,
-        "value": 3145847
-    },
-    "RIDEMODEEVICT": {
-        "debugString": "<Symbol RIDEMODEEVICT(3145840)>",
-        "description": "RideModeEvict",
-        "index": 112,
-        "value": 3145840
-    },
-    "RIDEMODESTART": {
-        "debugString": "<Symbol RIDEMODESTART(3145838)>",
-        "description": "RideModeStart",
         "index": 110,
         "value": 3145838
     },
+    "RIDEMODEEVICT": {
+        "debugString": "<Symbol RIDEMODEEVICT(3145831)>",
+        "description": "RideModeEvict",
+        "index": 103,
+        "value": 3145831
+    },
+    "RIDEMODESTART": {
+        "debugString": "<Symbol RIDEMODESTART(3145829)>",
+        "description": "RideModeStart",
+        "index": 101,
+        "value": 3145829
+    },
     "RIDEMODESTOP": {
-        "debugString": "<Symbol RIDEMODESTOP(3145839)>",
+        "debugString": "<Symbol RIDEMODESTOP(3145830)>",
         "description": "RideModeStop",
-        "index": 111,
-        "value": 3145839
+        "index": 102,
+        "value": 3145830
     },
     "RIDEMODESUMMONRIDE": {
-        "debugString": "<Symbol RIDEMODESUMMONRIDE(3145842)>",
+        "debugString": "<Symbol RIDEMODESUMMONRIDE(3145833)>",
         "description": "RideModeSummonRide",
-        "index": 114,
-        "value": 3145842
+        "index": 105,
+        "value": 3145833
     },
     "RIDEMODESUMMONRIDER": {
-        "debugString": "<Symbol RIDEMODESUMMONRIDER(3145841)>",
+        "debugString": "<Symbol RIDEMODESUMMONRIDER(3145832)>",
         "description": "RideModeSummonRider",
-        "index": 113,
-        "value": 3145841
+        "index": 104,
+        "value": 3145832
     },
     "RIDERULES": {
-        "debugString": "<Symbol RIDERULES(3145845)>",
+        "debugString": "<Symbol RIDERULES(3145836)>",
         "description": "RideRules",
-        "index": 117,
-        "value": 3145845
+        "index": 108,
+        "value": 3145836
     },
     "RIDE_F0": {
-        "debugString": "<Symbol RIDE_F0(9437256)>",
+        "debugString": "<Symbol RIDE_F0(9437248)>",
         "description": "unknown",
-        "index": 72,
-        "value": 9437256
+        "index": 64,
+        "value": 9437248
     },
     "RIDE_F1": {
-        "debugString": "<Symbol RIDE_F1(9437257)>",
+        "debugString": "<Symbol RIDE_F1(9437249)>",
         "description": "unknown",
-        "index": 73,
-        "value": 9437257
+        "index": 65,
+        "value": 9437249
     },
     "ROLE": {
-        "debugString": "<Symbol ROLE(3145942)>",
+        "debugString": "<Symbol ROLE(3145928)>",
         "description": "Role",
-        "index": 214,
-        "value": 3145942
-    },
-    "ROT": {
-        "debugString": "<Symbol ROT(3145752)>",
-        "description": "rot",
-        "index": 24,
-        "value": 3145752
+        "index": 200,
+        "value": 3145928
     },
     "ROTATION": {
         "debugString": "<Symbol ROTATION(3145746)>",
@@ -2280,160 +2184,160 @@
         "value": 3145729
     },
     "SAVEMODE": {
-        "debugString": "<Symbol SAVEMODE(3145923)>",
+        "debugString": "<Symbol SAVEMODE(3145909)>",
         "description": "SaveMode",
-        "index": 195,
-        "value": 3145923
+        "index": 181,
+        "value": 3145909
     },
     "SAVE_F0": {
-        "debugString": "<Symbol SAVE_F0(9437321)>",
+        "debugString": "<Symbol SAVE_F0(9437310)>",
         "description": "unknown",
-        "index": 137,
-        "value": 9437321
+        "index": 126,
+        "value": 9437310
     },
     "SAY_F0": {
-        "debugString": "<Symbol SAY_F0(9437258)>",
+        "debugString": "<Symbol SAY_F0(9437250)>",
         "description": "unknown",
-        "index": 74,
-        "value": 9437258
+        "index": 66,
+        "value": 9437250
     },
     "SCHEDULEACTIONONAREALOADED": {
-        "debugString": "<Symbol SCHEDULEACTIONONAREALOADED(3145846)>",
+        "debugString": "<Symbol SCHEDULEACTIONONAREALOADED(3145837)>",
         "description": "ScheduleActionOnAreaLoaded",
-        "index": 118,
-        "value": 3145846
+        "index": 109,
+        "value": 3145837
     },
     "SCHEDULE_F0": {
-        "debugString": "<Symbol SCHEDULE_F0(9437259)>",
+        "debugString": "<Symbol SCHEDULE_F0(9437251)>",
         "description": "unknown",
-        "index": 75,
-        "value": 9437259
+        "index": 67,
+        "value": 9437251
     },
     "SCHEDULE_F1": {
-        "debugString": "<Symbol SCHEDULE_F1(9437260)>",
+        "debugString": "<Symbol SCHEDULE_F1(9437252)>",
         "description": "unknown",
-        "index": 76,
-        "value": 9437260
+        "index": 68,
+        "value": 9437252
     },
     "SCOREBOARDADDACTION": {
-        "debugString": "<Symbol SCOREBOARDADDACTION(3145852)>",
+        "debugString": "<Symbol SCOREBOARDADDACTION(3145843)>",
         "description": "ScoreboardAddAction",
-        "index": 124,
-        "value": 3145852
+        "index": 115,
+        "value": 3145843
     },
     "SCOREBOARDCRITERIA": {
-        "debugString": "<Symbol SCOREBOARDCRITERIA(3145864)>",
+        "debugString": "<Symbol SCOREBOARDCRITERIA(3145855)>",
         "description": "ScoreboardCriteria",
-        "index": 136,
-        "value": 3145864
-    },
-    "SCOREBOARDDISPLAYSLOTNONSORTABLE": {
-        "debugString": "<Symbol SCOREBOARDDISPLAYSLOTNONSORTABLE(3145863)>",
-        "description": "ScoreboardDisplaySlotNonSortable",
-        "index": 135,
-        "value": 3145863
-    },
-    "SCOREBOARDDISPLAYSLOTSORTABLE": {
-        "debugString": "<Symbol SCOREBOARDDISPLAYSLOTSORTABLE(3145862)>",
-        "description": "ScoreboardDisplaySlotSortable",
-        "index": 134,
-        "value": 3145862
-    },
-    "SCOREBOARDLISTACTION": {
-        "debugString": "<Symbol SCOREBOARDLISTACTION(3145856)>",
-        "description": "ScoreboardListAction",
-        "index": 128,
-        "value": 3145856
-    },
-    "SCOREBOARDOBJECTIVESCATEGORY": {
-        "debugString": "<Symbol SCOREBOARDOBJECTIVESCATEGORY(3145850)>",
-        "description": "ScoreboardObjectivesCategory",
-        "index": 122,
-        "value": 3145850
-    },
-    "SCOREBOARDOPERATIONACTION": {
-        "debugString": "<Symbol SCOREBOARDOPERATIONACTION(3145860)>",
-        "description": "ScoreboardOperationAction",
-        "index": 132,
-        "value": 3145860
-    },
-    "SCOREBOARDPLAYERSCATEGORY": {
-        "debugString": "<Symbol SCOREBOARDPLAYERSCATEGORY(3145851)>",
-        "description": "ScoreboardPlayersCategory",
-        "index": 123,
-        "value": 3145851
-    },
-    "SCOREBOARDPLAYERSNUMACTION": {
-        "debugString": "<Symbol SCOREBOARDPLAYERSNUMACTION(3145859)>",
-        "description": "ScoreboardPlayersNumAction",
-        "index": 131,
-        "value": 3145859
-    },
-    "SCOREBOARDRANDOMACTION": {
-        "debugString": "<Symbol SCOREBOARDRANDOMACTION(3145854)>",
-        "description": "ScoreboardRandomAction",
-        "index": 126,
-        "value": 3145854
-    },
-    "SCOREBOARDREMOVEACTION": {
-        "debugString": "<Symbol SCOREBOARDREMOVEACTION(3145853)>",
-        "description": "ScoreboardRemoveAction",
-        "index": 125,
-        "value": 3145853
-    },
-    "SCOREBOARDRESETACTION": {
-        "debugString": "<Symbol SCOREBOARDRESETACTION(3145857)>",
-        "description": "ScoreboardResetAction",
-        "index": 129,
-        "value": 3145857
-    },
-    "SCOREBOARDSETDISPLAYACTION": {
-        "debugString": "<Symbol SCOREBOARDSETDISPLAYACTION(3145855)>",
-        "description": "ScoreboardSetDisplayAction",
         "index": 127,
         "value": 3145855
     },
+    "SCOREBOARDDISPLAYSLOTNONSORTABLE": {
+        "debugString": "<Symbol SCOREBOARDDISPLAYSLOTNONSORTABLE(3145854)>",
+        "description": "ScoreboardDisplaySlotNonSortable",
+        "index": 126,
+        "value": 3145854
+    },
+    "SCOREBOARDDISPLAYSLOTSORTABLE": {
+        "debugString": "<Symbol SCOREBOARDDISPLAYSLOTSORTABLE(3145853)>",
+        "description": "ScoreboardDisplaySlotSortable",
+        "index": 125,
+        "value": 3145853
+    },
+    "SCOREBOARDLISTACTION": {
+        "debugString": "<Symbol SCOREBOARDLISTACTION(3145847)>",
+        "description": "ScoreboardListAction",
+        "index": 119,
+        "value": 3145847
+    },
+    "SCOREBOARDOBJECTIVESCATEGORY": {
+        "debugString": "<Symbol SCOREBOARDOBJECTIVESCATEGORY(3145841)>",
+        "description": "ScoreboardObjectivesCategory",
+        "index": 113,
+        "value": 3145841
+    },
+    "SCOREBOARDOPERATIONACTION": {
+        "debugString": "<Symbol SCOREBOARDOPERATIONACTION(3145851)>",
+        "description": "ScoreboardOperationAction",
+        "index": 123,
+        "value": 3145851
+    },
+    "SCOREBOARDPLAYERSCATEGORY": {
+        "debugString": "<Symbol SCOREBOARDPLAYERSCATEGORY(3145842)>",
+        "description": "ScoreboardPlayersCategory",
+        "index": 114,
+        "value": 3145842
+    },
+    "SCOREBOARDPLAYERSNUMACTION": {
+        "debugString": "<Symbol SCOREBOARDPLAYERSNUMACTION(3145850)>",
+        "description": "ScoreboardPlayersNumAction",
+        "index": 122,
+        "value": 3145850
+    },
+    "SCOREBOARDRANDOMACTION": {
+        "debugString": "<Symbol SCOREBOARDRANDOMACTION(3145845)>",
+        "description": "ScoreboardRandomAction",
+        "index": 117,
+        "value": 3145845
+    },
+    "SCOREBOARDREMOVEACTION": {
+        "debugString": "<Symbol SCOREBOARDREMOVEACTION(3145844)>",
+        "description": "ScoreboardRemoveAction",
+        "index": 116,
+        "value": 3145844
+    },
+    "SCOREBOARDRESETACTION": {
+        "debugString": "<Symbol SCOREBOARDRESETACTION(3145848)>",
+        "description": "ScoreboardResetAction",
+        "index": 120,
+        "value": 3145848
+    },
+    "SCOREBOARDSETDISPLAYACTION": {
+        "debugString": "<Symbol SCOREBOARDSETDISPLAYACTION(3145846)>",
+        "description": "ScoreboardSetDisplayAction",
+        "index": 118,
+        "value": 3145846
+    },
     "SCOREBOARDSORTORDER": {
-        "debugString": "<Symbol SCOREBOARDSORTORDER(3145861)>",
+        "debugString": "<Symbol SCOREBOARDSORTORDER(3145852)>",
         "description": "ScoreboardSortOrder",
-        "index": 133,
-        "value": 3145861
+        "index": 124,
+        "value": 3145852
     },
     "SCOREBOARDTESTACTION": {
-        "debugString": "<Symbol SCOREBOARDTESTACTION(3145858)>",
+        "debugString": "<Symbol SCOREBOARDTESTACTION(3145849)>",
         "description": "ScoreboardTestAction",
-        "index": 130,
-        "value": 3145858
+        "index": 121,
+        "value": 3145849
     },
     "SCOREBOARD_F0": {
-        "debugString": "<Symbol SCOREBOARD_F0(9437261)>",
+        "debugString": "<Symbol SCOREBOARD_F0(9437253)>",
         "description": "unknown",
-        "index": 77,
-        "value": 9437261
+        "index": 69,
+        "value": 9437253
     },
     "SCOREBOARD_F1": {
-        "debugString": "<Symbol SCOREBOARD_F1(9437262)>",
+        "debugString": "<Symbol SCOREBOARD_F1(9437254)>",
         "description": "unknown",
-        "index": 78,
-        "value": 9437262
+        "index": 70,
+        "value": 9437254
     },
     "SCOREBOARD_F2": {
-        "debugString": "<Symbol SCOREBOARD_F2(9437263)>",
+        "debugString": "<Symbol SCOREBOARD_F2(9437255)>",
         "description": "unknown",
-        "index": 79,
-        "value": 9437263
+        "index": 71,
+        "value": 9437255
     },
     "SCOREBOARD_F3": {
-        "debugString": "<Symbol SCOREBOARD_F3(9437264)>",
+        "debugString": "<Symbol SCOREBOARD_F3(9437256)>",
         "description": "unknown",
-        "index": 80,
-        "value": 9437264
+        "index": 72,
+        "value": 9437256
     },
     "SCORERANGEMODE": {
-        "debugString": "<Symbol SCORERANGEMODE(3145793)>",
+        "debugString": "<Symbol SCORERANGEMODE(3145784)>",
         "description": "ScoreRangeMode",
-        "index": 65,
-        "value": 3145793
+        "index": 56,
+        "value": 3145784
     },
     "SCORESARG": {
         "debugString": "<Symbol SCORESARG(1048588)>",
@@ -2460,52 +2364,46 @@
         "value": 1048590
     },
     "SCRIPTDEBUGMODEPROFILER": {
-        "debugString": "<Symbol SCRIPTDEBUGMODEPROFILER(3145955)>",
+        "debugString": "<Symbol SCRIPTDEBUGMODEPROFILER(3145941)>",
         "description": "ScriptDebugModeProfiler",
-        "index": 227,
-        "value": 3145955
+        "index": 213,
+        "value": 3145941
     },
     "SCRIPTDEBUGMODEWATCHDOG": {
-        "debugString": "<Symbol SCRIPTDEBUGMODEWATCHDOG(3145958)>",
+        "debugString": "<Symbol SCRIPTDEBUGMODEWATCHDOG(3145944)>",
         "description": "ScriptDebugModeWatchdog",
-        "index": 230,
-        "value": 3145958
-    },
-    "SCRIPTEVENT_F0": {
-        "debugString": "<Symbol SCRIPTEVENT_F0(9437313)>",
-        "description": "unknown",
-        "index": 129,
-        "value": 9437313
+        "index": 216,
+        "value": 3145944
     },
     "SCRIPTPROFILERSTART": {
-        "debugString": "<Symbol SCRIPTPROFILERSTART(3145956)>",
+        "debugString": "<Symbol SCRIPTPROFILERSTART(3145942)>",
         "description": "ScriptProfilerStart",
-        "index": 228,
-        "value": 3145956
+        "index": 214,
+        "value": 3145942
     },
     "SCRIPTPROFILERSTOP": {
-        "debugString": "<Symbol SCRIPTPROFILERSTOP(3145957)>",
+        "debugString": "<Symbol SCRIPTPROFILERSTOP(3145943)>",
         "description": "ScriptProfilerStop",
-        "index": 229,
-        "value": 3145957
+        "index": 215,
+        "value": 3145943
     },
     "SCRIPTWATCHDOGDUMPMEMORY": {
-        "debugString": "<Symbol SCRIPTWATCHDOGDUMPMEMORY(3145959)>",
+        "debugString": "<Symbol SCRIPTWATCHDOGDUMPMEMORY(3145945)>",
         "description": "ScriptWatchdogDumpMemory",
-        "index": 231,
-        "value": 3145959
+        "index": 217,
+        "value": 3145945
     },
     "SCRIPT_F0": {
-        "debugString": "<Symbol SCRIPT_F0(9437350)>",
+        "debugString": "<Symbol SCRIPT_F0(9437339)>",
         "description": "unknown",
-        "index": 166,
-        "value": 9437350
+        "index": 155,
+        "value": 9437339
     },
     "SCRIPT_F1": {
-        "debugString": "<Symbol SCRIPT_F1(9437351)>",
+        "debugString": "<Symbol SCRIPT_F1(9437340)>",
         "description": "unknown",
-        "index": 167,
-        "value": 9437351
+        "index": 156,
+        "value": 9437340
     },
     "SELARGS": {
         "debugString": "<Symbol SELARGS(1048600)>",
@@ -2520,46 +2418,46 @@
         "value": 1048584
     },
     "SET": {
-        "debugString": "<Symbol SET(3145940)>",
+        "debugString": "<Symbol SET(3145926)>",
         "description": "Set",
-        "index": 212,
-        "value": 3145940
+        "index": 198,
+        "value": 3145926
     },
     "SETBLOCKMODE": {
-        "debugString": "<Symbol SETBLOCKMODE(3145865)>",
+        "debugString": "<Symbol SETBLOCKMODE(3145856)>",
         "description": "SetBlockMode",
-        "index": 137,
-        "value": 3145865
+        "index": 128,
+        "value": 3145856
     },
     "SETBLOCK_F0": {
-        "debugString": "<Symbol SETBLOCK_F0(9437265)>",
+        "debugString": "<Symbol SETBLOCK_F0(9437257)>",
         "description": "unknown",
-        "index": 81,
-        "value": 9437265
+        "index": 73,
+        "value": 9437257
     },
     "SETBLOCK_F1": {
-        "debugString": "<Symbol SETBLOCK_F1(9437266)>",
+        "debugString": "<Symbol SETBLOCK_F1(9437258)>",
         "description": "unknown",
-        "index": 82,
-        "value": 9437266
+        "index": 74,
+        "value": 9437258
     },
     "SETMAXPLAYERS_F0": {
-        "debugString": "<Symbol SETMAXPLAYERS_F0(9437267)>",
+        "debugString": "<Symbol SETMAXPLAYERS_F0(9437259)>",
         "description": "unknown",
-        "index": 83,
-        "value": 9437267
+        "index": 75,
+        "value": 9437259
     },
     "SETTINGSOPERATION": {
-        "debugString": "<Symbol SETTINGSOPERATION(3145950)>",
+        "debugString": "<Symbol SETTINGSOPERATION(3145936)>",
         "description": "SettingsOperation",
-        "index": 222,
-        "value": 3145950
+        "index": 208,
+        "value": 3145936
     },
     "SETWORLDSPAWN_F0": {
-        "debugString": "<Symbol SETWORLDSPAWN_F0(9437268)>",
+        "debugString": "<Symbol SETWORLDSPAWN_F0(9437260)>",
         "description": "unknown",
-        "index": 84,
-        "value": 9437268
+        "index": 76,
+        "value": 9437260
     },
     "SLASHCOMMAND": {
         "debugString": "<Symbol SLASHCOMMAND(1048651)>",
@@ -2568,28 +2466,28 @@
         "value": 1048651
     },
     "SOURCEKILL": {
-        "debugString": "<Symbol SOURCEKILL(3145824)>",
+        "debugString": "<Symbol SOURCEKILL(3145815)>",
         "description": "SourceKill",
-        "index": 96,
-        "value": 3145824
+        "index": 87,
+        "value": 3145815
     },
     "SOURCELOOT": {
-        "debugString": "<Symbol SOURCELOOT(3145823)>",
+        "debugString": "<Symbol SOURCELOOT(3145814)>",
         "description": "SourceLoot",
-        "index": 95,
-        "value": 3145823
+        "index": 86,
+        "value": 3145814
     },
     "SPAWNPOINT_F0": {
-        "debugString": "<Symbol SPAWNPOINT_F0(9437269)>",
+        "debugString": "<Symbol SPAWNPOINT_F0(9437261)>",
         "description": "unknown",
-        "index": 85,
-        "value": 9437269
+        "index": 77,
+        "value": 9437261
     },
     "SPREADPLAYERS_F0": {
-        "debugString": "<Symbol SPREADPLAYERS_F0(9437270)>",
+        "debugString": "<Symbol SPREADPLAYERS_F0(9437262)>",
         "description": "unknown",
-        "index": 86,
-        "value": 9437270
+        "index": 78,
+        "value": 9437262
     },
     "STANDALONESELECTION": {
         "debugString": "<Symbol STANDALONESELECTION(1048585)>",
@@ -2598,16 +2496,16 @@
         "value": 1048585
     },
     "STATE": {
-        "debugString": "<Symbol STATE(3145813)>",
+        "debugString": "<Symbol STATE(3145804)>",
         "description": "state",
-        "index": 85,
-        "value": 3145813
+        "index": 76,
+        "value": 3145804
     },
     "STOPSOUND_F0": {
-        "debugString": "<Symbol STOPSOUND_F0(9437271)>",
+        "debugString": "<Symbol STOPSOUND_F0(9437263)>",
         "description": "unknown",
-        "index": 87,
-        "value": 9437271
+        "index": 79,
+        "value": 9437263
     },
     "STRUCTURE": {
         "debugString": "<Symbol STRUCTURE(3145743)>",
@@ -2616,106 +2514,106 @@
         "value": 3145743
     },
     "STRUCTUREANIMATIONMODE": {
-        "debugString": "<Symbol STRUCTUREANIMATIONMODE(3145870)>",
+        "debugString": "<Symbol STRUCTUREANIMATIONMODE(3145861)>",
         "description": "StructureAnimationMode",
-        "index": 142,
-        "value": 3145870
+        "index": 133,
+        "value": 3145861
     },
     "STRUCTUREDELETEACTION": {
-        "debugString": "<Symbol STRUCTUREDELETEACTION(3145868)>",
+        "debugString": "<Symbol STRUCTUREDELETEACTION(3145859)>",
         "description": "StructureDeleteAction",
-        "index": 140,
-        "value": 3145868
+        "index": 131,
+        "value": 3145859
     },
     "STRUCTURELOADACTION": {
-        "debugString": "<Symbol STRUCTURELOADACTION(3145867)>",
+        "debugString": "<Symbol STRUCTURELOADACTION(3145858)>",
         "description": "StructureLoadAction",
-        "index": 139,
-        "value": 3145867
+        "index": 130,
+        "value": 3145858
     },
     "STRUCTURESAVEACTION": {
-        "debugString": "<Symbol STRUCTURESAVEACTION(3145866)>",
+        "debugString": "<Symbol STRUCTURESAVEACTION(3145857)>",
         "description": "StructureSaveAction",
-        "index": 138,
-        "value": 3145866
+        "index": 129,
+        "value": 3145857
     },
     "STRUCTURESAVEMODE": {
-        "debugString": "<Symbol STRUCTURESAVEMODE(3145869)>",
+        "debugString": "<Symbol STRUCTURESAVEMODE(3145860)>",
         "description": "StructureSaveMode",
-        "index": 141,
-        "value": 3145869
+        "index": 132,
+        "value": 3145860
     },
     "STRUCTURE_F0": {
-        "debugString": "<Symbol STRUCTURE_F0(9437272)>",
+        "debugString": "<Symbol STRUCTURE_F0(9437264)>",
+        "description": "unknown",
+        "index": 80,
+        "value": 9437264
+    },
+    "STRUCTURE_F1": {
+        "debugString": "<Symbol STRUCTURE_F1(9437265)>",
+        "description": "unknown",
+        "index": 81,
+        "value": 9437265
+    },
+    "STRUCTURE_F2": {
+        "debugString": "<Symbol STRUCTURE_F2(9437266)>",
+        "description": "unknown",
+        "index": 82,
+        "value": 9437266
+    },
+    "STRUCTURE_F3": {
+        "debugString": "<Symbol STRUCTURE_F3(9437267)>",
+        "description": "unknown",
+        "index": 83,
+        "value": 9437267
+    },
+    "STRUCTURE_F4": {
+        "debugString": "<Symbol STRUCTURE_F4(9437268)>",
+        "description": "unknown",
+        "index": 84,
+        "value": 9437268
+    },
+    "STRUCTURE_F5": {
+        "debugString": "<Symbol STRUCTURE_F5(9437269)>",
+        "description": "unknown",
+        "index": 85,
+        "value": 9437269
+    },
+    "STRUCTURE_F6": {
+        "debugString": "<Symbol STRUCTURE_F6(9437270)>",
+        "description": "unknown",
+        "index": 86,
+        "value": 9437270
+    },
+    "STRUCTURE_F7": {
+        "debugString": "<Symbol STRUCTURE_F7(9437271)>",
+        "description": "unknown",
+        "index": 87,
+        "value": 9437271
+    },
+    "SUMMON_F0": {
+        "debugString": "<Symbol SUMMON_F0(9437272)>",
         "description": "unknown",
         "index": 88,
         "value": 9437272
     },
-    "STRUCTURE_F1": {
-        "debugString": "<Symbol STRUCTURE_F1(9437273)>",
+    "SUMMON_F1": {
+        "debugString": "<Symbol SUMMON_F1(9437273)>",
         "description": "unknown",
         "index": 89,
         "value": 9437273
     },
-    "STRUCTURE_F2": {
-        "debugString": "<Symbol STRUCTURE_F2(9437274)>",
+    "SUMMON_F2": {
+        "debugString": "<Symbol SUMMON_F2(9437274)>",
         "description": "unknown",
         "index": 90,
         "value": 9437274
     },
-    "STRUCTURE_F3": {
-        "debugString": "<Symbol STRUCTURE_F3(9437275)>",
+    "SUMMON_F3": {
+        "debugString": "<Symbol SUMMON_F3(9437275)>",
         "description": "unknown",
         "index": 91,
         "value": 9437275
-    },
-    "STRUCTURE_F4": {
-        "debugString": "<Symbol STRUCTURE_F4(9437276)>",
-        "description": "unknown",
-        "index": 92,
-        "value": 9437276
-    },
-    "STRUCTURE_F5": {
-        "debugString": "<Symbol STRUCTURE_F5(9437277)>",
-        "description": "unknown",
-        "index": 93,
-        "value": 9437277
-    },
-    "STRUCTURE_F6": {
-        "debugString": "<Symbol STRUCTURE_F6(9437278)>",
-        "description": "unknown",
-        "index": 94,
-        "value": 9437278
-    },
-    "STRUCTURE_F7": {
-        "debugString": "<Symbol STRUCTURE_F7(9437279)>",
-        "description": "unknown",
-        "index": 95,
-        "value": 9437279
-    },
-    "SUMMON_F0": {
-        "debugString": "<Symbol SUMMON_F0(9437280)>",
-        "description": "unknown",
-        "index": 96,
-        "value": 9437280
-    },
-    "SUMMON_F1": {
-        "debugString": "<Symbol SUMMON_F1(9437281)>",
-        "description": "unknown",
-        "index": 97,
-        "value": 9437281
-    },
-    "SUMMON_F2": {
-        "debugString": "<Symbol SUMMON_F2(9437282)>",
-        "description": "unknown",
-        "index": 98,
-        "value": 9437282
-    },
-    "SUMMON_F3": {
-        "debugString": "<Symbol SUMMON_F3(9437283)>",
-        "description": "unknown",
-        "index": 99,
-        "value": 9437283
     },
     "TAGARG": {
         "debugString": "<Symbol TAGARG(1048613)>",
@@ -2724,16 +2622,16 @@
         "value": 1048613
     },
     "TAGCHANGEACTION": {
-        "debugString": "<Symbol TAGCHANGEACTION(3145872)>",
+        "debugString": "<Symbol TAGCHANGEACTION(3145863)>",
         "description": "TagChangeAction",
-        "index": 144,
-        "value": 3145872
+        "index": 135,
+        "value": 3145863
     },
     "TAGLISTACTION": {
-        "debugString": "<Symbol TAGLISTACTION(3145873)>",
+        "debugString": "<Symbol TAGLISTACTION(3145864)>",
         "description": "TagListAction",
-        "index": 145,
-        "value": 3145873
+        "index": 136,
+        "value": 3145864
     },
     "TAGSELECTOR": {
         "debugString": "<Symbol TAGSELECTOR(1048592)>",
@@ -2742,346 +2640,340 @@
         "value": 1048592
     },
     "TAG_F0": {
-        "debugString": "<Symbol TAG_F0(9437284)>",
+        "debugString": "<Symbol TAG_F0(9437276)>",
         "description": "unknown",
-        "index": 100,
-        "value": 9437284
+        "index": 92,
+        "value": 9437276
     },
     "TAG_F1": {
-        "debugString": "<Symbol TAG_F1(9437285)>",
+        "debugString": "<Symbol TAG_F1(9437277)>",
+        "description": "unknown",
+        "index": 93,
+        "value": 9437277
+    },
+    "TARGETBLOCK": {
+        "debugString": "<Symbol TARGETBLOCK(3145813)>",
+        "description": "TargetBlock",
+        "index": 85,
+        "value": 3145813
+    },
+    "TARGETENTITY": {
+        "debugString": "<Symbol TARGETENTITY(3145812)>",
+        "description": "TargetEntity",
+        "index": 84,
+        "value": 3145812
+    },
+    "TARGETGIVE": {
+        "debugString": "<Symbol TARGETGIVE(3145809)>",
+        "description": "TargetGive",
+        "index": 81,
+        "value": 3145809
+    },
+    "TARGETINSERT": {
+        "debugString": "<Symbol TARGETINSERT(3145810)>",
+        "description": "TargetInsert",
+        "index": 82,
+        "value": 3145810
+    },
+    "TARGETREPLACE": {
+        "debugString": "<Symbol TARGETREPLACE(3145811)>",
+        "description": "TargetReplace",
+        "index": 83,
+        "value": 3145811
+    },
+    "TARGETSPAWN": {
+        "debugString": "<Symbol TARGETSPAWN(3145808)>",
+        "description": "TargetSpawn",
+        "index": 80,
+        "value": 3145808
+    },
+    "TELEPORTCOMMANDALIASES": {
+        "debugString": "<Symbol TELEPORTCOMMANDALIASES(3145865)>",
+        "description": "teleportCommandAliases",
+        "index": 137,
+        "value": 3145865
+    },
+    "TELEPORTFACING": {
+        "debugString": "<Symbol TELEPORTFACING(3145862)>",
+        "description": "TeleportFacing",
+        "index": 134,
+        "value": 3145862
+    },
+    "TELEPORTRULES": {
+        "debugString": "<Symbol TELEPORTRULES(3145835)>",
+        "description": "TeleportRules",
+        "index": 107,
+        "value": 3145835
+    },
+    "TELEPORT_F0": {
+        "debugString": "<Symbol TELEPORT_F0(9437278)>",
+        "description": "unknown",
+        "index": 94,
+        "value": 9437278
+    },
+    "TELEPORT_F1": {
+        "debugString": "<Symbol TELEPORT_F1(9437279)>",
+        "description": "unknown",
+        "index": 95,
+        "value": 9437279
+    },
+    "TELEPORT_F2": {
+        "debugString": "<Symbol TELEPORT_F2(9437280)>",
+        "description": "unknown",
+        "index": 96,
+        "value": 9437280
+    },
+    "TELEPORT_F3": {
+        "debugString": "<Symbol TELEPORT_F3(9437281)>",
+        "description": "unknown",
+        "index": 97,
+        "value": 9437281
+    },
+    "TELEPORT_F4": {
+        "debugString": "<Symbol TELEPORT_F4(9437282)>",
+        "description": "unknown",
+        "index": 98,
+        "value": 9437282
+    },
+    "TELEPORT_F5": {
+        "debugString": "<Symbol TELEPORT_F5(9437283)>",
+        "description": "unknown",
+        "index": 99,
+        "value": 9437283
+    },
+    "TELLCOMMANDALIASES": {
+        "debugString": "<Symbol TELLCOMMANDALIASES(3145866)>",
+        "description": "tellCommandAliases",
+        "index": 138,
+        "value": 3145866
+    },
+    "TELLRAW_F0": {
+        "debugString": "<Symbol TELLRAW_F0(9437285)>",
         "description": "unknown",
         "index": 101,
         "value": 9437285
     },
-    "TARGETBLOCK": {
-        "debugString": "<Symbol TARGETBLOCK(3145822)>",
-        "description": "TargetBlock",
-        "index": 94,
-        "value": 3145822
-    },
-    "TARGETENTITY": {
-        "debugString": "<Symbol TARGETENTITY(3145821)>",
-        "description": "TargetEntity",
-        "index": 93,
-        "value": 3145821
-    },
-    "TARGETGIVE": {
-        "debugString": "<Symbol TARGETGIVE(3145818)>",
-        "description": "TargetGive",
-        "index": 90,
-        "value": 3145818
-    },
-    "TARGETINSERT": {
-        "debugString": "<Symbol TARGETINSERT(3145819)>",
-        "description": "TargetInsert",
-        "index": 91,
-        "value": 3145819
-    },
-    "TARGETREPLACE": {
-        "debugString": "<Symbol TARGETREPLACE(3145820)>",
-        "description": "TargetReplace",
-        "index": 92,
-        "value": 3145820
-    },
-    "TARGETSPAWN": {
-        "debugString": "<Symbol TARGETSPAWN(3145817)>",
-        "description": "TargetSpawn",
-        "index": 89,
-        "value": 3145817
-    },
-    "TELEPORTCOMMANDALIASES": {
-        "debugString": "<Symbol TELEPORTCOMMANDALIASES(3145874)>",
-        "description": "teleportCommandAliases",
-        "index": 146,
-        "value": 3145874
-    },
-    "TELEPORTFACING": {
-        "debugString": "<Symbol TELEPORTFACING(3145871)>",
-        "description": "TeleportFacing",
-        "index": 143,
-        "value": 3145871
-    },
-    "TELEPORTRULES": {
-        "debugString": "<Symbol TELEPORTRULES(3145844)>",
-        "description": "TeleportRules",
-        "index": 116,
-        "value": 3145844
-    },
-    "TELEPORT_F0": {
-        "debugString": "<Symbol TELEPORT_F0(9437286)>",
+    "TELL_F0": {
+        "debugString": "<Symbol TELL_F0(9437284)>",
         "description": "unknown",
-        "index": 102,
-        "value": 9437286
+        "index": 100,
+        "value": 9437284
     },
-    "TELEPORT_F1": {
-        "debugString": "<Symbol TELEPORT_F1(9437287)>",
-        "description": "unknown",
-        "index": 103,
-        "value": 9437287
+    "TESTFORBLOCKSMODE": {
+        "debugString": "<Symbol TESTFORBLOCKSMODE(3145867)>",
+        "description": "TestForBlocksMode",
+        "index": 139,
+        "value": 3145867
     },
-    "TELEPORT_F2": {
-        "debugString": "<Symbol TELEPORT_F2(9437288)>",
+    "TESTFORBLOCKS_F0": {
+        "debugString": "<Symbol TESTFORBLOCKS_F0(9437288)>",
         "description": "unknown",
         "index": 104,
         "value": 9437288
     },
-    "TELEPORT_F3": {
-        "debugString": "<Symbol TELEPORT_F3(9437289)>",
+    "TESTFORBLOCK_F0": {
+        "debugString": "<Symbol TESTFORBLOCK_F0(9437286)>",
+        "description": "unknown",
+        "index": 102,
+        "value": 9437286
+    },
+    "TESTFORBLOCK_F1": {
+        "debugString": "<Symbol TESTFORBLOCK_F1(9437287)>",
+        "description": "unknown",
+        "index": 103,
+        "value": 9437287
+    },
+    "TESTFOR_F0": {
+        "debugString": "<Symbol TESTFOR_F0(9437289)>",
         "description": "unknown",
         "index": 105,
         "value": 9437289
     },
-    "TELEPORT_F4": {
-        "debugString": "<Symbol TELEPORT_F4(9437290)>",
+    "TICKINGAREA": {
+        "debugString": "<Symbol TICKINGAREA(3145840)>",
+        "description": "TickingArea",
+        "index": 112,
+        "value": 3145840
+    },
+    "TICKINGAREAMODEADD": {
+        "debugString": "<Symbol TICKINGAREAMODEADD(3145868)>",
+        "description": "TickingAreaModeAdd",
+        "index": 140,
+        "value": 3145868
+    },
+    "TICKINGAREAMODELIST": {
+        "debugString": "<Symbol TICKINGAREAMODELIST(3145871)>",
+        "description": "TickingAreaModeList",
+        "index": 143,
+        "value": 3145871
+    },
+    "TICKINGAREAMODEPRELOAD": {
+        "debugString": "<Symbol TICKINGAREAMODEPRELOAD(3145872)>",
+        "description": "TickingAreaModePreload",
+        "index": 144,
+        "value": 3145872
+    },
+    "TICKINGAREAMODEREMOVE": {
+        "debugString": "<Symbol TICKINGAREAMODEREMOVE(3145869)>",
+        "description": "TickingAreaModeRemove",
+        "index": 141,
+        "value": 3145869
+    },
+    "TICKINGAREAMODEREMOVEALL": {
+        "debugString": "<Symbol TICKINGAREAMODEREMOVEALL(3145870)>",
+        "description": "TickingAreaModeRemoveAll",
+        "index": 142,
+        "value": 3145870
+    },
+    "TICKINGAREA_F0": {
+        "debugString": "<Symbol TICKINGAREA_F0(9437290)>",
         "description": "unknown",
         "index": 106,
         "value": 9437290
     },
-    "TELEPORT_F5": {
-        "debugString": "<Symbol TELEPORT_F5(9437291)>",
+    "TICKINGAREA_F1": {
+        "debugString": "<Symbol TICKINGAREA_F1(9437291)>",
         "description": "unknown",
         "index": 107,
         "value": 9437291
     },
-    "TELLCOMMANDALIASES": {
-        "debugString": "<Symbol TELLCOMMANDALIASES(3145875)>",
-        "description": "tellCommandAliases",
-        "index": 147,
-        "value": 3145875
-    },
-    "TELLRAW_F0": {
-        "debugString": "<Symbol TELLRAW_F0(9437293)>",
-        "description": "unknown",
-        "index": 109,
-        "value": 9437293
-    },
-    "TELL_F0": {
-        "debugString": "<Symbol TELL_F0(9437292)>",
+    "TICKINGAREA_F2": {
+        "debugString": "<Symbol TICKINGAREA_F2(9437292)>",
         "description": "unknown",
         "index": 108,
         "value": 9437292
     },
-    "TESTFORBLOCKSMODE": {
-        "debugString": "<Symbol TESTFORBLOCKSMODE(3145876)>",
-        "description": "TestForBlocksMode",
+    "TICKINGAREA_F3": {
+        "debugString": "<Symbol TICKINGAREA_F3(9437293)>",
+        "description": "unknown",
+        "index": 109,
+        "value": 9437293
+    },
+    "TIMEMODEADD": {
+        "debugString": "<Symbol TIMEMODEADD(3145876)>",
+        "description": "TimeModeAdd",
         "index": 148,
         "value": 3145876
     },
-    "TESTFORBLOCKS_F0": {
-        "debugString": "<Symbol TESTFORBLOCKS_F0(9437296)>",
-        "description": "unknown",
-        "index": 112,
-        "value": 9437296
+    "TIMEMODEQUERY": {
+        "debugString": "<Symbol TIMEMODEQUERY(3145877)>",
+        "description": "TimeModeQuery",
+        "index": 149,
+        "value": 3145877
     },
-    "TESTFORBLOCK_F0": {
-        "debugString": "<Symbol TESTFORBLOCK_F0(9437294)>",
+    "TIMEMODESET": {
+        "debugString": "<Symbol TIMEMODESET(3145875)>",
+        "description": "TimeModeSet",
+        "index": 147,
+        "value": 3145875
+    },
+    "TIMEQUERY": {
+        "debugString": "<Symbol TIMEQUERY(3145878)>",
+        "description": "TimeQuery",
+        "index": 150,
+        "value": 3145878
+    },
+    "TIMESPEC": {
+        "debugString": "<Symbol TIMESPEC(3145879)>",
+        "description": "TimeSpec",
+        "index": 151,
+        "value": 3145879
+    },
+    "TIME_F0": {
+        "debugString": "<Symbol TIME_F0(9437294)>",
         "description": "unknown",
         "index": 110,
         "value": 9437294
     },
-    "TESTFORBLOCK_F1": {
-        "debugString": "<Symbol TESTFORBLOCK_F1(9437295)>",
+    "TIME_F1": {
+        "debugString": "<Symbol TIME_F1(9437295)>",
         "description": "unknown",
         "index": 111,
         "value": 9437295
     },
-    "TESTFOR_F0": {
-        "debugString": "<Symbol TESTFOR_F0(9437297)>",
-        "description": "unknown",
-        "index": 113,
-        "value": 9437297
-    },
-    "TICKINGAREA": {
-        "debugString": "<Symbol TICKINGAREA(3145849)>",
-        "description": "TickingArea",
-        "index": 121,
-        "value": 3145849
-    },
-    "TICKINGAREAMODEADD": {
-        "debugString": "<Symbol TICKINGAREAMODEADD(3145877)>",
-        "description": "TickingAreaModeAdd",
-        "index": 149,
-        "value": 3145877
-    },
-    "TICKINGAREAMODELIST": {
-        "debugString": "<Symbol TICKINGAREAMODELIST(3145880)>",
-        "description": "TickingAreaModeList",
+    "TITLECLEAR": {
+        "debugString": "<Symbol TITLECLEAR(3145880)>",
+        "description": "TitleClear",
         "index": 152,
         "value": 3145880
     },
-    "TICKINGAREAMODEPRELOAD": {
-        "debugString": "<Symbol TICKINGAREAMODEPRELOAD(3145881)>",
-        "description": "TickingAreaModePreload",
-        "index": 153,
-        "value": 3145881
+    "TITLERAWCLEAR": {
+        "debugString": "<Symbol TITLERAWCLEAR(3145884)>",
+        "description": "TitleRawClear",
+        "index": 156,
+        "value": 3145884
     },
-    "TICKINGAREAMODEREMOVE": {
-        "debugString": "<Symbol TICKINGAREAMODEREMOVE(3145878)>",
-        "description": "TickingAreaModeRemove",
-        "index": 150,
-        "value": 3145878
+    "TITLERAWRESET": {
+        "debugString": "<Symbol TITLERAWRESET(3145885)>",
+        "description": "TitleRawReset",
+        "index": 157,
+        "value": 3145885
     },
-    "TICKINGAREAMODEREMOVEALL": {
-        "debugString": "<Symbol TICKINGAREAMODEREMOVEALL(3145879)>",
-        "description": "TickingAreaModeRemoveAll",
-        "index": 151,
-        "value": 3145879
+    "TITLERAWSET": {
+        "debugString": "<Symbol TITLERAWSET(3145886)>",
+        "description": "TitleRawSet",
+        "index": 158,
+        "value": 3145886
     },
-    "TICKINGAREA_F0": {
-        "debugString": "<Symbol TICKINGAREA_F0(9437298)>",
+    "TITLERAWTIMES": {
+        "debugString": "<Symbol TITLERAWTIMES(3145887)>",
+        "description": "TitleRawTimes",
+        "index": 159,
+        "value": 3145887
+    },
+    "TITLERAW_F0": {
+        "debugString": "<Symbol TITLERAW_F0(9437298)>",
         "description": "unknown",
         "index": 114,
         "value": 9437298
     },
-    "TICKINGAREA_F1": {
-        "debugString": "<Symbol TICKINGAREA_F1(9437299)>",
+    "TITLERAW_F1": {
+        "debugString": "<Symbol TITLERAW_F1(9437299)>",
         "description": "unknown",
         "index": 115,
         "value": 9437299
     },
-    "TICKINGAREA_F2": {
-        "debugString": "<Symbol TICKINGAREA_F2(9437300)>",
-        "description": "unknown",
-        "index": 116,
-        "value": 9437300
-    },
-    "TICKINGAREA_F3": {
-        "debugString": "<Symbol TICKINGAREA_F3(9437301)>",
-        "description": "unknown",
-        "index": 117,
-        "value": 9437301
-    },
-    "TIME": {
-        "debugString": "<Symbol TIME(3145756)>",
-        "description": "time",
-        "index": 28,
-        "value": 3145756
-    },
-    "TIMEMODEADD": {
-        "debugString": "<Symbol TIMEMODEADD(3145885)>",
-        "description": "TimeModeAdd",
-        "index": 157,
-        "value": 3145885
-    },
-    "TIMEMODEQUERY": {
-        "debugString": "<Symbol TIMEMODEQUERY(3145886)>",
-        "description": "TimeModeQuery",
-        "index": 158,
-        "value": 3145886
-    },
-    "TIMEMODESET": {
-        "debugString": "<Symbol TIMEMODESET(3145884)>",
-        "description": "TimeModeSet",
-        "index": 156,
-        "value": 3145884
-    },
-    "TIMEQUERY": {
-        "debugString": "<Symbol TIMEQUERY(3145887)>",
-        "description": "TimeQuery",
-        "index": 159,
-        "value": 3145887
-    },
-    "TIMESPEC": {
-        "debugString": "<Symbol TIMESPEC(3145888)>",
-        "description": "TimeSpec",
-        "index": 160,
-        "value": 3145888
-    },
-    "TIME_F0": {
-        "debugString": "<Symbol TIME_F0(9437302)>",
-        "description": "unknown",
-        "index": 118,
-        "value": 9437302
-    },
-    "TIME_F1": {
-        "debugString": "<Symbol TIME_F1(9437303)>",
-        "description": "unknown",
-        "index": 119,
-        "value": 9437303
-    },
-    "TITLECLEAR": {
-        "debugString": "<Symbol TITLECLEAR(3145889)>",
-        "description": "TitleClear",
-        "index": 161,
-        "value": 3145889
-    },
-    "TITLERAWCLEAR": {
-        "debugString": "<Symbol TITLERAWCLEAR(3145893)>",
-        "description": "TitleRawClear",
-        "index": 165,
-        "value": 3145893
-    },
-    "TITLERAWRESET": {
-        "debugString": "<Symbol TITLERAWRESET(3145894)>",
-        "description": "TitleRawReset",
-        "index": 166,
-        "value": 3145894
-    },
-    "TITLERAWSET": {
-        "debugString": "<Symbol TITLERAWSET(3145895)>",
-        "description": "TitleRawSet",
-        "index": 167,
-        "value": 3145895
-    },
-    "TITLERAWTIMES": {
-        "debugString": "<Symbol TITLERAWTIMES(3145896)>",
-        "description": "TitleRawTimes",
-        "index": 168,
-        "value": 3145896
-    },
-    "TITLERAW_F0": {
-        "debugString": "<Symbol TITLERAW_F0(9437306)>",
-        "description": "unknown",
-        "index": 122,
-        "value": 9437306
-    },
-    "TITLERAW_F1": {
-        "debugString": "<Symbol TITLERAW_F1(9437307)>",
-        "description": "unknown",
-        "index": 123,
-        "value": 9437307
-    },
     "TITLERESET": {
-        "debugString": "<Symbol TITLERESET(3145890)>",
+        "debugString": "<Symbol TITLERESET(3145881)>",
         "description": "TitleReset",
-        "index": 162,
-        "value": 3145890
+        "index": 153,
+        "value": 3145881
     },
     "TITLESET": {
-        "debugString": "<Symbol TITLESET(3145891)>",
+        "debugString": "<Symbol TITLESET(3145882)>",
         "description": "TitleSet",
-        "index": 163,
-        "value": 3145891
+        "index": 154,
+        "value": 3145882
     },
     "TITLETIMES": {
-        "debugString": "<Symbol TITLETIMES(3145892)>",
+        "debugString": "<Symbol TITLETIMES(3145883)>",
         "description": "TitleTimes",
-        "index": 164,
-        "value": 3145892
+        "index": 155,
+        "value": 3145883
     },
     "TITLE_F0": {
-        "debugString": "<Symbol TITLE_F0(9437304)>",
+        "debugString": "<Symbol TITLE_F0(9437296)>",
         "description": "unknown",
-        "index": 120,
-        "value": 9437304
+        "index": 112,
+        "value": 9437296
     },
     "TITLE_F1": {
-        "debugString": "<Symbol TITLE_F1(9437305)>",
+        "debugString": "<Symbol TITLE_F1(9437297)>",
         "description": "unknown",
-        "index": 121,
-        "value": 9437305
+        "index": 113,
+        "value": 9437297
     },
     "TPDIM_F0": {
-        "debugString": "<Symbol TPDIM_F0(9437348)>",
+        "debugString": "<Symbol TPDIM_F0(9437337)>",
         "description": "unknown",
-        "index": 164,
-        "value": 9437348
+        "index": 153,
+        "value": 9437337
     },
     "TPDIM_F1": {
-        "debugString": "<Symbol TPDIM_F1(9437349)>",
+        "debugString": "<Symbol TPDIM_F1(9437338)>",
         "description": "unknown",
-        "index": 165,
-        "value": 9437349
+        "index": 154,
+        "value": 9437338
     },
     "TYPEARG": {
         "debugString": "<Symbol TYPEARG(1048606)>",
@@ -3090,10 +2982,10 @@
         "value": 1048606
     },
     "UPDATE": {
-        "debugString": "<Symbol UPDATE(3145936)>",
+        "debugString": "<Symbol UPDATE(3145922)>",
         "description": "Update",
-        "index": 208,
-        "value": 3145936
+        "index": 194,
+        "value": 3145922
     },
     "VAL": {
         "debugString": "<Symbol VAL(1048579)>",
@@ -3108,70 +3000,28 @@
         "value": 3145730
     },
     "VIEW": {
-        "debugString": "<Symbol VIEW(3145937)>",
+        "debugString": "<Symbol VIEW(3145923)>",
         "description": "View",
-        "index": 209,
-        "value": 3145937
-    },
-    "VOLUMEAREAADD": {
-        "debugString": "<Symbol VOLUMEAREAADD(3145900)>",
-        "description": "VolumeAreaAdd",
-        "index": 172,
-        "value": 3145900
-    },
-    "VOLUMEAREAALLDIMENSIONS": {
-        "debugString": "<Symbol VOLUMEAREAALLDIMENSIONS(3145904)>",
-        "description": "VolumeAreaAllDimensions",
-        "index": 176,
-        "value": 3145904
-    },
-    "VOLUMEAREALIST": {
-        "debugString": "<Symbol VOLUMEAREALIST(3145903)>",
-        "description": "VolumeAreaList",
-        "index": 175,
-        "value": 3145903
-    },
-    "VOLUMEAREAREMOVE": {
-        "debugString": "<Symbol VOLUMEAREAREMOVE(3145901)>",
-        "description": "VolumeAreaRemove",
-        "index": 173,
-        "value": 3145901
-    },
-    "VOLUMEAREAREMOVEALL": {
-        "debugString": "<Symbol VOLUMEAREAREMOVEALL(3145902)>",
-        "description": "VolumeAreaRemoveAll",
-        "index": 174,
-        "value": 3145902
-    },
-    "VOLUMEAREA_F0": {
-        "debugString": "<Symbol VOLUMEAREA_F0(9437311)>",
-        "description": "unknown",
-        "index": 127,
-        "value": 9437311
-    },
-    "VOLUMEAREA_F1": {
-        "debugString": "<Symbol VOLUMEAREA_F1(9437312)>",
-        "description": "unknown",
-        "index": 128,
-        "value": 9437312
+        "index": 195,
+        "value": 3145923
     },
     "WEATHERQUERY": {
-        "debugString": "<Symbol WEATHERQUERY(3145898)>",
+        "debugString": "<Symbol WEATHERQUERY(3145889)>",
         "description": "WeatherQuery",
-        "index": 170,
-        "value": 3145898
+        "index": 161,
+        "value": 3145889
     },
     "WEATHERTYPE": {
-        "debugString": "<Symbol WEATHERTYPE(3145897)>",
+        "debugString": "<Symbol WEATHERTYPE(3145888)>",
         "description": "WeatherType",
-        "index": 169,
-        "value": 3145897
+        "index": 160,
+        "value": 3145888
     },
     "WEATHER_F0": {
-        "debugString": "<Symbol WEATHER_F0(9437308)>",
+        "debugString": "<Symbol WEATHER_F0(9437300)>",
         "description": "unknown",
-        "index": 124,
-        "value": 9437308
+        "index": 116,
+        "value": 9437300
     },
     "WILDCARDINT": {
         "debugString": "<Symbol WILDCARDINT(1048581)>",
@@ -3186,21 +3036,21 @@
         "value": 1048586
     },
     "WSSERVERCOMMANDALIASES": {
-        "debugString": "<Symbol WSSERVERCOMMANDALIASES(3145899)>",
+        "debugString": "<Symbol WSSERVERCOMMANDALIASES(3145890)>",
         "description": "wsserverCommandAliases",
-        "index": 171,
-        "value": 3145899
+        "index": 162,
+        "value": 3145890
     },
     "WSSERVER_F0": {
-        "debugString": "<Symbol WSSERVER_F0(9437309)>",
+        "debugString": "<Symbol WSSERVER_F0(9437301)>",
         "description": "unknown",
-        "index": 125,
-        "value": 9437309
+        "index": 117,
+        "value": 9437301
     },
     "XP_F0": {
-        "debugString": "<Symbol XP_F0(9437310)>",
+        "debugString": "<Symbol XP_F0(9437302)>",
         "description": "unknown",
-        "index": 126,
-        "value": 9437310
+        "index": 118,
+        "value": 9437302
     }
 }
