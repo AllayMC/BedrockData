@@ -17,11 +17,9 @@ Block palette table extracted from BDS.
 
 Similar to https://github.com/CloudburstMC/Data/blob/master/block_palette.nbt
 
-## 4. biome_definitions
+## 4. biome_definitions(_network)
 
 Biome definitions extracted from BDS.
-
-Similar to https://github.com/pmmp/BedrockData/blob/master/biome_definitions.nbt
 
 ## 5. available_commands
 
