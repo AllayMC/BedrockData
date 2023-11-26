@@ -49,6 +49,14 @@ Vanilla biomes' name & id & type
 
 Creative player's inventory dumping from BDS
 
+## 11. block_id_to_item_id_map
+
+Including all the vanilla hard-coded block <-> block-item pair
+
+## 12. recipes
+
+Vanilla recipes extracted from BDS
+
 ### Want to generate these files by yourself?
 
 You can use this tool [DataExtractor](https://github.com/AllayMC/DataExtractor)
