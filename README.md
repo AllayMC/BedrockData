@@ -8,26 +8,26 @@ Block attributes extracted from BDS.
 Contains aabb, hardness, resistance, friction ... for each ```block state```.
 
 ## 2. item_data
-
+format: big endian gzip compression  
 Item data extracted from BDS.
 
 ## 3. block_palette
-
+format: big endian gzip compression  
 Block palette table extracted from BDS. 
 
 Similar to https://github.com/CloudburstMC/Data/blob/master/block_palette.nbt
 
-## 4. biome_definitions(_network)
-
+## 4. biome_definitions
+format: big endian gzip compression  
 Biome definitions extracted from BDS.
 
-## 5. available_commands
+## 5. available_commands(Disable)
 
 Available commands' data extracted from BDS.
 
 Including vanilla command enum data / soft enum data / parameter data / etc...
 
-## 6. command_arg_types
+## 6. command_arg_types(Disable)
 
 Command argument types extracted from BDS.
 
@@ -46,7 +46,7 @@ All the vanilla block property type extracted from BDS. Including the value type
 Vanilla biomes' name & id & type
 
 ## 10. creative_items
-
+format: big endian gzip compression  
 Creative player's inventory dumping from BDS
 
 ## 11. block_id_to_item_id_map
