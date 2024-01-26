@@ -25,11 +25,9 @@ Biome definitions extracted from BDS.
 
 AvailableCommandsPacket bin extracted from BDS.
 
-## 6. command_arg_types
+## 6. command_xxx
 
-Command argument types extracted from BDS.
-
-Including all the command argument types and their id.
+Command related data extracted from BDS.
 
 ## 7. entity_data
 
