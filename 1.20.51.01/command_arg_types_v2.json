@@ -1,0 +1,382 @@
+{
+    "ARG": {
+        "desc": "unknown",
+        "index": 26,
+        "value": 1048602
+    },
+    "ARGS": {
+        "desc": "unknown",
+        "index": 25,
+        "value": 1048601
+    },
+    "BLOCK_STATE": {
+        "desc": "unknown",
+        "index": 68,
+        "value": 1048644
+    },
+    "BLOCK_STATE_ARRAY": {
+        "desc": "block states",
+        "index": 72,
+        "value": 1048648
+    },
+    "BLOCK_STATE_ARRAY_CONT": {
+        "desc": "unknown",
+        "index": 73,
+        "value": 1048649
+    },
+    "BLOCK_STATE_KEY": {
+        "desc": "unknown",
+        "index": 69,
+        "value": 1048645
+    },
+    "BLOCK_STATE_VALUE": {
+        "desc": "unknown",
+        "index": 70,
+        "value": 1048646
+    },
+    "BLOCK_STATE_VALUES": {
+        "desc": "unknown",
+        "index": 71,
+        "value": 1048647
+    },
+    "COMMAND": {
+        "desc": "unknown",
+        "index": 74,
+        "value": 1048650
+    },
+    "COMPAREOPERATOR": {
+        "desc": "compare operator",
+        "index": 7,
+        "value": 1048583
+    },
+    "COORD_X_FLOAT": {
+        "desc": "unknown",
+        "index": 49,
+        "value": 1048625
+    },
+    "COORD_X_INT": {
+        "desc": "unknown",
+        "index": 46,
+        "value": 1048622
+    },
+    "COORD_Y_FLOAT": {
+        "desc": "unknown",
+        "index": 50,
+        "value": 1048626
+    },
+    "COORD_Y_INT": {
+        "desc": "unknown",
+        "index": 47,
+        "value": 1048623
+    },
+    "COORD_Z_FLOAT": {
+        "desc": "unknown",
+        "index": 51,
+        "value": 1048627
+    },
+    "COORD_Z_INT": {
+        "desc": "unknown",
+        "index": 48,
+        "value": 1048624
+    },
+    "EQUIPMENTSLOTENUM": {
+        "desc": "equipment slots",
+        "index": 43,
+        "value": 1048619
+    },
+    "FAMILYARG": {
+        "desc": "unknown",
+        "index": 31,
+        "value": 1048607
+    },
+    "FLOAT": {
+        "desc": "unknown",
+        "index": 2,
+        "value": 1048578
+    },
+    "FULLINTEGERRANGE": {
+        "desc": "integer range",
+        "index": 23,
+        "value": 1048599
+    },
+    "HASITEMARG": {
+        "desc": "unknown",
+        "index": 40,
+        "value": 1048616
+    },
+    "HASITEMARGS": {
+        "desc": "unknown",
+        "index": 41,
+        "value": 1048617
+    },
+    "HASITEMELEMENT": {
+        "desc": "unknown",
+        "index": 38,
+        "value": 1048614
+    },
+    "HASITEMELEMENTS": {
+        "desc": "unknown",
+        "index": 39,
+        "value": 1048615
+    },
+    "HASITEMSELECTOR": {
+        "desc": "unknown",
+        "index": 42,
+        "value": 1048618
+    },
+    "ID": {
+        "desc": "string",
+        "index": 44,
+        "value": 1048620
+    },
+    "IDCONT": {
+        "desc": "unknown",
+        "index": 45,
+        "value": 1048621
+    },
+    "INT": {
+        "desc": "int",
+        "index": 1,
+        "value": 1048577
+    },
+    "INTEGERRANGE": {
+        "desc": "unknown",
+        "index": 22,
+        "value": 1048598
+    },
+    "INTEGERRANGEPOSTVAL": {
+        "desc": "unknown",
+        "index": 21,
+        "value": 1048597
+    },
+    "INTEGERRANGEVAL": {
+        "desc": "unknown",
+        "index": 20,
+        "value": 1048596
+    },
+    "JSON_ARRAY": {
+        "desc": "unknown",
+        "index": 65,
+        "value": 1048641
+    },
+    "JSON_ARRAY_CONT": {
+        "desc": "unknown",
+        "index": 67,
+        "value": 1048643
+    },
+    "JSON_ARRAY_VALUES": {
+        "desc": "unknown",
+        "index": 66,
+        "value": 1048642
+    },
+    "JSON_FIELD": {
+        "desc": "unknown",
+        "index": 61,
+        "value": 1048637
+    },
+    "JSON_OBJECT": {
+        "desc": "json",
+        "index": 62,
+        "value": 1048638
+    },
+    "JSON_OBJECT_CONT": {
+        "desc": "unknown",
+        "index": 64,
+        "value": 1048640
+    },
+    "JSON_OBJECT_FIELDS": {
+        "desc": "unknown",
+        "index": 63,
+        "value": 1048639
+    },
+    "JSON_VALUE": {
+        "desc": "unknown",
+        "index": 60,
+        "value": 1048636
+    },
+    "MARG": {
+        "desc": "unknown",
+        "index": 27,
+        "value": 1048603
+    },
+    "MESSAGE": {
+        "desc": "unknown",
+        "index": 55,
+        "value": 1048631
+    },
+    "MESSAGEEXP": {
+        "desc": "unknown",
+        "index": 54,
+        "value": 1048630
+    },
+    "MESSAGE_ROOT": {
+        "desc": "message",
+        "index": 56,
+        "value": 1048632
+    },
+    "MVALUE": {
+        "desc": "unknown",
+        "index": 28,
+        "value": 1048604
+    },
+    "NAMEARG": {
+        "desc": "unknown",
+        "index": 29,
+        "value": 1048605
+    },
+    "NONIDSELECTION": {
+        "desc": "unknown",
+        "index": 11,
+        "value": 1048587
+    },
+    "OPERATOR": {
+        "desc": "operator",
+        "index": 6,
+        "value": 1048582
+    },
+    "PATHCOMMAND": {
+        "desc": "filepath",
+        "index": 17,
+        "value": 1048593
+    },
+    "PATHCOMMANDCONT": {
+        "desc": "unknown",
+        "index": 19,
+        "value": 1048595
+    },
+    "PATHCOMMANDVAL": {
+        "desc": "unknown",
+        "index": 18,
+        "value": 1048594
+    },
+    "PERMISSIONARG": {
+        "desc": "unknown",
+        "index": 32,
+        "value": 1048608
+    },
+    "PERMISSIONARGS": {
+        "desc": "unknown",
+        "index": 33,
+        "value": 1048609
+    },
+    "PERMISSIONELEMENT": {
+        "desc": "unknown",
+        "index": 35,
+        "value": 1048611
+    },
+    "PERMISSIONELEMENTS": {
+        "desc": "unknown",
+        "index": 36,
+        "value": 1048612
+    },
+    "PERMISSIONSELECTOR": {
+        "desc": "unknown",
+        "index": 34,
+        "value": 1048610
+    },
+    "POSITION": {
+        "desc": "x y z",
+        "index": 52,
+        "value": 1048628
+    },
+    "POSITION_FLOAT": {
+        "desc": "x y z",
+        "index": 53,
+        "value": 1048629
+    },
+    "POSTSELECTOR": {
+        "desc": "unknown",
+        "index": 57,
+        "value": 1048633
+    },
+    "RAWTEXT": {
+        "desc": "text",
+        "index": 58,
+        "value": 1048634
+    },
+    "RAWTEXTCONT": {
+        "desc": "unknown",
+        "index": 59,
+        "value": 1048635
+    },
+    "RVAL": {
+        "desc": "value",
+        "index": 4,
+        "value": 1048580
+    },
+    "SCORESARG": {
+        "desc": "unknown",
+        "index": 12,
+        "value": 1048588
+    },
+    "SCORESARGS": {
+        "desc": "unknown",
+        "index": 13,
+        "value": 1048589
+    },
+    "SCORESELECTOR": {
+        "desc": "unknown",
+        "index": 15,
+        "value": 1048591
+    },
+    "SCORESELECTPARAM": {
+        "desc": "unknown",
+        "index": 14,
+        "value": 1048590
+    },
+    "SELARGS": {
+        "desc": "unknown",
+        "index": 24,
+        "value": 1048600
+    },
+    "SELECTION": {
+        "desc": "target",
+        "index": 8,
+        "value": 1048584
+    },
+    "SLASHCOMMAND": {
+        "desc": "command",
+        "index": 75,
+        "value": 1048651
+    },
+    "STANDALONESELECTION": {
+        "desc": "unknown",
+        "index": 9,
+        "value": 1048585
+    },
+    "TAGARG": {
+        "desc": "unknown",
+        "index": 37,
+        "value": 1048613
+    },
+    "TAGSELECTOR": {
+        "desc": "unknown",
+        "index": 16,
+        "value": 1048592
+    },
+    "TYPEARG": {
+        "desc": "unknown",
+        "index": 30,
+        "value": 1048606
+    },
+    "VAL": {
+        "desc": "float",
+        "index": 3,
+        "value": 1048579
+    },
+    "WILDCARDINT": {
+        "desc": "wildcard int",
+        "index": 5,
+        "value": 1048581
+    },
+    "WILDCARDSELECTION": {
+        "desc": "target",
+        "index": 10,
+        "value": 1048586
+    },
+    "eps": {
+        "desc": "unknown",
+        "index": 0,
+        "value": 1048576
+    }
+}
