@@ -1,0 +1,2006 @@
+{
+    "ACTORLOCATION": {
+        "desc": "ActorLocation",
+        "index": 63
+    },
+    "ADD": {
+        "desc": "add",
+        "index": 68
+    },
+    "ADDTICKINGAREATYPE": {
+        "desc": "AddTickingAreaType",
+        "index": 154
+    },
+    "AGENTCOLLECTALLITEMS": {
+        "desc": "AgentCollectAllItems",
+        "index": 191
+    },
+    "AGENTCOLLECTCOMMAND": {
+        "desc": "AgentCollectCommand",
+        "index": 190
+    },
+    "AGENTCOMMAND": {
+        "desc": "AgentCommand",
+        "index": 185
+    },
+    "AGENTDIRECTION": {
+        "desc": "AgentDirection",
+        "index": 180
+    },
+    "AGENTDIRECTIONCOMMAND": {
+        "desc": "AgentDirectionCommand",
+        "index": 182
+    },
+    "AGENTDROPCOMMAND": {
+        "desc": "AgentDropCommand",
+        "index": 188
+    },
+    "AGENTITEMCOMMAND": {
+        "desc": "AgentItemCommand",
+        "index": 184
+    },
+    "AGENTPLACECOMMAND": {
+        "desc": "AgentPlaceCommand",
+        "index": 189
+    },
+    "AGENTSETITEMCOMMAND": {
+        "desc": "AgentSetItemCommand",
+        "index": 192
+    },
+    "AGENTTELEPORTFACING": {
+        "desc": "AgentTeleportFacing",
+        "index": 179
+    },
+    "AGENTTPCOMMAND": {
+        "desc": "AgentTPCommand",
+        "index": 186
+    },
+    "AGENTTRANSFERCOMMAND": {
+        "desc": "AgentTransferCommand",
+        "index": 187
+    },
+    "AGENTTURNCOMMAND": {
+        "desc": "AgentTurnCommand",
+        "index": 183
+    },
+    "AGENTTURNDIRECTION": {
+        "desc": "AgentTurnDirection",
+        "index": 181
+    },
+    "AGENT_DESTROY": {
+        "desc": "AGENT_DESTROY",
+        "index": 193
+    },
+    "AGENT_F0": {
+        "desc": "unknown",
+        "index": 136
+    },
+    "AGENT_F1": {
+        "desc": "unknown",
+        "index": 137
+    },
+    "AGENT_F2": {
+        "desc": "unknown",
+        "index": 138
+    },
+    "AGENT_F3": {
+        "desc": "unknown",
+        "index": 139
+    },
+    "AGENT_INSPECT": {
+        "desc": "AGENT_INSPECT",
+        "index": 194
+    },
+    "AGENT_INTERACT": {
+        "desc": "AGENT_INTERACT",
+        "index": 195
+    },
+    "ALLDIMENSIONS": {
+        "desc": "AllDimensions",
+        "index": 155
+    },
+    "ALLOWLISTACTION": {
+        "desc": "AllowListAction",
+        "index": 198
+    },
+    "ALLOWLISTCOMMANDALIASES": {
+        "desc": "allowlistCommandAliases",
+        "index": 199
+    },
+    "ALLOWLIST_F0": {
+        "desc": "unknown",
+        "index": 144
+    },
+    "ARG": {
+        "desc": "unknown",
+        "index": 26
+    },
+    "ARGS": {
+        "desc": "unknown",
+        "index": 25
+    },
+    "BIOME": {
+        "desc": "Biome",
+        "index": 16
+    },
+    "BLOCK": {
+        "desc": "Block",
+        "index": 12
+    },
+    "BLOCKEQUIPMENTSLOT": {
+        "desc": "BlockEquipmentSlot",
+        "index": 97
+    },
+    "BLOCKSSCANMODE": {
+        "desc": "BlocksScanMode",
+        "index": 64
+    },
+    "BLOCK_STATE": {
+        "desc": "unknown",
+        "index": 68
+    },
+    "BLOCK_STATE_ARRAY": {
+        "desc": "block states",
+        "index": 72
+    },
+    "BLOCK_STATE_ARRAY_CONT": {
+        "desc": "unknown",
+        "index": 73
+    },
+    "BLOCK_STATE_KEY": {
+        "desc": "unknown",
+        "index": 69
+    },
+    "BLOCK_STATE_VALUE": {
+        "desc": "unknown",
+        "index": 70
+    },
+    "BLOCK_STATE_VALUES": {
+        "desc": "unknown",
+        "index": 71
+    },
+    "BOOLEAN": {
+        "desc": "Boolean",
+        "index": 5
+    },
+    "BOOLGAMERULE": {
+        "desc": "BoolGameRule",
+        "index": 70
+    },
+    "BOOLSETTINGNAME": {
+        "desc": "BoolSettingName",
+        "index": 200
+    },
+    "CAMERASHAKEACTIONADD": {
+        "desc": "CameraShakeActionAdd",
+        "index": 32
+    },
+    "CAMERASHAKEACTIONSTOP": {
+        "desc": "CameraShakeActionStop",
+        "index": 33
+    },
+    "CAMERASHAKETYPE": {
+        "desc": "CameraShakeType",
+        "index": 34
+    },
+    "CAMERASHAKE_F0": {
+        "desc": "unknown",
+        "index": 13
+    },
+    "CAMERA_F0": {
+        "desc": "unknown",
+        "index": 1
+    },
+    "CAMERA_F1": {
+        "desc": "unknown",
+        "index": 2
+    },
+    "CAMERA_F10": {
+        "desc": "unknown",
+        "index": 11
+    },
+    "CAMERA_F11": {
+        "desc": "unknown",
+        "index": 12
+    },
+    "CAMERA_F2": {
+        "desc": "unknown",
+        "index": 3
+    },
+    "CAMERA_F3": {
+        "desc": "unknown",
+        "index": 4
+    },
+    "CAMERA_F4": {
+        "desc": "unknown",
+        "index": 5
+    },
+    "CAMERA_F5": {
+        "desc": "unknown",
+        "index": 6
+    },
+    "CAMERA_F6": {
+        "desc": "unknown",
+        "index": 7
+    },
+    "CAMERA_F7": {
+        "desc": "unknown",
+        "index": 8
+    },
+    "CAMERA_F8": {
+        "desc": "unknown",
+        "index": 9
+    },
+    "CAMERA_F9": {
+        "desc": "unknown",
+        "index": 10
+    },
+    "CHANGESETTING_F0": {
+        "desc": "unknown",
+        "index": 145
+    },
+    "CHANGESETTING_F1": {
+        "desc": "unknown",
+        "index": 146
+    },
+    "CIRCLEAREA": {
+        "desc": "CircleArea",
+        "index": 120
+    },
+    "CLEAR": {
+        "desc": "clear",
+        "index": 28
+    },
+    "CLEAREFFECTS": {
+        "desc": "ClearEffects",
+        "index": 44
+    },
+    "CLEARSPAWNPOINT_F0": {
+        "desc": "unknown",
+        "index": 15
+    },
+    "CLEAR_F0": {
+        "desc": "unknown",
+        "index": 14
+    },
+    "CLONEMODE": {
+        "desc": "CloneMode",
+        "index": 37
+    },
+    "CLONE_F0": {
+        "desc": "unknown",
+        "index": 16
+    },
+    "CLONE_F1": {
+        "desc": "unknown",
+        "index": 17
+    },
+    "CLONE_F2": {
+        "desc": "unknown",
+        "index": 18
+    },
+    "CODEBUILDERACTIONINVENTORY": {
+        "desc": "CodeBuilderActionInventory",
+        "index": 196
+    },
+    "CODEBUILDER_ACTORINFO_F0": {
+        "desc": "unknown",
+        "index": 140
+    },
+    "COLOR": {
+        "desc": "color",
+        "index": 31
+    },
+    "COMMAND": {
+        "desc": "unknown",
+        "index": 74
+    },
+    "COMMANDNAME": {
+        "desc": "CommandName",
+        "index": 21
+    },
+    "COMPAREOPERATOR": {
+        "desc": "compare operator",
+        "index": 7
+    },
+    "COORD_X_FLOAT": {
+        "desc": "unknown",
+        "index": 49
+    },
+    "COORD_X_INT": {
+        "desc": "unknown",
+        "index": 46
+    },
+    "COORD_Y_FLOAT": {
+        "desc": "unknown",
+        "index": 50
+    },
+    "COORD_Y_INT": {
+        "desc": "unknown",
+        "index": 47
+    },
+    "COORD_Z_FLOAT": {
+        "desc": "unknown",
+        "index": 51
+    },
+    "COORD_Z_INT": {
+        "desc": "unknown",
+        "index": 48
+    },
+    "DAMAGECAUSE": {
+        "desc": "DamageCause",
+        "index": 38
+    },
+    "DAMAGEORIGINACTOR": {
+        "desc": "DamageOriginActor",
+        "index": 39
+    },
+    "DAMAGE_F0": {
+        "desc": "unknown",
+        "index": 19
+    },
+    "DAMAGE_F1": {
+        "desc": "unknown",
+        "index": 20
+    },
+    "DAMAGE_F2": {
+        "desc": "unknown",
+        "index": 21
+    },
+    "DAYLOCKCOMMANDALIASES": {
+        "desc": "daylockCommandAliases",
+        "index": 40
+    },
+    "DAYLOCK_F0": {
+        "desc": "unknown",
+        "index": 22
+    },
+    "DEFAULT": {
+        "desc": "default",
+        "index": 27
+    },
+    "DELETE": {
+        "desc": "delete",
+        "index": 69
+    },
+    "DEOP_F0": {
+        "desc": "unknown",
+        "index": 23
+    },
+    "DIALOGUECHANGEACTION": {
+        "desc": "DialogueChangeAction",
+        "index": 42
+    },
+    "DIALOGUEOPENACTION": {
+        "desc": "DialogueOpenAction",
+        "index": 41
+    },
+    "DIALOGUE_F0": {
+        "desc": "unknown",
+        "index": 24
+    },
+    "DIFFICULTY": {
+        "desc": "Difficulty",
+        "index": 43
+    },
+    "DIFFICULTYSETTINGNAME": {
+        "desc": "DifficultySettingName",
+        "index": 201
+    },
+    "DIFFICULTY_F0": {
+        "desc": "unknown",
+        "index": 25
+    },
+    "DIGITSPARAM": {
+        "desc": "DigitsParam",
+        "index": 4
+    },
+    "DIMENSION": {
+        "desc": "Dimension",
+        "index": 11
+    },
+    "DIMENSIONTYPE": {
+        "desc": "DimensionType",
+        "index": 207
+    },
+    "EASE": {
+        "desc": "ease",
+        "index": 23
+    },
+    "EASING": {
+        "desc": "Easing",
+        "index": 20
+    },
+    "EFFECT": {
+        "desc": "Effect",
+        "index": 45
+    },
+    "EFFECT_F0": {
+        "desc": "unknown",
+        "index": 26
+    },
+    "EFFECT_F1": {
+        "desc": "unknown",
+        "index": 27
+    },
+    "ENCHANT": {
+        "desc": "Enchant",
+        "index": 17
+    },
+    "ENCHANT_F0": {
+        "desc": "unknown",
+        "index": 141
+    },
+    "ENCHANT_F1": {
+        "desc": "unknown",
+        "index": 142
+    },
+    "ENTITYEQUIPMENTSLOT": {
+        "desc": "EntityEquipmentSlot",
+        "index": 9
+    },
+    "ENTITYTYPE": {
+        "desc": "EntityType",
+        "index": 14
+    },
+    "ENTITYTYPESELECTOR": {
+        "desc": "EntityTypeSelector",
+        "index": 10
+    },
+    "EQUIPMENTSLOTENUM": {
+        "desc": "equipment slots",
+        "index": 43
+    },
+    "EVENTENTITYACTION": {
+        "desc": "EventEntityAction",
+        "index": 46
+    },
+    "EVENT_F0": {
+        "desc": "unknown",
+        "index": 28
+    },
+    "EXECUTEMODEDETECT": {
+        "desc": "ExecuteModeDetect",
+        "index": 47
+    },
+    "EXECUTE_F0": {
+        "desc": "unknown",
+        "index": 29
+    },
+    "EXECUTE_F1": {
+        "desc": "unknown",
+        "index": 30
+    },
+    "EXECUTE_F2": {
+        "desc": "unknown",
+        "index": 31
+    },
+    "EXECUTE_F3": {
+        "desc": "unknown",
+        "index": 32
+    },
+    "EXECUTE_F4": {
+        "desc": "unknown",
+        "index": 33
+    },
+    "EXECUTE_F5": {
+        "desc": "unknown",
+        "index": 34
+    },
+    "EXECUTE_F6": {
+        "desc": "unknown",
+        "index": 35
+    },
+    "EXECUTE_F7": {
+        "desc": "unknown",
+        "index": 36
+    },
+    "FACING": {
+        "desc": "facing",
+        "index": 26
+    },
+    "FADE": {
+        "desc": "fade",
+        "index": 29
+    },
+    "FAMILYARG": {
+        "desc": "unknown",
+        "index": 31
+    },
+    "FEATURES": {
+        "desc": "Features",
+        "index": 13
+    },
+    "FILLMODE": {
+        "desc": "FillMode",
+        "index": 66
+    },
+    "FILLTYPE": {
+        "desc": "FillType",
+        "index": 115
+    },
+    "FILL_F0": {
+        "desc": "unknown",
+        "index": 37
+    },
+    "FILL_F1": {
+        "desc": "unknown",
+        "index": 38
+    },
+    "FILL_F2": {
+        "desc": "unknown",
+        "index": 39
+    },
+    "FILL_F3": {
+        "desc": "unknown",
+        "index": 40
+    },
+    "FLOAT": {
+        "desc": "unknown",
+        "index": 2
+    },
+    "FOG_F0": {
+        "desc": "unknown",
+        "index": 41
+    },
+    "FOG_F1": {
+        "desc": "unknown",
+        "index": 42
+    },
+    "FULLINTEGERRANGE": {
+        "desc": "integer range",
+        "index": 23
+    },
+    "FUNCTION_F0": {
+        "desc": "unknown",
+        "index": 43
+    },
+    "GAMEMODE": {
+        "desc": "GameMode",
+        "index": 0
+    },
+    "GAMEMODE_F0": {
+        "desc": "unknown",
+        "index": 44
+    },
+    "GAMERULE_F0": {
+        "desc": "unknown",
+        "index": 45
+    },
+    "GAMETESTMODECLEARALL": {
+        "desc": "GameTestModeClearAll",
+        "index": 76
+    },
+    "GAMETESTMODECREATETEST": {
+        "desc": "GameTestModeCreateTest",
+        "index": 78
+    },
+    "GAMETESTMODERUN": {
+        "desc": "GameTestModeRun",
+        "index": 72
+    },
+    "GAMETESTMODERUNSET": {
+        "desc": "GameTestModeRunSet",
+        "index": 74
+    },
+    "GAMETESTMODERUNSETUNTILFAIL": {
+        "desc": "GameTestModeRunSetUntilFail",
+        "index": 75
+    },
+    "GAMETESTMODERUNTHIS": {
+        "desc": "GameTestModeRunThis",
+        "index": 73
+    },
+    "GAMETESTMODESHOWPOSITION": {
+        "desc": "GameTestModeShowPosition",
+        "index": 77
+    },
+    "GAMETESTRUNNEARBYTESTS": {
+        "desc": "GameTestRunNearbyTests",
+        "index": 79
+    },
+    "GAMETESTSTOPTESTS": {
+        "desc": "GameTestStopTests",
+        "index": 80
+    },
+    "GAMETEST_F0": {
+        "desc": "unknown",
+        "index": 46
+    },
+    "GAMETEST_F1": {
+        "desc": "unknown",
+        "index": 47
+    },
+    "GETTOPSOLIDBLOCK_F0": {
+        "desc": "unknown",
+        "index": 48
+    },
+    "GIVE": {
+        "desc": "Give",
+        "index": 173
+    },
+    "GIVE_F0": {
+        "desc": "unknown",
+        "index": 49
+    },
+    "HASITEMARG": {
+        "desc": "unknown",
+        "index": 40
+    },
+    "HASITEMARGS": {
+        "desc": "unknown",
+        "index": 41
+    },
+    "HASITEMELEMENT": {
+        "desc": "unknown",
+        "index": 38
+    },
+    "HASITEMELEMENTS": {
+        "desc": "unknown",
+        "index": 39
+    },
+    "HASITEMSELECTOR": {
+        "desc": "unknown",
+        "index": 42
+    },
+    "HELPCOMMANDALIASES": {
+        "desc": "helpCommandAliases",
+        "index": 81
+    },
+    "HELP_F0": {
+        "desc": "unknown",
+        "index": 50
+    },
+    "ID": {
+        "desc": "string",
+        "index": 44
+    },
+    "IDCONT": {
+        "desc": "unknown",
+        "index": 45
+    },
+    "INPUTPERMISSION_F0": {
+        "desc": "unknown",
+        "index": 51
+    },
+    "INT": {
+        "desc": "int",
+        "index": 1
+    },
+    "INTEGERRANGE": {
+        "desc": "unknown",
+        "index": 22
+    },
+    "INTEGERRANGEPOSTVAL": {
+        "desc": "unknown",
+        "index": 21
+    },
+    "INTEGERRANGEVAL": {
+        "desc": "unknown",
+        "index": 20
+    },
+    "INTGAMERULE": {
+        "desc": "IntGameRule",
+        "index": 71
+    },
+    "INTPARAM": {
+        "desc": "IntParam",
+        "index": 3
+    },
+    "ITEM": {
+        "desc": "Item",
+        "index": 8
+    },
+    "JSON_ARRAY": {
+        "desc": "unknown",
+        "index": 65
+    },
+    "JSON_ARRAY_CONT": {
+        "desc": "unknown",
+        "index": 67
+    },
+    "JSON_ARRAY_VALUES": {
+        "desc": "unknown",
+        "index": 66
+    },
+    "JSON_FIELD": {
+        "desc": "unknown",
+        "index": 61
+    },
+    "JSON_OBJECT": {
+        "desc": "json",
+        "index": 62
+    },
+    "JSON_OBJECT_CONT": {
+        "desc": "unknown",
+        "index": 64
+    },
+    "JSON_OBJECT_FIELDS": {
+        "desc": "unknown",
+        "index": 63
+    },
+    "JSON_VALUE": {
+        "desc": "unknown",
+        "index": 60
+    },
+    "KICK_F0": {
+        "desc": "unknown",
+        "index": 52
+    },
+    "KILL_F0": {
+        "desc": "unknown",
+        "index": 53
+    },
+    "LISTDETAILS": {
+        "desc": "ListDetails",
+        "index": 86
+    },
+    "LISTD_F0": {
+        "desc": "unknown",
+        "index": 54
+    },
+    "LL_F0": {
+        "desc": "unknown",
+        "index": 151
+    },
+    "LOCATESUBCOMMANDBIOME": {
+        "desc": "LocateSubcommandBiome",
+        "index": 88
+    },
+    "LOCATESUBCOMMANDSTRUCTURE": {
+        "desc": "LocateSubcommandStructure",
+        "index": 87
+    },
+    "LOCATE_F0": {
+        "desc": "unknown",
+        "index": 55
+    },
+    "LOOT_F0": {
+        "desc": "unknown",
+        "index": 56
+    },
+    "LOOT_F1": {
+        "desc": "unknown",
+        "index": 57
+    },
+    "LOOT_F2": {
+        "desc": "unknown",
+        "index": 58
+    },
+    "LOOT_F3": {
+        "desc": "unknown",
+        "index": 59
+    },
+    "LOOT_F4": {
+        "desc": "unknown",
+        "index": 60
+    },
+    "LOOT_F5": {
+        "desc": "unknown",
+        "index": 61
+    },
+    "LOOT_F6": {
+        "desc": "unknown",
+        "index": 62
+    },
+    "LOOT_F7": {
+        "desc": "unknown",
+        "index": 63
+    },
+    "LOOT_F8": {
+        "desc": "unknown",
+        "index": 64
+    },
+    "MARG": {
+        "desc": "unknown",
+        "index": 27
+    },
+    "MASKMODE": {
+        "desc": "MaskMode",
+        "index": 35
+    },
+    "MASKMODEFILTERED": {
+        "desc": "MaskModeFiltered",
+        "index": 36
+    },
+    "MESSAGE": {
+        "desc": "unknown",
+        "index": 55
+    },
+    "MESSAGEEXP": {
+        "desc": "unknown",
+        "index": 54
+    },
+    "MESSAGE_ROOT": {
+        "desc": "message",
+        "index": 56
+    },
+    "ME_F0": {
+        "desc": "unknown",
+        "index": 65
+    },
+    "MIRROR": {
+        "desc": "Mirror",
+        "index": 19
+    },
+    "MOBEVENT": {
+        "desc": "MobEvent",
+        "index": 98
+    },
+    "MOBEVENT_F0": {
+        "desc": "unknown",
+        "index": 66
+    },
+    "MUSICPLAYACTION": {
+        "desc": "MusicPlayAction",
+        "index": 100
+    },
+    "MUSICQUEUEACTION": {
+        "desc": "MusicQueueAction",
+        "index": 99
+    },
+    "MUSICREPEATMODE": {
+        "desc": "MusicRepeatMode",
+        "index": 103
+    },
+    "MUSICSTOPACTION": {
+        "desc": "MusicStopAction",
+        "index": 101
+    },
+    "MUSICVOLUMEACTION": {
+        "desc": "MusicVolumeAction",
+        "index": 102
+    },
+    "MUSIC_F0": {
+        "desc": "unknown",
+        "index": 67
+    },
+    "MVALUE": {
+        "desc": "unknown",
+        "index": 28
+    },
+    "NAMEARG": {
+        "desc": "unknown",
+        "index": 29
+    },
+    "NONIDSELECTION": {
+        "desc": "unknown",
+        "index": 11
+    },
+    "OPERATION_COMMON": {
+        "desc": "Operation_Common",
+        "index": 208
+    },
+    "OPERATION_FREEFILEPATH": {
+        "desc": "Operation_FreeFilePath",
+        "index": 211
+    },
+    "OPERATION_MUSTPLUGINNAME": {
+        "desc": "Operation_MustPluginName",
+        "index": 212
+    },
+    "OPERATION_OPTIONALPLUGINNAME": {
+        "desc": "Operation_OptionalPluginName",
+        "index": 213
+    },
+    "OPERATION_SETTINGS": {
+        "desc": "Operation_Settings",
+        "index": 209
+    },
+    "OPERATOR": {
+        "desc": "operator",
+        "index": 6
+    },
+    "OPTIONAL_ALLDIMENSIONS": {
+        "desc": "unknown",
+        "index": 56
+    },
+    "OPTIONAL_BLOCK_BLOCK_STATE_ARRAY": {
+        "desc": "unknown",
+        "index": 14
+    },
+    "OPTIONAL_BLOCK_INT": {
+        "desc": "unknown",
+        "index": 15
+    },
+    "OPTIONAL_BLOCK_STATE_ARRAY": {
+        "desc": "unknown",
+        "index": 13
+    },
+    "OPTIONAL_BOOLEAN": {
+        "desc": "unknown",
+        "index": 9
+    },
+    "OPTIONAL_BOOLEAN_BOOLEAN_BOOLEAN_VAL_ID": {
+        "desc": "unknown",
+        "index": 49
+    },
+    "OPTIONAL_BOOLEAN_BOOLEAN_VAL_ID": {
+        "desc": "unknown",
+        "index": 47
+    },
+    "OPTIONAL_BOOLEAN_VAL_ID": {
+        "desc": "unknown",
+        "index": 46
+    },
+    "OPTIONAL_CAMERASHAKETYPE": {
+        "desc": "unknown",
+        "index": 0
+    },
+    "OPTIONAL_CLONEMODE": {
+        "desc": "unknown",
+        "index": 7
+    },
+    "OPTIONAL_ENTITYEVENTS_ID": {
+        "desc": "unknown",
+        "index": 51
+    },
+    "OPTIONAL_EXECUTECHAINEDOPTION_0": {
+        "desc": "unknown",
+        "index": 12
+    },
+    "OPTIONAL_FILLTYPE": {
+        "desc": "unknown",
+        "index": 35
+    },
+    "OPTIONAL_GAMETESTTAG_INT": {
+        "desc": "unknown",
+        "index": 16
+    },
+    "OPTIONAL_ID": {
+        "desc": "unknown",
+        "index": 8
+    },
+    "OPTIONAL_ID_BOOLEAN": {
+        "desc": "unknown",
+        "index": 55
+    },
+    "OPTIONAL_ID_ID": {
+        "desc": "unknown",
+        "index": 28
+    },
+    "OPTIONAL_ID_VAL_ID_ID": {
+        "desc": "unknown",
+        "index": 30
+    },
+    "OPTIONAL_INT": {
+        "desc": "unknown",
+        "index": 4
+    },
+    "OPTIONAL_INT_BOOLEAN": {
+        "desc": "unknown",
+        "index": 10
+    },
+    "OPTIONAL_INT_INT": {
+        "desc": "unknown",
+        "index": 5
+    },
+    "OPTIONAL_INT_INT_BOOLEAN": {
+        "desc": "unknown",
+        "index": 11
+    },
+    "OPTIONAL_INT_INT_INT": {
+        "desc": "unknown",
+        "index": 17
+    },
+    "OPTIONAL_INT_INT_JSON_OBJECT": {
+        "desc": "unknown",
+        "index": 20
+    },
+    "OPTIONAL_INT_JSON_OBJECT": {
+        "desc": "unknown",
+        "index": 19
+    },
+    "OPTIONAL_ITEM_INT_INT": {
+        "desc": "unknown",
+        "index": 6
+    },
+    "OPTIONAL_JSON_OBJECT": {
+        "desc": "unknown",
+        "index": 18
+    },
+    "OPTIONAL_MUSICREPEATMODE": {
+        "desc": "unknown",
+        "index": 23
+    },
+    "OPTIONAL_POSITION": {
+        "desc": "unknown",
+        "index": 58
+    },
+    "OPTIONAL_POSITION_FLOAT": {
+        "desc": "unknown",
+        "index": 27
+    },
+    "OPTIONAL_POSITION_FLOAT_VAL_VAL_VAL": {
+        "desc": "unknown",
+        "index": 33
+    },
+    "OPTIONAL_RIDERULES_ID_ID": {
+        "desc": "unknown",
+        "index": 37
+    },
+    "OPTIONAL_RVAL_BOOLEAN": {
+        "desc": "unknown",
+        "index": 53
+    },
+    "OPTIONAL_RVAL_ENTITYEVENTS_ID": {
+        "desc": "unknown",
+        "index": 52
+    },
+    "OPTIONAL_SCOREBOARDOBJECTIVES": {
+        "desc": "unknown",
+        "index": 40
+    },
+    "OPTIONAL_SCOREBOARDOBJECTIVES_SCOREBOARDSORTORDER": {
+        "desc": "unknown",
+        "index": 39
+    },
+    "OPTIONAL_SCOREBOARDSORTORDER": {
+        "desc": "unknown",
+        "index": 38
+    },
+    "OPTIONAL_SELECTION": {
+        "desc": "unknown",
+        "index": 3
+    },
+    "OPTIONAL_SELECTION_POSITION_FLOAT_VAL_VAL_VAL": {
+        "desc": "unknown",
+        "index": 34
+    },
+    "OPTIONAL_SETBLOCKMODE": {
+        "desc": "unknown",
+        "index": 43
+    },
+    "OPTIONAL_STATE": {
+        "desc": "unknown",
+        "index": 21
+    },
+    "OPTIONAL_STRUCTURESAVEMODE_BOOLEAN": {
+        "desc": "unknown",
+        "index": 44
+    },
+    "OPTIONAL_SYMBOL_ERROR": {
+        "desc": "unknown",
+        "index": 59
+    },
+    "OPTIONAL_TELEPORTRULES_FILLTYPE": {
+        "desc": "unknown",
+        "index": 36
+    },
+    "OPTIONAL_TESTFORBLOCKSMODE": {
+        "desc": "unknown",
+        "index": 54
+    },
+    "OPTIONAL_TOOL": {
+        "desc": "unknown",
+        "index": 22
+    },
+    "OPTIONAL_VAL": {
+        "desc": "unknown",
+        "index": 26
+    },
+    "OPTIONAL_VAL_BOOLEAN_BOOLEAN_BOOLEAN_VAL_ID": {
+        "desc": "unknown",
+        "index": 50
+    },
+    "OPTIONAL_VAL_BOOLEAN_BOOLEAN_VAL_ID": {
+        "desc": "unknown",
+        "index": 48
+    },
+    "OPTIONAL_VAL_CAMERASHAKETYPE": {
+        "desc": "unknown",
+        "index": 1
+    },
+    "OPTIONAL_VAL_ID": {
+        "desc": "unknown",
+        "index": 45
+    },
+    "OPTIONAL_VAL_ID_ID": {
+        "desc": "unknown",
+        "index": 29
+    },
+    "OPTIONAL_VAL_MUSICREPEATMODE": {
+        "desc": "unknown",
+        "index": 24
+    },
+    "OPTIONAL_VAL_VAL": {
+        "desc": "unknown",
+        "index": 31
+    },
+    "OPTIONAL_VAL_VAL_CAMERASHAKETYPE": {
+        "desc": "unknown",
+        "index": 2
+    },
+    "OPTIONAL_VAL_VAL_MUSICREPEATMODE": {
+        "desc": "unknown",
+        "index": 25
+    },
+    "OPTIONAL_VAL_VAL_VAL": {
+        "desc": "unknown",
+        "index": 32
+    },
+    "OPTIONAL_VOLUMEAREAALLDIMENSIONS": {
+        "desc": "unknown",
+        "index": 57
+    },
+    "OPTIONAL_WILDCARDINT": {
+        "desc": "unknown",
+        "index": 42
+    },
+    "OPTIONAL_WILDCARDSELECTION": {
+        "desc": "unknown",
+        "index": 41
+    },
+    "OPTION_ALIGN": {
+        "desc": "Option_Align",
+        "index": 55
+    },
+    "OPTION_ANCHORED": {
+        "desc": "Option_Anchored",
+        "index": 56
+    },
+    "OPTION_AS": {
+        "desc": "Option_As",
+        "index": 48
+    },
+    "OPTION_AT": {
+        "desc": "Option_At",
+        "index": 49
+    },
+    "OPTION_CONDITION_BLOCK": {
+        "desc": "Option_Condition_Block",
+        "index": 58
+    },
+    "OPTION_CONDITION_BLOCKS": {
+        "desc": "Option_Condition_Blocks",
+        "index": 59
+    },
+    "OPTION_CONDITION_ENTITY": {
+        "desc": "Option_Condition_Entity",
+        "index": 60
+    },
+    "OPTION_CONDITION_SCORE": {
+        "desc": "Option_Condition_Score",
+        "index": 61
+    },
+    "OPTION_ENTITY": {
+        "desc": "Option_Entity",
+        "index": 54
+    },
+    "OPTION_FACING": {
+        "desc": "Option_Facing",
+        "index": 53
+    },
+    "OPTION_IF_UNLESS": {
+        "desc": "Option_If_Unless",
+        "index": 57
+    },
+    "OPTION_IN": {
+        "desc": "Option_In",
+        "index": 50
+    },
+    "OPTION_POSITIONED": {
+        "desc": "Option_Positioned",
+        "index": 51
+    },
+    "OPTION_QUERY": {
+        "desc": "Option_Query",
+        "index": 83
+    },
+    "OPTION_ROTATED": {
+        "desc": "Option_Rotated",
+        "index": 52
+    },
+    "OPTION_RUN": {
+        "desc": "Option_Run",
+        "index": 62
+    },
+    "OPTION_SET": {
+        "desc": "Option_Set",
+        "index": 82
+    },
+    "OP_F0": {
+        "desc": "unknown",
+        "index": 68
+    },
+    "PARTICLE_F0": {
+        "desc": "unknown",
+        "index": 69
+    },
+    "PATHCOMMAND": {
+        "desc": "filepath",
+        "index": 17
+    },
+    "PATHCOMMANDCONT": {
+        "desc": "unknown",
+        "index": 19
+    },
+    "PATHCOMMANDVAL": {
+        "desc": "unknown",
+        "index": 18
+    },
+    "PERMISSION": {
+        "desc": "permission",
+        "index": 84
+    },
+    "PERMISSIONARG": {
+        "desc": "unknown",
+        "index": 32
+    },
+    "PERMISSIONARGS": {
+        "desc": "unknown",
+        "index": 33
+    },
+    "PERMISSIONCATEGORY": {
+        "desc": "PermissionCategory",
+        "index": 6
+    },
+    "PERMISSIONCOMMANDALIASES": {
+        "desc": "permissionCommandAliases",
+        "index": 106
+    },
+    "PERMISSIONELEMENT": {
+        "desc": "unknown",
+        "index": 35
+    },
+    "PERMISSIONELEMENTS": {
+        "desc": "unknown",
+        "index": 36
+    },
+    "PERMISSIONLEVEL": {
+        "desc": "PermissionLevel",
+        "index": 105
+    },
+    "PERMISSIONSACTION": {
+        "desc": "PermissionsAction",
+        "index": 104
+    },
+    "PERMISSIONSELECTOR": {
+        "desc": "unknown",
+        "index": 34
+    },
+    "PERMISSIONSTATE": {
+        "desc": "PermissionState",
+        "index": 7
+    },
+    "PERMISSION_F0": {
+        "desc": "unknown",
+        "index": 70
+    },
+    "PLAYANIMATION_F0": {
+        "desc": "unknown",
+        "index": 71
+    },
+    "PLAYSOUND_F0": {
+        "desc": "unknown",
+        "index": 72
+    },
+    "POS": {
+        "desc": "pos",
+        "index": 24
+    },
+    "POSITION": {
+        "desc": "x y z",
+        "index": 52
+    },
+    "POSITION_FLOAT": {
+        "desc": "x y z",
+        "index": 53
+    },
+    "POSTSELECTOR": {
+        "desc": "unknown",
+        "index": 57
+    },
+    "QUERYTARGET_F0": {
+        "desc": "unknown",
+        "index": 73
+    },
+    "RAWTEXT": {
+        "desc": "text",
+        "index": 58
+    },
+    "RAWTEXTCONT": {
+        "desc": "unknown",
+        "index": 59
+    },
+    "RECIPE_F0": {
+        "desc": "unknown",
+        "index": 133
+    },
+    "REPLACE": {
+        "desc": "Replace",
+        "index": 67
+    },
+    "REPLACEITEMBLOCK": {
+        "desc": "ReplaceItemBlock",
+        "index": 107
+    },
+    "REPLACEITEMENTITY": {
+        "desc": "ReplaceItemEntity",
+        "index": 108
+    },
+    "REPLACEITEM_F0": {
+        "desc": "unknown",
+        "index": 74
+    },
+    "REPLACEITEM_F1": {
+        "desc": "unknown",
+        "index": 75
+    },
+    "REPLACEITEM_F2": {
+        "desc": "unknown",
+        "index": 76
+    },
+    "REPLACEMODE": {
+        "desc": "ReplaceMode",
+        "index": 109
+    },
+    "REQUESTACTION": {
+        "desc": "RequestAction",
+        "index": 119
+    },
+    "RIDEMODEEVICT": {
+        "desc": "RideModeEvict",
+        "index": 112
+    },
+    "RIDEMODESTART": {
+        "desc": "RideModeStart",
+        "index": 110
+    },
+    "RIDEMODESTOP": {
+        "desc": "RideModeStop",
+        "index": 111
+    },
+    "RIDEMODESUMMONRIDE": {
+        "desc": "RideModeSummonRide",
+        "index": 114
+    },
+    "RIDEMODESUMMONRIDER": {
+        "desc": "RideModeSummonRider",
+        "index": 113
+    },
+    "RIDERULES": {
+        "desc": "RideRules",
+        "index": 117
+    },
+    "RIDE_F0": {
+        "desc": "unknown",
+        "index": 77
+    },
+    "RIDE_F1": {
+        "desc": "unknown",
+        "index": 78
+    },
+    "ROT": {
+        "desc": "rot",
+        "index": 25
+    },
+    "ROTATION": {
+        "desc": "Rotation",
+        "index": 18
+    },
+    "RVAL": {
+        "desc": "value",
+        "index": 4
+    },
+    "RVALUEPARAM": {
+        "desc": "RValueParam",
+        "index": 1
+    },
+    "SAVEMODE": {
+        "desc": "SaveMode",
+        "index": 197
+    },
+    "SAVE_F0": {
+        "desc": "unknown",
+        "index": 143
+    },
+    "SAY_F0": {
+        "desc": "unknown",
+        "index": 79
+    },
+    "SCHEDULEACTIONONAREALOADED": {
+        "desc": "ScheduleActionOnAreaLoaded",
+        "index": 118
+    },
+    "SCHEDULE_F0": {
+        "desc": "unknown",
+        "index": 80
+    },
+    "SCHEDULE_F1": {
+        "desc": "unknown",
+        "index": 81
+    },
+    "SCOREBOARDADDACTION": {
+        "desc": "ScoreboardAddAction",
+        "index": 124
+    },
+    "SCOREBOARDCRITERIA": {
+        "desc": "ScoreboardCriteria",
+        "index": 136
+    },
+    "SCOREBOARDDISPLAYSLOTNONSORTABLE": {
+        "desc": "ScoreboardDisplaySlotNonSortable",
+        "index": 135
+    },
+    "SCOREBOARDDISPLAYSLOTSORTABLE": {
+        "desc": "ScoreboardDisplaySlotSortable",
+        "index": 134
+    },
+    "SCOREBOARDLISTACTION": {
+        "desc": "ScoreboardListAction",
+        "index": 128
+    },
+    "SCOREBOARDOBJECTIVESCATEGORY": {
+        "desc": "ScoreboardObjectivesCategory",
+        "index": 122
+    },
+    "SCOREBOARDOPERATIONACTION": {
+        "desc": "ScoreboardOperationAction",
+        "index": 132
+    },
+    "SCOREBOARDPLAYERSCATEGORY": {
+        "desc": "ScoreboardPlayersCategory",
+        "index": 123
+    },
+    "SCOREBOARDPLAYERSNUMACTION": {
+        "desc": "ScoreboardPlayersNumAction",
+        "index": 131
+    },
+    "SCOREBOARDRANDOMACTION": {
+        "desc": "ScoreboardRandomAction",
+        "index": 126
+    },
+    "SCOREBOARDREMOVEACTION": {
+        "desc": "ScoreboardRemoveAction",
+        "index": 125
+    },
+    "SCOREBOARDRESETACTION": {
+        "desc": "ScoreboardResetAction",
+        "index": 129
+    },
+    "SCOREBOARDSETDISPLAYACTION": {
+        "desc": "ScoreboardSetDisplayAction",
+        "index": 127
+    },
+    "SCOREBOARDSORTORDER": {
+        "desc": "ScoreboardSortOrder",
+        "index": 133
+    },
+    "SCOREBOARDTESTACTION": {
+        "desc": "ScoreboardTestAction",
+        "index": 130
+    },
+    "SCOREBOARD_F0": {
+        "desc": "unknown",
+        "index": 82
+    },
+    "SCOREBOARD_F1": {
+        "desc": "unknown",
+        "index": 83
+    },
+    "SCOREBOARD_F2": {
+        "desc": "unknown",
+        "index": 84
+    },
+    "SCOREBOARD_F3": {
+        "desc": "unknown",
+        "index": 85
+    },
+    "SCORERANGEMODE": {
+        "desc": "ScoreRangeMode",
+        "index": 65
+    },
+    "SCORESARG": {
+        "desc": "unknown",
+        "index": 12
+    },
+    "SCORESARGS": {
+        "desc": "unknown",
+        "index": 13
+    },
+    "SCORESELECTOR": {
+        "desc": "unknown",
+        "index": 15
+    },
+    "SCORESELECTPARAM": {
+        "desc": "unknown",
+        "index": 14
+    },
+    "SCRIPTDEBUGMODEPROFILER": {
+        "desc": "ScriptDebugModeProfiler",
+        "index": 202
+    },
+    "SCRIPTDEBUGMODEWATCHDOG": {
+        "desc": "ScriptDebugModeWatchdog",
+        "index": 205
+    },
+    "SCRIPTEVENT_F0": {
+        "desc": "unknown",
+        "index": 86
+    },
+    "SCRIPTPROFILERSTART": {
+        "desc": "ScriptProfilerStart",
+        "index": 203
+    },
+    "SCRIPTPROFILERSTOP": {
+        "desc": "ScriptProfilerStop",
+        "index": 204
+    },
+    "SCRIPTWATCHDOGDUMPMEMORY": {
+        "desc": "ScriptWatchdogDumpMemory",
+        "index": 206
+    },
+    "SCRIPT_F0": {
+        "desc": "unknown",
+        "index": 147
+    },
+    "SCRIPT_F1": {
+        "desc": "unknown",
+        "index": 148
+    },
+    "SELARGS": {
+        "desc": "unknown",
+        "index": 24
+    },
+    "SELECTION": {
+        "desc": "target",
+        "index": 8
+    },
+    "SET": {
+        "desc": "set",
+        "index": 22
+    },
+    "SETBLOCKMODE": {
+        "desc": "SetBlockMode",
+        "index": 137
+    },
+    "SETBLOCK_F0": {
+        "desc": "unknown",
+        "index": 87
+    },
+    "SETBLOCK_F1": {
+        "desc": "unknown",
+        "index": 88
+    },
+    "SETMAXPLAYERS_F0": {
+        "desc": "unknown",
+        "index": 89
+    },
+    "SETTINGSOPERATION": {
+        "desc": "SettingsOperation",
+        "index": 210
+    },
+    "SETWORLDSPAWN_F0": {
+        "desc": "unknown",
+        "index": 90
+    },
+    "SLASHCOMMAND": {
+        "desc": "command",
+        "index": 75
+    },
+    "SOURCEKILL": {
+        "desc": "SourceKill",
+        "index": 96
+    },
+    "SOURCELOOT": {
+        "desc": "SourceLoot",
+        "index": 95
+    },
+    "SPAWNPOINT_F0": {
+        "desc": "unknown",
+        "index": 91
+    },
+    "SPREADPLAYERS_F0": {
+        "desc": "unknown",
+        "index": 92
+    },
+    "STANDALONESELECTION": {
+        "desc": "unknown",
+        "index": 9
+    },
+    "STATE": {
+        "desc": "state",
+        "index": 85
+    },
+    "STOPSOUND_F0": {
+        "desc": "unknown",
+        "index": 93
+    },
+    "STRUCTURE": {
+        "desc": "Structure",
+        "index": 15
+    },
+    "STRUCTUREANIMATIONMODE": {
+        "desc": "StructureAnimationMode",
+        "index": 142
+    },
+    "STRUCTUREDELETEACTION": {
+        "desc": "StructureDeleteAction",
+        "index": 140
+    },
+    "STRUCTURELOADACTION": {
+        "desc": "StructureLoadAction",
+        "index": 139
+    },
+    "STRUCTURESAVEACTION": {
+        "desc": "StructureSaveAction",
+        "index": 138
+    },
+    "STRUCTURESAVEMODE": {
+        "desc": "StructureSaveMode",
+        "index": 141
+    },
+    "STRUCTURE_F0": {
+        "desc": "unknown",
+        "index": 94
+    },
+    "STRUCTURE_F1": {
+        "desc": "unknown",
+        "index": 95
+    },
+    "STRUCTURE_F2": {
+        "desc": "unknown",
+        "index": 96
+    },
+    "STRUCTURE_F3": {
+        "desc": "unknown",
+        "index": 97
+    },
+    "STRUCTURE_F4": {
+        "desc": "unknown",
+        "index": 98
+    },
+    "STRUCTURE_F5": {
+        "desc": "unknown",
+        "index": 99
+    },
+    "STRUCTURE_F6": {
+        "desc": "unknown",
+        "index": 100
+    },
+    "STRUCTURE_F7": {
+        "desc": "unknown",
+        "index": 101
+    },
+    "SUMMON_F0": {
+        "desc": "unknown",
+        "index": 102
+    },
+    "SUMMON_F1": {
+        "desc": "unknown",
+        "index": 103
+    },
+    "SUMMON_F2": {
+        "desc": "unknown",
+        "index": 104
+    },
+    "SUMMON_F3": {
+        "desc": "unknown",
+        "index": 105
+    },
+    "TAGARG": {
+        "desc": "unknown",
+        "index": 37
+    },
+    "TAGCHANGEACTION": {
+        "desc": "TagChangeAction",
+        "index": 144
+    },
+    "TAGLISTACTION": {
+        "desc": "TagListAction",
+        "index": 145
+    },
+    "TAGSELECTOR": {
+        "desc": "unknown",
+        "index": 16
+    },
+    "TAG_F0": {
+        "desc": "unknown",
+        "index": 106
+    },
+    "TAG_F1": {
+        "desc": "unknown",
+        "index": 107
+    },
+    "TAKE": {
+        "desc": "Take",
+        "index": 172
+    },
+    "TARGETBLOCK": {
+        "desc": "TargetBlock",
+        "index": 94
+    },
+    "TARGETENTITY": {
+        "desc": "TargetEntity",
+        "index": 93
+    },
+    "TARGETGIVE": {
+        "desc": "TargetGive",
+        "index": 90
+    },
+    "TARGETINSERT": {
+        "desc": "TargetInsert",
+        "index": 91
+    },
+    "TARGETREPLACE": {
+        "desc": "TargetReplace",
+        "index": 92
+    },
+    "TARGETSPAWN": {
+        "desc": "TargetSpawn",
+        "index": 89
+    },
+    "TELEPORTCOMMANDALIASES": {
+        "desc": "teleportCommandAliases",
+        "index": 146
+    },
+    "TELEPORTFACING": {
+        "desc": "TeleportFacing",
+        "index": 143
+    },
+    "TELEPORTRULES": {
+        "desc": "TeleportRules",
+        "index": 116
+    },
+    "TELEPORT_F0": {
+        "desc": "unknown",
+        "index": 108
+    },
+    "TELEPORT_F1": {
+        "desc": "unknown",
+        "index": 109
+    },
+    "TELEPORT_F2": {
+        "desc": "unknown",
+        "index": 110
+    },
+    "TELEPORT_F3": {
+        "desc": "unknown",
+        "index": 111
+    },
+    "TELEPORT_F4": {
+        "desc": "unknown",
+        "index": 112
+    },
+    "TELEPORT_F5": {
+        "desc": "unknown",
+        "index": 113
+    },
+    "TELLCOMMANDALIASES": {
+        "desc": "tellCommandAliases",
+        "index": 147
+    },
+    "TELLRAW_F0": {
+        "desc": "unknown",
+        "index": 115
+    },
+    "TELL_F0": {
+        "desc": "unknown",
+        "index": 114
+    },
+    "TESTFORBLOCKSMODE": {
+        "desc": "TestForBlocksMode",
+        "index": 148
+    },
+    "TESTFORBLOCKS_F0": {
+        "desc": "unknown",
+        "index": 118
+    },
+    "TESTFORBLOCK_F0": {
+        "desc": "unknown",
+        "index": 116
+    },
+    "TESTFORBLOCK_F1": {
+        "desc": "unknown",
+        "index": 117
+    },
+    "TESTFOR_F0": {
+        "desc": "unknown",
+        "index": 119
+    },
+    "TICKINGAREA": {
+        "desc": "TickingArea",
+        "index": 121
+    },
+    "TICKINGAREAMODEADD": {
+        "desc": "TickingAreaModeAdd",
+        "index": 149
+    },
+    "TICKINGAREAMODELIST": {
+        "desc": "TickingAreaModeList",
+        "index": 152
+    },
+    "TICKINGAREAMODEPRELOAD": {
+        "desc": "TickingAreaModePreload",
+        "index": 153
+    },
+    "TICKINGAREAMODEREMOVE": {
+        "desc": "TickingAreaModeRemove",
+        "index": 150
+    },
+    "TICKINGAREAMODEREMOVEALL": {
+        "desc": "TickingAreaModeRemoveAll",
+        "index": 151
+    },
+    "TICKINGAREA_F0": {
+        "desc": "unknown",
+        "index": 120
+    },
+    "TICKINGAREA_F1": {
+        "desc": "unknown",
+        "index": 121
+    },
+    "TICKINGAREA_F2": {
+        "desc": "unknown",
+        "index": 122
+    },
+    "TICKINGAREA_F3": {
+        "desc": "unknown",
+        "index": 123
+    },
+    "TIME": {
+        "desc": "time",
+        "index": 30
+    },
+    "TIMEMODEADD": {
+        "desc": "TimeModeAdd",
+        "index": 157
+    },
+    "TIMEMODEQUERY": {
+        "desc": "TimeModeQuery",
+        "index": 158
+    },
+    "TIMEMODESET": {
+        "desc": "TimeModeSet",
+        "index": 156
+    },
+    "TIMEQUERY": {
+        "desc": "TimeQuery",
+        "index": 159
+    },
+    "TIMESPEC": {
+        "desc": "TimeSpec",
+        "index": 160
+    },
+    "TIME_F0": {
+        "desc": "unknown",
+        "index": 124
+    },
+    "TIME_F1": {
+        "desc": "unknown",
+        "index": 125
+    },
+    "TITLECLEAR": {
+        "desc": "TitleClear",
+        "index": 161
+    },
+    "TITLERAWCLEAR": {
+        "desc": "TitleRawClear",
+        "index": 165
+    },
+    "TITLERAWRESET": {
+        "desc": "TitleRawReset",
+        "index": 166
+    },
+    "TITLERAWSET": {
+        "desc": "TitleRawSet",
+        "index": 167
+    },
+    "TITLERAWTIMES": {
+        "desc": "TitleRawTimes",
+        "index": 168
+    },
+    "TITLERAW_F0": {
+        "desc": "unknown",
+        "index": 128
+    },
+    "TITLERAW_F1": {
+        "desc": "unknown",
+        "index": 129
+    },
+    "TITLERESET": {
+        "desc": "TitleReset",
+        "index": 162
+    },
+    "TITLESET": {
+        "desc": "TitleSet",
+        "index": 163
+    },
+    "TITLETIMES": {
+        "desc": "TitleTimes",
+        "index": 164
+    },
+    "TITLE_F0": {
+        "desc": "unknown",
+        "index": 126
+    },
+    "TITLE_F1": {
+        "desc": "unknown",
+        "index": 127
+    },
+    "TPDIM_F0": {
+        "desc": "unknown",
+        "index": 149
+    },
+    "TPDIM_F1": {
+        "desc": "unknown",
+        "index": 150
+    },
+    "TRANSFER_F0": {
+        "desc": "unknown",
+        "index": 0
+    },
+    "TYPEARG": {
+        "desc": "unknown",
+        "index": 30
+    },
+    "VAL": {
+        "desc": "float",
+        "index": 3
+    },
+    "VALUEPARAM": {
+        "desc": "ValueParam",
+        "index": 2
+    },
+    "VOLUMEAREAADD": {
+        "desc": "VolumeAreaAdd",
+        "index": 174
+    },
+    "VOLUMEAREAALLDIMENSIONS": {
+        "desc": "VolumeAreaAllDimensions",
+        "index": 178
+    },
+    "VOLUMEAREALIST": {
+        "desc": "VolumeAreaList",
+        "index": 177
+    },
+    "VOLUMEAREAREMOVE": {
+        "desc": "VolumeAreaRemove",
+        "index": 175
+    },
+    "VOLUMEAREAREMOVEALL": {
+        "desc": "VolumeAreaRemoveAll",
+        "index": 176
+    },
+    "VOLUMEAREA_F0": {
+        "desc": "unknown",
+        "index": 134
+    },
+    "VOLUMEAREA_F1": {
+        "desc": "unknown",
+        "index": 135
+    },
+    "WEATHERQUERY": {
+        "desc": "WeatherQuery",
+        "index": 170
+    },
+    "WEATHERTYPE": {
+        "desc": "WeatherType",
+        "index": 169
+    },
+    "WEATHER_F0": {
+        "desc": "unknown",
+        "index": 130
+    },
+    "WILDCARDINT": {
+        "desc": "wildcard int",
+        "index": 5
+    },
+    "WILDCARDSELECTION": {
+        "desc": "target",
+        "index": 10
+    },
+    "WSSERVERCOMMANDALIASES": {
+        "desc": "wsserverCommandAliases",
+        "index": 171
+    },
+    "WSSERVER_F0": {
+        "desc": "unknown",
+        "index": 131
+    },
+    "XP_F0": {
+        "desc": "unknown",
+        "index": 132
+    }
+}

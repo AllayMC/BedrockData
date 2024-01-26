@@ -21,13 +21,11 @@ Similar to https://github.com/CloudburstMC/Data/blob/master/block_palette.nbt
 format: big endian gzip compression  
 Biome definitions extracted from BDS.
 
-## 5. available_commands(Disable)
+## 5. available_commands_packet
 
-Available commands' data extracted from BDS.
+AvailableCommandsPacket bin extracted from BDS.
 
-Including vanilla command enum data / soft enum data / parameter data / etc...
-
-## 6. command_arg_types(Disable)
+## 6. command_arg_types
 
 Command argument types extracted from BDS.
 
