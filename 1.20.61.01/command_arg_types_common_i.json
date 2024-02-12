@@ -1,0 +1,382 @@
+{
+    "eps": {
+        "description": "unknown",
+        "index": "0",
+        "value": "1048576"
+    },
+    "INT": {
+        "description": "int",
+        "index": "1",
+        "value": "1048577"
+    },
+    "FLOAT": {
+        "description": "unknown",
+        "index": "2",
+        "value": "1048578"
+    },
+    "VAL": {
+        "description": "float",
+        "index": "3",
+        "value": "1048579"
+    },
+    "RVAL": {
+        "description": "value",
+        "index": "4",
+        "value": "1048580"
+    },
+    "WILDCARDINT": {
+        "description": "wildcard int",
+        "index": "5",
+        "value": "1048581"
+    },
+    "OPERATOR": {
+        "description": "operator",
+        "index": "6",
+        "value": "1048582"
+    },
+    "COMPAREOPERATOR": {
+        "description": "compare operator",
+        "index": "7",
+        "value": "1048583"
+    },
+    "SELECTION": {
+        "description": "target",
+        "index": "8",
+        "value": "1048584"
+    },
+    "STANDALONESELECTION": {
+        "description": "unknown",
+        "index": "9",
+        "value": "1048585"
+    },
+    "WILDCARDSELECTION": {
+        "description": "target",
+        "index": "10",
+        "value": "1048586"
+    },
+    "NONIDSELECTION": {
+        "description": "unknown",
+        "index": "11",
+        "value": "1048587"
+    },
+    "SCORESARG": {
+        "description": "unknown",
+        "index": "12",
+        "value": "1048588"
+    },
+    "SCORESARGS": {
+        "description": "unknown",
+        "index": "13",
+        "value": "1048589"
+    },
+    "SCORESELECTPARAM": {
+        "description": "unknown",
+        "index": "14",
+        "value": "1048590"
+    },
+    "SCORESELECTOR": {
+        "description": "unknown",
+        "index": "15",
+        "value": "1048591"
+    },
+    "TAGSELECTOR": {
+        "description": "unknown",
+        "index": "16",
+        "value": "1048592"
+    },
+    "PATHCOMMAND": {
+        "description": "filepath",
+        "index": "17",
+        "value": "1048593"
+    },
+    "PATHCOMMANDVAL": {
+        "description": "unknown",
+        "index": "18",
+        "value": "1048594"
+    },
+    "PATHCOMMANDCONT": {
+        "description": "unknown",
+        "index": "19",
+        "value": "1048595"
+    },
+    "INTEGERRANGEVAL": {
+        "description": "unknown",
+        "index": "20",
+        "value": "1048596"
+    },
+    "INTEGERRANGEPOSTVAL": {
+        "description": "unknown",
+        "index": "21",
+        "value": "1048597"
+    },
+    "INTEGERRANGE": {
+        "description": "unknown",
+        "index": "22",
+        "value": "1048598"
+    },
+    "FULLINTEGERRANGE": {
+        "description": "integer range",
+        "index": "23",
+        "value": "1048599"
+    },
+    "SELARGS": {
+        "description": "unknown",
+        "index": "24",
+        "value": "1048600"
+    },
+    "ARGS": {
+        "description": "unknown",
+        "index": "25",
+        "value": "1048601"
+    },
+    "ARG": {
+        "description": "unknown",
+        "index": "26",
+        "value": "1048602"
+    },
+    "MARG": {
+        "description": "unknown",
+        "index": "27",
+        "value": "1048603"
+    },
+    "MVALUE": {
+        "description": "unknown",
+        "index": "28",
+        "value": "1048604"
+    },
+    "NAMEARG": {
+        "description": "unknown",
+        "index": "29",
+        "value": "1048605"
+    },
+    "TYPEARG": {
+        "description": "unknown",
+        "index": "30",
+        "value": "1048606"
+    },
+    "FAMILYARG": {
+        "description": "unknown",
+        "index": "31",
+        "value": "1048607"
+    },
+    "PERMISSIONARG": {
+        "description": "unknown",
+        "index": "32",
+        "value": "1048608"
+    },
+    "PERMISSIONARGS": {
+        "description": "unknown",
+        "index": "33",
+        "value": "1048609"
+    },
+    "PERMISSIONSELECTOR": {
+        "description": "unknown",
+        "index": "34",
+        "value": "1048610"
+    },
+    "PERMISSIONELEMENT": {
+        "description": "unknown",
+        "index": "35",
+        "value": "1048611"
+    },
+    "PERMISSIONELEMENTS": {
+        "description": "unknown",
+        "index": "36",
+        "value": "1048612"
+    },
+    "TAGARG": {
+        "description": "unknown",
+        "index": "37",
+        "value": "1048613"
+    },
+    "HASITEMELEMENT": {
+        "description": "unknown",
+        "index": "38",
+        "value": "1048614"
+    },
+    "HASITEMELEMENTS": {
+        "description": "unknown",
+        "index": "39",
+        "value": "1048615"
+    },
+    "HASITEMARG": {
+        "description": "unknown",
+        "index": "40",
+        "value": "1048616"
+    },
+    "HASITEMARGS": {
+        "description": "unknown",
+        "index": "41",
+        "value": "1048617"
+    },
+    "HASITEMSELECTOR": {
+        "description": "unknown",
+        "index": "42",
+        "value": "1048618"
+    },
+    "EQUIPMENTSLOTENUM": {
+        "description": "equipment slots",
+        "index": "43",
+        "value": "1048619"
+    },
+    "ID": {
+        "description": "string",
+        "index": "44",
+        "value": "1048620"
+    },
+    "IDCONT": {
+        "description": "unknown",
+        "index": "45",
+        "value": "1048621"
+    },
+    "COORD_X_INT": {
+        "description": "unknown",
+        "index": "46",
+        "value": "1048622"
+    },
+    "COORD_Y_INT": {
+        "description": "unknown",
+        "index": "47",
+        "value": "1048623"
+    },
+    "COORD_Z_INT": {
+        "description": "unknown",
+        "index": "48",
+        "value": "1048624"
+    },
+    "COORD_X_FLOAT": {
+        "description": "unknown",
+        "index": "49",
+        "value": "1048625"
+    },
+    "COORD_Y_FLOAT": {
+        "description": "unknown",
+        "index": "50",
+        "value": "1048626"
+    },
+    "COORD_Z_FLOAT": {
+        "description": "unknown",
+        "index": "51",
+        "value": "1048627"
+    },
+    "POSITION": {
+        "description": "x y z",
+        "index": "52",
+        "value": "1048628"
+    },
+    "POSITION_FLOAT": {
+        "description": "x y z",
+        "index": "53",
+        "value": "1048629"
+    },
+    "MESSAGEEXP": {
+        "description": "unknown",
+        "index": "54",
+        "value": "1048630"
+    },
+    "MESSAGE": {
+        "description": "unknown",
+        "index": "55",
+        "value": "1048631"
+    },
+    "MESSAGE_ROOT": {
+        "description": "message",
+        "index": "56",
+        "value": "1048632"
+    },
+    "POSTSELECTOR": {
+        "description": "unknown",
+        "index": "57",
+        "value": "1048633"
+    },
+    "RAWTEXT": {
+        "description": "text",
+        "index": "58",
+        "value": "1048634"
+    },
+    "RAWTEXTCONT": {
+        "description": "unknown",
+        "index": "59",
+        "value": "1048635"
+    },
+    "JSON_VALUE": {
+        "description": "unknown",
+        "index": "60",
+        "value": "1048636"
+    },
+    "JSON_FIELD": {
+        "description": "unknown",
+        "index": "61",
+        "value": "1048637"
+    },
+    "JSON_OBJECT": {
+        "description": "json",
+        "index": "62",
+        "value": "1048638"
+    },
+    "JSON_OBJECT_FIELDS": {
+        "description": "unknown",
+        "index": "63",
+        "value": "1048639"
+    },
+    "JSON_OBJECT_CONT": {
+        "description": "unknown",
+        "index": "64",
+        "value": "1048640"
+    },
+    "JSON_ARRAY": {
+        "description": "unknown",
+        "index": "65",
+        "value": "1048641"
+    },
+    "JSON_ARRAY_VALUES": {
+        "description": "unknown",
+        "index": "66",
+        "value": "1048642"
+    },
+    "JSON_ARRAY_CONT": {
+        "description": "unknown",
+        "index": "67",
+        "value": "1048643"
+    },
+    "BLOCK_STATE": {
+        "description": "unknown",
+        "index": "68",
+        "value": "1048644"
+    },
+    "BLOCK_STATE_KEY": {
+        "description": "unknown",
+        "index": "69",
+        "value": "1048645"
+    },
+    "BLOCK_STATE_VALUE": {
+        "description": "unknown",
+        "index": "70",
+        "value": "1048646"
+    },
+    "BLOCK_STATE_VALUES": {
+        "description": "unknown",
+        "index": "71",
+        "value": "1048647"
+    },
+    "BLOCK_STATE_ARRAY": {
+        "description": "block states",
+        "index": "72",
+        "value": "1048648"
+    },
+    "BLOCK_STATE_ARRAY_CONT": {
+        "description": "unknown",
+        "index": "73",
+        "value": "1048649"
+    },
+    "COMMAND": {
+        "description": "unknown",
+        "index": "74",
+        "value": "1048650"
+    },
+    "SLASHCOMMAND": {
+        "description": "command",
+        "index": "75",
+        "value": "1048651"
+    }
+}
