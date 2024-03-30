@@ -1,0 +1,2547 @@
+{
+    "GAMEMODE": {
+        "description": "GameMode",
+        "index": "0",
+        "value": "3145728"
+    },
+    "OPTIONAL_CAMERASHAKETYPE": {
+        "description": "unknown",
+        "index": "0",
+        "value": "5242880"
+    },
+    "TRANSFER_F0": {
+        "description": "unknown",
+        "index": "0",
+        "value": "9437184"
+    },
+    "INT": {
+        "description": "int",
+        "index": "1",
+        "value": "1048577"
+    },
+    "OPTIONAL_VAL_CAMERASHAKETYPE": {
+        "description": "unknown",
+        "index": "1",
+        "value": "5242881"
+    },
+    "RVALUEPARAM": {
+        "description": "RValueParam",
+        "index": "1",
+        "value": "3145729"
+    },
+    "CAMERA_F0": {
+        "description": "unknown",
+        "index": "1",
+        "value": "9437185"
+    },
+    "FLOAT": {
+        "description": "unknown",
+        "index": "2",
+        "value": "1048578"
+    },
+    "OPTIONAL_VAL_VAL_CAMERASHAKETYPE": {
+        "description": "unknown",
+        "index": "2",
+        "value": "5242882"
+    },
+    "VALUEPARAM": {
+        "description": "ValueParam",
+        "index": "2",
+        "value": "3145730"
+    },
+    "CAMERA_F1": {
+        "description": "unknown",
+        "index": "2",
+        "value": "9437186"
+    },
+    "VAL": {
+        "description": "float",
+        "index": "3",
+        "value": "1048579"
+    },
+    "OPTIONAL_SELECTION": {
+        "description": "unknown",
+        "index": "3",
+        "value": "5242883"
+    },
+    "INTPARAM": {
+        "description": "IntParam",
+        "index": "3",
+        "value": "3145731"
+    },
+    "CAMERA_F2": {
+        "description": "unknown",
+        "index": "3",
+        "value": "9437187"
+    },
+    "RVAL": {
+        "description": "value",
+        "index": "4",
+        "value": "1048580"
+    },
+    "DIGITSPARAM": {
+        "description": "DigitsParam",
+        "index": "4",
+        "value": "3145732"
+    },
+    "OPTIONAL_INT": {
+        "description": "unknown",
+        "index": "4",
+        "value": "5242884"
+    },
+    "CAMERA_F3": {
+        "description": "unknown",
+        "index": "4",
+        "value": "9437188"
+    },
+    "WILDCARDINT": {
+        "description": "wildcard int",
+        "index": "5",
+        "value": "1048581"
+    },
+    "BOOLEAN": {
+        "description": "Boolean",
+        "index": "5",
+        "value": "3145733"
+    },
+    "CAMERA_F4": {
+        "description": "unknown",
+        "index": "5",
+        "value": "9437189"
+    },
+    "OPTIONAL_INT_INT": {
+        "description": "unknown",
+        "index": "5",
+        "value": "5242885"
+    },
+    "OPERATOR": {
+        "description": "operator",
+        "index": "6",
+        "value": "1048582"
+    },
+    "PERMISSIONCATEGORY": {
+        "description": "PermissionCategory",
+        "index": "6",
+        "value": "3145734"
+    },
+    "CAMERA_F5": {
+        "description": "unknown",
+        "index": "6",
+        "value": "9437190"
+    },
+    "OPTIONAL_ITEM_INT_INT": {
+        "description": "unknown",
+        "index": "6",
+        "value": "5242886"
+    },
+    "COMPAREOPERATOR": {
+        "description": "compare operator",
+        "index": "7",
+        "value": "1048583"
+    },
+    "CAMERA_F6": {
+        "description": "unknown",
+        "index": "7",
+        "value": "9437191"
+    },
+    "PERMISSIONSTATE": {
+        "description": "PermissionState",
+        "index": "7",
+        "value": "3145735"
+    },
+    "OPTIONAL_CLONEMODE": {
+        "description": "unknown",
+        "index": "7",
+        "value": "5242887"
+    },
+    "SELECTION": {
+        "description": "target",
+        "index": "8",
+        "value": "1048584"
+    },
+    "CAMERA_F7": {
+        "description": "unknown",
+        "index": "8",
+        "value": "9437192"
+    },
+    "ENTITYPROPERTYSELECTOR": {
+        "description": "EntityPropertySelector",
+        "index": "8",
+        "value": "3145736"
+    },
+    "OPTIONAL_ID": {
+        "description": "unknown",
+        "index": "8",
+        "value": "5242888"
+    },
+    "STANDALONESELECTION": {
+        "description": "unknown",
+        "index": "9",
+        "value": "1048585"
+    },
+    "CAMERA_F8": {
+        "description": "unknown",
+        "index": "9",
+        "value": "9437193"
+    },
+    "ITEM": {
+        "description": "Item",
+        "index": "9",
+        "value": "3145737"
+    },
+    "OPTIONAL_BOOLEAN": {
+        "description": "unknown",
+        "index": "9",
+        "value": "5242889"
+    },
+    "WILDCARDSELECTION": {
+        "description": "target",
+        "index": "10",
+        "value": "1048586"
+    },
+    "ENTITYEQUIPMENTSLOT": {
+        "description": "EntityEquipmentSlot",
+        "index": "10",
+        "value": "3145738"
+    },
+    "CAMERA_F9": {
+        "description": "unknown",
+        "index": "10",
+        "value": "9437194"
+    },
+    "OPTIONAL_INT_BOOLEAN": {
+        "description": "unknown",
+        "index": "10",
+        "value": "5242890"
+    },
+    "OPTIONAL_INT_INT_BOOLEAN": {
+        "description": "unknown",
+        "index": "11",
+        "value": "5242891"
+    },
+    "ENTITYTYPESELECTOR": {
+        "description": "EntityTypeSelector",
+        "index": "11",
+        "value": "3145739"
+    },
+    "CAMERA_F10": {
+        "description": "unknown",
+        "index": "11",
+        "value": "9437195"
+    },
+    "NONIDSELECTION": {
+        "description": "unknown",
+        "index": "11",
+        "value": "1048587"
+    },
+    "SCORESARG": {
+        "description": "unknown",
+        "index": "12",
+        "value": "1048588"
+    },
+    "OPTIONAL_EXECUTECHAINEDOPTION_0": {
+        "description": "unknown",
+        "index": "12",
+        "value": "5242892"
+    },
+    "DIMENSION": {
+        "description": "Dimension",
+        "index": "12",
+        "value": "3145740"
+    },
+    "CAMERA_F11": {
+        "description": "unknown",
+        "index": "12",
+        "value": "9437196"
+    },
+    "SCORESARGS": {
+        "description": "unknown",
+        "index": "13",
+        "value": "1048589"
+    },
+    "OPTIONAL_BLOCK_STATE_ARRAY": {
+        "description": "unknown",
+        "index": "13",
+        "value": "5242893"
+    },
+    "CAMERASHAKE_F0": {
+        "description": "unknown",
+        "index": "13",
+        "value": "9437197"
+    },
+    "BLOCK": {
+        "description": "Block",
+        "index": "13",
+        "value": "3145741"
+    },
+    "FEATURES": {
+        "description": "Features",
+        "index": "14",
+        "value": "3145742"
+    },
+    "CLEAR_F0": {
+        "description": "unknown",
+        "index": "14",
+        "value": "9437198"
+    },
+    "OPTIONAL_BLOCK_BLOCK_STATE_ARRAY": {
+        "description": "unknown",
+        "index": "14",
+        "value": "5242894"
+    },
+    "SCORESELECTPARAM": {
+        "description": "unknown",
+        "index": "14",
+        "value": "1048590"
+    },
+    "CLEARSPAWNPOINT_F0": {
+        "description": "unknown",
+        "index": "15",
+        "value": "9437199"
+    },
+    "ENTITYTYPE": {
+        "description": "EntityType",
+        "index": "15",
+        "value": "3145743"
+    },
+    "SCORESELECTOR": {
+        "description": "unknown",
+        "index": "15",
+        "value": "1048591"
+    },
+    "OPTIONAL_BLOCK_INT": {
+        "description": "unknown",
+        "index": "15",
+        "value": "5242895"
+    },
+    "OPTIONAL_GAMETESTTAG_INT": {
+        "description": "unknown",
+        "index": "16",
+        "value": "5242896"
+    },
+    "CLONE_F0": {
+        "description": "unknown",
+        "index": "16",
+        "value": "9437200"
+    },
+    "STRUCTURE": {
+        "description": "Structure",
+        "index": "16",
+        "value": "3145744"
+    },
+    "TAGSELECTOR": {
+        "description": "unknown",
+        "index": "16",
+        "value": "1048592"
+    },
+    "OPTIONAL_INT_INT_INT": {
+        "description": "unknown",
+        "index": "17",
+        "value": "5242897"
+    },
+    "CLONE_F1": {
+        "description": "unknown",
+        "index": "17",
+        "value": "9437201"
+    },
+    "BIOME": {
+        "description": "Biome",
+        "index": "17",
+        "value": "3145745"
+    },
+    "PATHCOMMAND": {
+        "description": "filepath",
+        "index": "17",
+        "value": "1048593"
+    },
+    "OPTIONAL_JSON_OBJECT": {
+        "description": "unknown",
+        "index": "18",
+        "value": "5242898"
+    },
+    "CLONE_F2": {
+        "description": "unknown",
+        "index": "18",
+        "value": "9437202"
+    },
+    "ENCHANT": {
+        "description": "Enchant",
+        "index": "18",
+        "value": "3145746"
+    },
+    "PATHCOMMANDVAL": {
+        "description": "unknown",
+        "index": "18",
+        "value": "1048594"
+    },
+    "OPTIONAL_INT_JSON_OBJECT": {
+        "description": "unknown",
+        "index": "19",
+        "value": "5242899"
+    },
+    "DAMAGE_F0": {
+        "description": "unknown",
+        "index": "19",
+        "value": "9437203"
+    },
+    "ROTATION": {
+        "description": "Rotation",
+        "index": "19",
+        "value": "3145747"
+    },
+    "PATHCOMMANDCONT": {
+        "description": "unknown",
+        "index": "19",
+        "value": "1048595"
+    },
+    "OPTIONAL_INT_INT_JSON_OBJECT": {
+        "description": "unknown",
+        "index": "20",
+        "value": "5242900"
+    },
+    "MIRROR": {
+        "description": "Mirror",
+        "index": "20",
+        "value": "3145748"
+    },
+    "DAMAGE_F1": {
+        "description": "unknown",
+        "index": "20",
+        "value": "9437204"
+    },
+    "INTEGERRANGEVAL": {
+        "description": "unknown",
+        "index": "20",
+        "value": "1048596"
+    },
+    "OPTIONAL_STATE": {
+        "description": "unknown",
+        "index": "21",
+        "value": "5242901"
+    },
+    "DAMAGE_F2": {
+        "description": "unknown",
+        "index": "21",
+        "value": "9437205"
+    },
+    "INTEGERRANGEPOSTVAL": {
+        "description": "unknown",
+        "index": "21",
+        "value": "1048597"
+    },
+    "EASING": {
+        "description": "Easing",
+        "index": "21",
+        "value": "3145749"
+    },
+    "OPTIONAL_TOOL": {
+        "description": "unknown",
+        "index": "22",
+        "value": "5242902"
+    },
+    "COMMANDNAME": {
+        "description": "CommandName",
+        "index": "22",
+        "value": "3145750"
+    },
+    "DAMAGE_F3": {
+        "description": "unknown",
+        "index": "22",
+        "value": "9437206"
+    },
+    "INTEGERRANGE": {
+        "description": "unknown",
+        "index": "22",
+        "value": "1048598"
+    },
+    "FULLINTEGERRANGE": {
+        "description": "integer range",
+        "index": "23",
+        "value": "1048599"
+    },
+    "OPTIONAL_MUSICREPEATMODE": {
+        "description": "unknown",
+        "index": "23",
+        "value": "5242903"
+    },
+    "DAMAGE_F4": {
+        "description": "unknown",
+        "index": "23",
+        "value": "9437207"
+    },
+    "SET": {
+        "description": "set",
+        "index": "23",
+        "value": "3145751"
+    },
+    "OPTIONAL_VAL_MUSICREPEATMODE": {
+        "description": "unknown",
+        "index": "24",
+        "value": "5242904"
+    },
+    "DAYLOCK_F0": {
+        "description": "unknown",
+        "index": "24",
+        "value": "9437208"
+    },
+    "EASE": {
+        "description": "ease",
+        "index": "24",
+        "value": "3145752"
+    },
+    "RATIONALRANGEVAL": {
+        "description": "unknown",
+        "index": "24",
+        "value": "1048600"
+    },
+    "RATIONALRANGEPOSTVAL": {
+        "description": "unknown",
+        "index": "25",
+        "value": "1048601"
+    },
+    "DEOP_F0": {
+        "description": "unknown",
+        "index": "25",
+        "value": "9437209"
+    },
+    "POS": {
+        "description": "pos",
+        "index": "25",
+        "value": "3145753"
+    },
+    "OPTIONAL_VAL_VAL_MUSICREPEATMODE": {
+        "description": "unknown",
+        "index": "25",
+        "value": "5242905"
+    },
+    "RATIONALRANGE": {
+        "description": "unknown",
+        "index": "26",
+        "value": "1048602"
+    },
+    "DIALOGUE_F0": {
+        "description": "unknown",
+        "index": "26",
+        "value": "9437210"
+    },
+    "ROT": {
+        "description": "rot",
+        "index": "26",
+        "value": "3145754"
+    },
+    "OPTIONAL_VAL": {
+        "description": "unknown",
+        "index": "26",
+        "value": "5242906"
+    },
+    "FULLRATIONALRANGE": {
+        "description": "unknown",
+        "index": "27",
+        "value": "1048603"
+    },
+    "OPTIONAL_POSITION_FLOAT": {
+        "description": "unknown",
+        "index": "27",
+        "value": "5242907"
+    },
+    "DIFFICULTY_F0": {
+        "description": "unknown",
+        "index": "27",
+        "value": "9437211"
+    },
+    "FACING": {
+        "description": "facing",
+        "index": "27",
+        "value": "3145755"
+    },
+    "SELARGS": {
+        "description": "unknown",
+        "index": "28",
+        "value": "1048604"
+    },
+    "DEFAULT": {
+        "description": "default",
+        "index": "28",
+        "value": "3145756"
+    },
+    "EFFECT_F0": {
+        "description": "unknown",
+        "index": "28",
+        "value": "9437212"
+    },
+    "OPTIONAL_ID_ID": {
+        "description": "unknown",
+        "index": "28",
+        "value": "5242908"
+    },
+    "EFFECT_F1": {
+        "description": "unknown",
+        "index": "29",
+        "value": "9437213"
+    },
+    "CLEAR": {
+        "description": "clear",
+        "index": "29",
+        "value": "3145757"
+    },
+    "OPTIONAL_VAL_ID_ID": {
+        "description": "unknown",
+        "index": "29",
+        "value": "5242909"
+    },
+    "ARGS": {
+        "description": "unknown",
+        "index": "29",
+        "value": "1048605"
+    },
+    "OPTIONAL_ID_VAL_ID_ID": {
+        "description": "unknown",
+        "index": "30",
+        "value": "5242910"
+    },
+    "ARG": {
+        "description": "unknown",
+        "index": "30",
+        "value": "1048606"
+    },
+    "FADE": {
+        "description": "fade",
+        "index": "30",
+        "value": "3145758"
+    },
+    "EVENT_F0": {
+        "description": "unknown",
+        "index": "30",
+        "value": "9437214"
+    },
+    "OPTIONAL_VAL_VAL": {
+        "description": "unknown",
+        "index": "31",
+        "value": "5242911"
+    },
+    "EXECUTE_F0": {
+        "description": "unknown",
+        "index": "31",
+        "value": "9437215"
+    },
+    "TIME": {
+        "description": "time",
+        "index": "31",
+        "value": "3145759"
+    },
+    "MARG": {
+        "description": "unknown",
+        "index": "31",
+        "value": "1048607"
+    },
+    "OPTIONAL_VAL_VAL_VAL": {
+        "description": "unknown",
+        "index": "32",
+        "value": "5242912"
+    },
+    "EXECUTE_F1": {
+        "description": "unknown",
+        "index": "32",
+        "value": "9437216"
+    },
+    "COLOR": {
+        "description": "color",
+        "index": "32",
+        "value": "3145760"
+    },
+    "MVALUE": {
+        "description": "unknown",
+        "index": "32",
+        "value": "1048608"
+    },
+    "OPTIONAL_POSITION_FLOAT_VAL_VAL_VAL": {
+        "description": "unknown",
+        "index": "33",
+        "value": "5242913"
+    },
+    "EXECUTE_F2": {
+        "description": "unknown",
+        "index": "33",
+        "value": "9437217"
+    },
+    "CAMERASHAKEACTIONADD": {
+        "description": "CameraShakeActionAdd",
+        "index": "33",
+        "value": "3145761"
+    },
+    "NAMEARG": {
+        "description": "unknown",
+        "index": "33",
+        "value": "1048609"
+    },
+    "OPTIONAL_SELECTION_POSITION_FLOAT_VAL_VAL_VAL": {
+        "description": "unknown",
+        "index": "34",
+        "value": "5242914"
+    },
+    "CAMERASHAKEACTIONSTOP": {
+        "description": "CameraShakeActionStop",
+        "index": "34",
+        "value": "3145762"
+    },
+    "TYPEARG": {
+        "description": "unknown",
+        "index": "34",
+        "value": "1048610"
+    },
+    "EXECUTE_F3": {
+        "description": "unknown",
+        "index": "34",
+        "value": "9437218"
+    },
+    "CAMERASHAKETYPE": {
+        "description": "CameraShakeType",
+        "index": "35",
+        "value": "3145763"
+    },
+    "FAMILYARG": {
+        "description": "unknown",
+        "index": "35",
+        "value": "1048611"
+    },
+    "EXECUTE_F4": {
+        "description": "unknown",
+        "index": "35",
+        "value": "9437219"
+    },
+    "OPTIONAL_FILLTYPE": {
+        "description": "unknown",
+        "index": "35",
+        "value": "5242915"
+    },
+    "EXECUTE_F5": {
+        "description": "unknown",
+        "index": "36",
+        "value": "9437220"
+    },
+    "PERMISSIONARG": {
+        "description": "unknown",
+        "index": "36",
+        "value": "1048612"
+    },
+    "MASKMODE": {
+        "description": "MaskMode",
+        "index": "36",
+        "value": "3145764"
+    },
+    "OPTIONAL_TELEPORTRULES_FILLTYPE": {
+        "description": "unknown",
+        "index": "36",
+        "value": "5242916"
+    },
+    "MASKMODEFILTERED": {
+        "description": "MaskModeFiltered",
+        "index": "37",
+        "value": "3145765"
+    },
+    "EXECUTE_F6": {
+        "description": "unknown",
+        "index": "37",
+        "value": "9437221"
+    },
+    "PERMISSIONARGS": {
+        "description": "unknown",
+        "index": "37",
+        "value": "1048613"
+    },
+    "OPTIONAL_RIDERULES_ID_ID": {
+        "description": "unknown",
+        "index": "37",
+        "value": "5242917"
+    },
+    "CLONEMODE": {
+        "description": "CloneMode",
+        "index": "38",
+        "value": "3145766"
+    },
+    "EXECUTE_F7": {
+        "description": "unknown",
+        "index": "38",
+        "value": "9437222"
+    },
+    "OPTIONAL_SCOREBOARDSORTORDER": {
+        "description": "unknown",
+        "index": "38",
+        "value": "5242918"
+    },
+    "PERMISSIONSELECTOR": {
+        "description": "unknown",
+        "index": "38",
+        "value": "1048614"
+    },
+    "PERMISSIONELEMENT": {
+        "description": "unknown",
+        "index": "39",
+        "value": "1048615"
+    },
+    "DAMAGECAUSE": {
+        "description": "DamageCause",
+        "index": "39",
+        "value": "3145767"
+    },
+    "OPTIONAL_SCOREBOARDOBJECTIVES_SCOREBOARDSORTORDER": {
+        "description": "unknown",
+        "index": "39",
+        "value": "5242919"
+    },
+    "FILL_F0": {
+        "description": "unknown",
+        "index": "39",
+        "value": "9437223"
+    },
+    "PERMISSIONELEMENTS": {
+        "description": "unknown",
+        "index": "40",
+        "value": "1048616"
+    },
+    "DAMAGECAUSESUICIDE": {
+        "description": "DamageCauseSuicide",
+        "index": "40",
+        "value": "3145768"
+    },
+    "OPTIONAL_SCOREBOARDOBJECTIVES": {
+        "description": "unknown",
+        "index": "40",
+        "value": "5242920"
+    },
+    "FILL_F1": {
+        "description": "unknown",
+        "index": "40",
+        "value": "9437224"
+    },
+    "TAGARG": {
+        "description": "unknown",
+        "index": "41",
+        "value": "1048617"
+    },
+    "DAMAGEORIGINACTOR": {
+        "description": "DamageOriginActor",
+        "index": "41",
+        "value": "3145769"
+    },
+    "OPTIONAL_WILDCARDSELECTION": {
+        "description": "unknown",
+        "index": "41",
+        "value": "5242921"
+    },
+    "FILL_F2": {
+        "description": "unknown",
+        "index": "41",
+        "value": "9437225"
+    },
+    "HASITEMELEMENT": {
+        "description": "unknown",
+        "index": "42",
+        "value": "1048618"
+    },
+    "OPTIONAL_WILDCARDINT": {
+        "description": "unknown",
+        "index": "42",
+        "value": "5242922"
+    },
+    "DAYLOCKCOMMANDALIASES": {
+        "description": "daylockCommandAliases",
+        "index": "42",
+        "value": "3145770"
+    },
+    "FILL_F3": {
+        "description": "unknown",
+        "index": "42",
+        "value": "9437226"
+    },
+    "HASITEMELEMENTS": {
+        "description": "unknown",
+        "index": "43",
+        "value": "1048619"
+    },
+    "DIALOGUEOPENACTION": {
+        "description": "DialogueOpenAction",
+        "index": "43",
+        "value": "3145771"
+    },
+    "OPTIONAL_SETBLOCKMODE": {
+        "description": "unknown",
+        "index": "43",
+        "value": "5242923"
+    },
+    "FOG_F0": {
+        "description": "unknown",
+        "index": "43",
+        "value": "9437227"
+    },
+    "HASITEMARG": {
+        "description": "unknown",
+        "index": "44",
+        "value": "1048620"
+    },
+    "OPTIONAL_STRUCTURESAVEMODE_BOOLEAN": {
+        "description": "unknown",
+        "index": "44",
+        "value": "5242924"
+    },
+    "DIALOGUECHANGEACTION": {
+        "description": "DialogueChangeAction",
+        "index": "44",
+        "value": "3145772"
+    },
+    "FOG_F1": {
+        "description": "unknown",
+        "index": "44",
+        "value": "9437228"
+    },
+    "OPTIONAL_VAL_ID": {
+        "description": "unknown",
+        "index": "45",
+        "value": "5242925"
+    },
+    "HASITEMARGS": {
+        "description": "unknown",
+        "index": "45",
+        "value": "1048621"
+    },
+    "DIFFICULTY": {
+        "description": "Difficulty",
+        "index": "45",
+        "value": "3145773"
+    },
+    "FUNCTION_F0": {
+        "description": "unknown",
+        "index": "45",
+        "value": "9437229"
+    },
+    "HASITEMSELECTOR": {
+        "description": "unknown",
+        "index": "46",
+        "value": "1048622"
+    },
+    "OPTIONAL_BOOLEAN_VAL_ID": {
+        "description": "unknown",
+        "index": "46",
+        "value": "5242926"
+    },
+    "CLEAREFFECTS": {
+        "description": "ClearEffects",
+        "index": "46",
+        "value": "3145774"
+    },
+    "GAMEMODE_F0": {
+        "description": "unknown",
+        "index": "46",
+        "value": "9437230"
+    },
+    "EFFECT": {
+        "description": "Effect",
+        "index": "47",
+        "value": "3145775"
+    },
+    "GAMERULE_F0": {
+        "description": "unknown",
+        "index": "47",
+        "value": "9437231"
+    },
+    "OPTIONAL_BOOLEAN_BOOLEAN_VAL_ID": {
+        "description": "unknown",
+        "index": "47",
+        "value": "5242927"
+    },
+    "EQUIPMENTSLOTENUM": {
+        "description": "equipment slots",
+        "index": "47",
+        "value": "1048623"
+    },
+    "EVENTENTITYACTION": {
+        "description": "EventEntityAction",
+        "index": "48",
+        "value": "3145776"
+    },
+    "OPTIONAL_VAL_BOOLEAN_BOOLEAN_VAL_ID": {
+        "description": "unknown",
+        "index": "48",
+        "value": "5242928"
+    },
+    "GAMETEST_F0": {
+        "description": "unknown",
+        "index": "48",
+        "value": "9437232"
+    },
+    "PROPERTYVALUE": {
+        "description": "unknown",
+        "index": "48",
+        "value": "1048624"
+    },
+    "OPTIONAL_BOOLEAN_BOOLEAN_BOOLEAN_VAL_ID": {
+        "description": "unknown",
+        "index": "49",
+        "value": "5242929"
+    },
+    "EXECUTEMODEDETECT": {
+        "description": "ExecuteModeDetect",
+        "index": "49",
+        "value": "3145777"
+    },
+    "GAMETEST_F1": {
+        "description": "unknown",
+        "index": "49",
+        "value": "9437233"
+    },
+    "HASPROPERTYPARAMVALUE": {
+        "description": "unknown",
+        "index": "49",
+        "value": "1048625"
+    },
+    "GETTOPSOLIDBLOCK_F0": {
+        "description": "unknown",
+        "index": "50",
+        "value": "9437234"
+    },
+    "OPTIONAL_VAL_BOOLEAN_BOOLEAN_BOOLEAN_VAL_ID": {
+        "description": "unknown",
+        "index": "50",
+        "value": "5242930"
+    },
+    "OPTION_AS": {
+        "description": "Option_As",
+        "index": "50",
+        "value": "3145778"
+    },
+    "HASPROPERTYPARAMENUMVALUE": {
+        "description": "unknown",
+        "index": "50",
+        "value": "1048626"
+    },
+    "OPTIONAL_ENTITYEVENTS_ID": {
+        "description": "unknown",
+        "index": "51",
+        "value": "5242931"
+    },
+    "OPTION_AT": {
+        "description": "Option_At",
+        "index": "51",
+        "value": "3145779"
+    },
+    "GIVE_F0": {
+        "description": "unknown",
+        "index": "51",
+        "value": "9437235"
+    },
+    "HASPROPERTYARG": {
+        "description": "unknown",
+        "index": "51",
+        "value": "1048627"
+    },
+    "OPTION_IN": {
+        "description": "Option_In",
+        "index": "52",
+        "value": "3145780"
+    },
+    "OPTIONAL_RVAL_ENTITYEVENTS_ID": {
+        "description": "unknown",
+        "index": "52",
+        "value": "5242932"
+    },
+    "HELP_F0": {
+        "description": "unknown",
+        "index": "52",
+        "value": "9437236"
+    },
+    "HASPROPERTYARGS": {
+        "description": "unknown",
+        "index": "52",
+        "value": "1048628"
+    },
+    "OPTION_POSITIONED": {
+        "description": "Option_Positioned",
+        "index": "53",
+        "value": "3145781"
+    },
+    "OPTIONAL_RVAL_BOOLEAN": {
+        "description": "unknown",
+        "index": "53",
+        "value": "5242933"
+    },
+    "INPUTPERMISSION_F0": {
+        "description": "unknown",
+        "index": "53",
+        "value": "9437237"
+    },
+    "HASPROPERTYELEMENT": {
+        "description": "unknown",
+        "index": "53",
+        "value": "1048629"
+    },
+    "OPTION_ROTATED": {
+        "description": "Option_Rotated",
+        "index": "54",
+        "value": "3145782"
+    },
+    "KICK_F0": {
+        "description": "unknown",
+        "index": "54",
+        "value": "9437238"
+    },
+    "OPTIONAL_TESTFORBLOCKSMODE": {
+        "description": "unknown",
+        "index": "54",
+        "value": "5242934"
+    },
+    "HASPROPERTYELEMENTS": {
+        "description": "unknown",
+        "index": "54",
+        "value": "1048630"
+    },
+    "OPTION_FACING": {
+        "description": "Option_Facing",
+        "index": "55",
+        "value": "3145783"
+    },
+    "OPTIONAL_ID_BOOLEAN": {
+        "description": "unknown",
+        "index": "55",
+        "value": "5242935"
+    },
+    "KILL_F0": {
+        "description": "unknown",
+        "index": "55",
+        "value": "9437239"
+    },
+    "HASPROPERTYSELECTOR": {
+        "description": "unknown",
+        "index": "55",
+        "value": "1048631"
+    },
+    "OPTIONAL_ALLDIMENSIONS": {
+        "description": "unknown",
+        "index": "56",
+        "value": "5242936"
+    },
+    "OPTION_ENTITY": {
+        "description": "Option_Entity",
+        "index": "56",
+        "value": "3145784"
+    },
+    "ID": {
+        "description": "string",
+        "index": "56",
+        "value": "1048632"
+    },
+    "LISTD_F0": {
+        "description": "unknown",
+        "index": "56",
+        "value": "9437240"
+    },
+    "OPTION_ALIGN": {
+        "description": "Option_Align",
+        "index": "57",
+        "value": "3145785"
+    },
+    "IDCONT": {
+        "description": "unknown",
+        "index": "57",
+        "value": "1048633"
+    },
+    "LOCATE_F0": {
+        "description": "unknown",
+        "index": "57",
+        "value": "9437241"
+    },
+    "OPTION_ANCHORED": {
+        "description": "Option_Anchored",
+        "index": "58",
+        "value": "3145786"
+    },
+    "COORD_X_INT": {
+        "description": "unknown",
+        "index": "58",
+        "value": "1048634"
+    },
+    "LOOT_F0": {
+        "description": "unknown",
+        "index": "58",
+        "value": "9437242"
+    },
+    "COORD_Y_INT": {
+        "description": "unknown",
+        "index": "59",
+        "value": "1048635"
+    },
+    "OPTION_IF_UNLESS": {
+        "description": "Option_If_Unless",
+        "index": "59",
+        "value": "3145787"
+    },
+    "LOOT_F1": {
+        "description": "unknown",
+        "index": "59",
+        "value": "9437243"
+    },
+    "COORD_Z_INT": {
+        "description": "unknown",
+        "index": "60",
+        "value": "1048636"
+    },
+    "OPTION_CONDITION_BLOCK": {
+        "description": "Option_Condition_Block",
+        "index": "60",
+        "value": "3145788"
+    },
+    "LOOT_F2": {
+        "description": "unknown",
+        "index": "60",
+        "value": "9437244"
+    },
+    "COORD_X_FLOAT": {
+        "description": "unknown",
+        "index": "61",
+        "value": "1048637"
+    },
+    "OPTION_CONDITION_BLOCKS": {
+        "description": "Option_Condition_Blocks",
+        "index": "61",
+        "value": "3145789"
+    },
+    "LOOT_F3": {
+        "description": "unknown",
+        "index": "61",
+        "value": "9437245"
+    },
+    "OPTION_CONDITION_ENTITY": {
+        "description": "Option_Condition_Entity",
+        "index": "62",
+        "value": "3145790"
+    },
+    "COORD_Y_FLOAT": {
+        "description": "unknown",
+        "index": "62",
+        "value": "1048638"
+    },
+    "LOOT_F4": {
+        "description": "unknown",
+        "index": "62",
+        "value": "9437246"
+    },
+    "COORD_Z_FLOAT": {
+        "description": "unknown",
+        "index": "63",
+        "value": "1048639"
+    },
+    "OPTION_CONDITION_SCORE": {
+        "description": "Option_Condition_Score",
+        "index": "63",
+        "value": "3145791"
+    },
+    "LOOT_F5": {
+        "description": "unknown",
+        "index": "63",
+        "value": "9437247"
+    },
+    "POSITION": {
+        "description": "x y z",
+        "index": "64",
+        "value": "1048640"
+    },
+    "OPTION_RUN": {
+        "description": "Option_Run",
+        "index": "64",
+        "value": "3145792"
+    },
+    "LOOT_F6": {
+        "description": "unknown",
+        "index": "64",
+        "value": "9437248"
+    },
+    "POSITION_FLOAT": {
+        "description": "x y z",
+        "index": "65",
+        "value": "1048641"
+    },
+    "ACTORLOCATION": {
+        "description": "ActorLocation",
+        "index": "65",
+        "value": "3145793"
+    },
+    "LOOT_F7": {
+        "description": "unknown",
+        "index": "65",
+        "value": "9437249"
+    },
+    "MESSAGEEXP": {
+        "description": "unknown",
+        "index": "66",
+        "value": "1048642"
+    },
+    "BLOCKSSCANMODE": {
+        "description": "BlocksScanMode",
+        "index": "66",
+        "value": "3145794"
+    },
+    "LOOT_F8": {
+        "description": "unknown",
+        "index": "66",
+        "value": "9437250"
+    },
+    "MESSAGE": {
+        "description": "unknown",
+        "index": "67",
+        "value": "1048643"
+    },
+    "SCORERANGEMODE": {
+        "description": "ScoreRangeMode",
+        "index": "67",
+        "value": "3145795"
+    },
+    "ME_F0": {
+        "description": "unknown",
+        "index": "67",
+        "value": "9437251"
+    },
+    "FILLMODE": {
+        "description": "FillMode",
+        "index": "68",
+        "value": "3145796"
+    },
+    "MESSAGE_ROOT": {
+        "description": "message",
+        "index": "68",
+        "value": "1048644"
+    },
+    "MOBEVENT_F0": {
+        "description": "unknown",
+        "index": "68",
+        "value": "9437252"
+    },
+    "POSTSELECTOR": {
+        "description": "unknown",
+        "index": "69",
+        "value": "1048645"
+    },
+    "REPLACE": {
+        "description": "Replace",
+        "index": "69",
+        "value": "3145797"
+    },
+    "MUSIC_F0": {
+        "description": "unknown",
+        "index": "69",
+        "value": "9437253"
+    },
+    "RAWTEXT": {
+        "description": "text",
+        "index": "70",
+        "value": "1048646"
+    },
+    "ADD": {
+        "description": "add",
+        "index": "70",
+        "value": "3145798"
+    },
+    "OP_F0": {
+        "description": "unknown",
+        "index": "70",
+        "value": "9437254"
+    },
+    "RAWTEXTCONT": {
+        "description": "unknown",
+        "index": "71",
+        "value": "1048647"
+    },
+    "PARTICLE_F0": {
+        "description": "unknown",
+        "index": "71",
+        "value": "9437255"
+    },
+    "DELETE": {
+        "description": "delete",
+        "index": "71",
+        "value": "3145799"
+    },
+    "PERMISSION_F0": {
+        "description": "unknown",
+        "index": "72",
+        "value": "9437256"
+    },
+    "JSON_VALUE": {
+        "description": "unknown",
+        "index": "72",
+        "value": "1048648"
+    },
+    "BOOLGAMERULE": {
+        "description": "BoolGameRule",
+        "index": "72",
+        "value": "3145800"
+    },
+    "JSON_FIELD": {
+        "description": "unknown",
+        "index": "73",
+        "value": "1048649"
+    },
+    "PLAYANIMATION_F0": {
+        "description": "unknown",
+        "index": "73",
+        "value": "9437257"
+    },
+    "INTGAMERULE": {
+        "description": "IntGameRule",
+        "index": "73",
+        "value": "3145801"
+    },
+    "JSON_OBJECT": {
+        "description": "json",
+        "index": "74",
+        "value": "1048650"
+    },
+    "PLAYSOUND_F0": {
+        "description": "unknown",
+        "index": "74",
+        "value": "9437258"
+    },
+    "GAMETESTMODERUN": {
+        "description": "GameTestModeRun",
+        "index": "74",
+        "value": "3145802"
+    },
+    "JSON_OBJECT_FIELDS": {
+        "description": "unknown",
+        "index": "75",
+        "value": "1048651"
+    },
+    "QUERYTARGET_F0": {
+        "description": "unknown",
+        "index": "75",
+        "value": "9437259"
+    },
+    "GAMETESTMODERUNTHIS": {
+        "description": "GameTestModeRunThis",
+        "index": "75",
+        "value": "3145803"
+    },
+    "JSON_OBJECT_CONT": {
+        "description": "unknown",
+        "index": "76",
+        "value": "1048652"
+    },
+    "REPLACEITEM_F0": {
+        "description": "unknown",
+        "index": "76",
+        "value": "9437260"
+    },
+    "GAMETESTMODERUNSET": {
+        "description": "GameTestModeRunSet",
+        "index": "76",
+        "value": "3145804"
+    },
+    "JSON_ARRAY": {
+        "description": "unknown",
+        "index": "77",
+        "value": "1048653"
+    },
+    "REPLACEITEM_F1": {
+        "description": "unknown",
+        "index": "77",
+        "value": "9437261"
+    },
+    "GAMETESTMODERUNSETUNTILFAIL": {
+        "description": "GameTestModeRunSetUntilFail",
+        "index": "77",
+        "value": "3145805"
+    },
+    "JSON_ARRAY_VALUES": {
+        "description": "unknown",
+        "index": "78",
+        "value": "1048654"
+    },
+    "GAMETESTMODECLEARALL": {
+        "description": "GameTestModeClearAll",
+        "index": "78",
+        "value": "3145806"
+    },
+    "REPLACEITEM_F2": {
+        "description": "unknown",
+        "index": "78",
+        "value": "9437262"
+    },
+    "JSON_ARRAY_CONT": {
+        "description": "unknown",
+        "index": "79",
+        "value": "1048655"
+    },
+    "GAMETESTMODESHOWPOSITION": {
+        "description": "GameTestModeShowPosition",
+        "index": "79",
+        "value": "3145807"
+    },
+    "RIDE_F0": {
+        "description": "unknown",
+        "index": "79",
+        "value": "9437263"
+    },
+    "GAMETESTMODECREATETEST": {
+        "description": "GameTestModeCreateTest",
+        "index": "80",
+        "value": "3145808"
+    },
+    "BLOCK_STATE": {
+        "description": "unknown",
+        "index": "80",
+        "value": "1048656"
+    },
+    "RIDE_F1": {
+        "description": "unknown",
+        "index": "80",
+        "value": "9437264"
+    },
+    "BLOCK_STATE_KEY": {
+        "description": "unknown",
+        "index": "81",
+        "value": "1048657"
+    },
+    "GAMETESTRUNNEARBYTESTS": {
+        "description": "GameTestRunNearbyTests",
+        "index": "81",
+        "value": "3145809"
+    },
+    "SAY_F0": {
+        "description": "unknown",
+        "index": "81",
+        "value": "9437265"
+    },
+    "GAMETESTSTOPTESTS": {
+        "description": "GameTestStopTests",
+        "index": "82",
+        "value": "3145810"
+    },
+    "BLOCK_STATE_VALUE": {
+        "description": "unknown",
+        "index": "82",
+        "value": "1048658"
+    },
+    "SCHEDULE_F0": {
+        "description": "unknown",
+        "index": "82",
+        "value": "9437266"
+    },
+    "HELPCOMMANDALIASES": {
+        "description": "helpCommandAliases",
+        "index": "83",
+        "value": "3145811"
+    },
+    "BLOCK_STATE_VALUES": {
+        "description": "unknown",
+        "index": "83",
+        "value": "1048659"
+    },
+    "SCHEDULE_F1": {
+        "description": "unknown",
+        "index": "83",
+        "value": "9437267"
+    },
+    "OPTION_SET": {
+        "description": "Option_Set",
+        "index": "84",
+        "value": "3145812"
+    },
+    "BLOCK_STATE_ARRAY": {
+        "description": "block states",
+        "index": "84",
+        "value": "1048660"
+    },
+    "SCOREBOARD_F0": {
+        "description": "unknown",
+        "index": "84",
+        "value": "9437268"
+    },
+    "OPTION_QUERY": {
+        "description": "Option_Query",
+        "index": "85",
+        "value": "3145813"
+    },
+    "BLOCK_STATE_ARRAY_CONT": {
+        "description": "unknown",
+        "index": "85",
+        "value": "1048661"
+    },
+    "SCOREBOARD_F1": {
+        "description": "unknown",
+        "index": "85",
+        "value": "9437269"
+    },
+    "PERMISSION": {
+        "description": "permission",
+        "index": "86",
+        "value": "3145814"
+    },
+    "COMMAND": {
+        "description": "unknown",
+        "index": "86",
+        "value": "1048662"
+    },
+    "SCOREBOARD_F2": {
+        "description": "unknown",
+        "index": "86",
+        "value": "9437270"
+    },
+    "SLASHCOMMAND": {
+        "description": "command",
+        "index": "87",
+        "value": "1048663"
+    },
+    "STATE": {
+        "description": "state",
+        "index": "87",
+        "value": "3145815"
+    },
+    "SCOREBOARD_F3": {
+        "description": "unknown",
+        "index": "87",
+        "value": "9437271"
+    },
+    "SCRIPTEVENT_F0": {
+        "description": "unknown",
+        "index": "88",
+        "value": "9437272"
+    },
+    "LISTDETAILS": {
+        "description": "ListDetails",
+        "index": "88",
+        "value": "3145816"
+    },
+    "LOCATESUBCOMMANDSTRUCTURE": {
+        "description": "LocateSubcommandStructure",
+        "index": "89",
+        "value": "3145817"
+    },
+    "SETBLOCK_F0": {
+        "description": "unknown",
+        "index": "89",
+        "value": "9437273"
+    },
+    "SETBLOCK_F1": {
+        "description": "unknown",
+        "index": "90",
+        "value": "9437274"
+    },
+    "LOCATESUBCOMMANDBIOME": {
+        "description": "LocateSubcommandBiome",
+        "index": "90",
+        "value": "3145818"
+    },
+    "TARGETSPAWN": {
+        "description": "TargetSpawn",
+        "index": "91",
+        "value": "3145819"
+    },
+    "SETMAXPLAYERS_F0": {
+        "description": "unknown",
+        "index": "91",
+        "value": "9437275"
+    },
+    "TARGETGIVE": {
+        "description": "TargetGive",
+        "index": "92",
+        "value": "3145820"
+    },
+    "SETWORLDSPAWN_F0": {
+        "description": "unknown",
+        "index": "92",
+        "value": "9437276"
+    },
+    "TARGETINSERT": {
+        "description": "TargetInsert",
+        "index": "93",
+        "value": "3145821"
+    },
+    "SPAWNPOINT_F0": {
+        "description": "unknown",
+        "index": "93",
+        "value": "9437277"
+    },
+    "SPREADPLAYERS_F0": {
+        "description": "unknown",
+        "index": "94",
+        "value": "9437278"
+    },
+    "TARGETREPLACE": {
+        "description": "TargetReplace",
+        "index": "94",
+        "value": "3145822"
+    },
+    "STOPSOUND_F0": {
+        "description": "unknown",
+        "index": "95",
+        "value": "9437279"
+    },
+    "TARGETENTITY": {
+        "description": "TargetEntity",
+        "index": "95",
+        "value": "3145823"
+    },
+    "STRUCTURE_F0": {
+        "description": "unknown",
+        "index": "96",
+        "value": "9437280"
+    },
+    "TARGETBLOCK": {
+        "description": "TargetBlock",
+        "index": "96",
+        "value": "3145824"
+    },
+    "STRUCTURE_F1": {
+        "description": "unknown",
+        "index": "97",
+        "value": "9437281"
+    },
+    "SOURCELOOT": {
+        "description": "SourceLoot",
+        "index": "97",
+        "value": "3145825"
+    },
+    "STRUCTURE_F2": {
+        "description": "unknown",
+        "index": "98",
+        "value": "9437282"
+    },
+    "SOURCEKILL": {
+        "description": "SourceKill",
+        "index": "98",
+        "value": "3145826"
+    },
+    "STRUCTURE_F3": {
+        "description": "unknown",
+        "index": "99",
+        "value": "9437283"
+    },
+    "BLOCKEQUIPMENTSLOT": {
+        "description": "BlockEquipmentSlot",
+        "index": "99",
+        "value": "3145827"
+    },
+    "MOBEVENT": {
+        "description": "MobEvent",
+        "index": "100",
+        "value": "3145828"
+    },
+    "STRUCTURE_F4": {
+        "description": "unknown",
+        "index": "100",
+        "value": "9437284"
+    },
+    "MUSICQUEUEACTION": {
+        "description": "MusicQueueAction",
+        "index": "101",
+        "value": "3145829"
+    },
+    "STRUCTURE_F5": {
+        "description": "unknown",
+        "index": "101",
+        "value": "9437285"
+    },
+    "STRUCTURE_F6": {
+        "description": "unknown",
+        "index": "102",
+        "value": "9437286"
+    },
+    "MUSICPLAYACTION": {
+        "description": "MusicPlayAction",
+        "index": "102",
+        "value": "3145830"
+    },
+    "STRUCTURE_F7": {
+        "description": "unknown",
+        "index": "103",
+        "value": "9437287"
+    },
+    "MUSICSTOPACTION": {
+        "description": "MusicStopAction",
+        "index": "103",
+        "value": "3145831"
+    },
+    "SUMMON_F0": {
+        "description": "unknown",
+        "index": "104",
+        "value": "9437288"
+    },
+    "MUSICVOLUMEACTION": {
+        "description": "MusicVolumeAction",
+        "index": "104",
+        "value": "3145832"
+    },
+    "SUMMON_F1": {
+        "description": "unknown",
+        "index": "105",
+        "value": "9437289"
+    },
+    "MUSICREPEATMODE": {
+        "description": "MusicRepeatMode",
+        "index": "105",
+        "value": "3145833"
+    },
+    "SUMMON_F2": {
+        "description": "unknown",
+        "index": "106",
+        "value": "9437290"
+    },
+    "PERMISSIONSACTION": {
+        "description": "PermissionsAction",
+        "index": "106",
+        "value": "3145834"
+    },
+    "SUMMON_F3": {
+        "description": "unknown",
+        "index": "107",
+        "value": "9437291"
+    },
+    "PERMISSIONLEVEL": {
+        "description": "PermissionLevel",
+        "index": "107",
+        "value": "3145835"
+    },
+    "PERMISSIONCOMMANDALIASES": {
+        "description": "permissionCommandAliases",
+        "index": "108",
+        "value": "3145836"
+    },
+    "TAG_F0": {
+        "description": "unknown",
+        "index": "108",
+        "value": "9437292"
+    },
+    "TAG_F1": {
+        "description": "unknown",
+        "index": "109",
+        "value": "9437293"
+    },
+    "RELOAD_SCRIPTS": {
+        "description": "reload_scripts",
+        "index": "109",
+        "value": "3145837"
+    },
+    "TELEPORT_F0": {
+        "description": "unknown",
+        "index": "110",
+        "value": "9437294"
+    },
+    "RELOAD_ALL": {
+        "description": "reload_all",
+        "index": "110",
+        "value": "3145838"
+    },
+    "TELEPORT_F1": {
+        "description": "unknown",
+        "index": "111",
+        "value": "9437295"
+    },
+    "REPLACEITEMBLOCK": {
+        "description": "ReplaceItemBlock",
+        "index": "111",
+        "value": "3145839"
+    },
+    "TELEPORT_F2": {
+        "description": "unknown",
+        "index": "112",
+        "value": "9437296"
+    },
+    "REPLACEITEMENTITY": {
+        "description": "ReplaceItemEntity",
+        "index": "112",
+        "value": "3145840"
+    },
+    "TELEPORT_F3": {
+        "description": "unknown",
+        "index": "113",
+        "value": "9437297"
+    },
+    "REPLACEMODE": {
+        "description": "ReplaceMode",
+        "index": "113",
+        "value": "3145841"
+    },
+    "RIDEMODESTART": {
+        "description": "RideModeStart",
+        "index": "114",
+        "value": "3145842"
+    },
+    "TELEPORT_F4": {
+        "description": "unknown",
+        "index": "114",
+        "value": "9437298"
+    },
+    "RIDEMODESTOP": {
+        "description": "RideModeStop",
+        "index": "115",
+        "value": "3145843"
+    },
+    "TELEPORT_F5": {
+        "description": "unknown",
+        "index": "115",
+        "value": "9437299"
+    },
+    "RIDEMODEEVICT": {
+        "description": "RideModeEvict",
+        "index": "116",
+        "value": "3145844"
+    },
+    "TELL_F0": {
+        "description": "unknown",
+        "index": "116",
+        "value": "9437300"
+    },
+    "RIDEMODESUMMONRIDER": {
+        "description": "RideModeSummonRider",
+        "index": "117",
+        "value": "3145845"
+    },
+    "TELLRAW_F0": {
+        "description": "unknown",
+        "index": "117",
+        "value": "9437301"
+    },
+    "RIDEMODESUMMONRIDE": {
+        "description": "RideModeSummonRide",
+        "index": "118",
+        "value": "3145846"
+    },
+    "TESTFORBLOCK_F0": {
+        "description": "unknown",
+        "index": "118",
+        "value": "9437302"
+    },
+    "TESTFORBLOCK_F1": {
+        "description": "unknown",
+        "index": "119",
+        "value": "9437303"
+    },
+    "FILLTYPE": {
+        "description": "FillType",
+        "index": "119",
+        "value": "3145847"
+    },
+    "TESTFORBLOCKS_F0": {
+        "description": "unknown",
+        "index": "120",
+        "value": "9437304"
+    },
+    "TELEPORTRULES": {
+        "description": "TeleportRules",
+        "index": "120",
+        "value": "3145848"
+    },
+    "RIDERULES": {
+        "description": "RideRules",
+        "index": "121",
+        "value": "3145849"
+    },
+    "TESTFOR_F0": {
+        "description": "unknown",
+        "index": "121",
+        "value": "9437305"
+    },
+    "TICKINGAREA_F0": {
+        "description": "unknown",
+        "index": "122",
+        "value": "9437306"
+    },
+    "SCHEDULEACTIONONAREALOADED": {
+        "description": "ScheduleActionOnAreaLoaded",
+        "index": "122",
+        "value": "3145850"
+    },
+    "TICKINGAREA_F1": {
+        "description": "unknown",
+        "index": "123",
+        "value": "9437307"
+    },
+    "REQUESTACTION": {
+        "description": "RequestAction",
+        "index": "123",
+        "value": "3145851"
+    },
+    "TICKINGAREA_F2": {
+        "description": "unknown",
+        "index": "124",
+        "value": "9437308"
+    },
+    "CIRCLEAREA": {
+        "description": "CircleArea",
+        "index": "124",
+        "value": "3145852"
+    },
+    "TICKINGAREA": {
+        "description": "TickingArea",
+        "index": "125",
+        "value": "3145853"
+    },
+    "TICKINGAREA_F3": {
+        "description": "unknown",
+        "index": "125",
+        "value": "9437309"
+    },
+    "SCOREBOARDOBJECTIVESCATEGORY": {
+        "description": "ScoreboardObjectivesCategory",
+        "index": "126",
+        "value": "3145854"
+    },
+    "TIME_F0": {
+        "description": "unknown",
+        "index": "126",
+        "value": "9437310"
+    },
+    "TIME_F1": {
+        "description": "unknown",
+        "index": "127",
+        "value": "9437311"
+    },
+    "SCOREBOARDPLAYERSCATEGORY": {
+        "description": "ScoreboardPlayersCategory",
+        "index": "127",
+        "value": "3145855"
+    },
+    "SCOREBOARDADDACTION": {
+        "description": "ScoreboardAddAction",
+        "index": "128",
+        "value": "3145856"
+    },
+    "TITLE_F0": {
+        "description": "unknown",
+        "index": "128",
+        "value": "9437312"
+    },
+    "SCOREBOARDREMOVEACTION": {
+        "description": "ScoreboardRemoveAction",
+        "index": "129",
+        "value": "3145857"
+    },
+    "TITLE_F1": {
+        "description": "unknown",
+        "index": "129",
+        "value": "9437313"
+    },
+    "SCOREBOARDRANDOMACTION": {
+        "description": "ScoreboardRandomAction",
+        "index": "130",
+        "value": "3145858"
+    },
+    "TITLERAW_F0": {
+        "description": "unknown",
+        "index": "130",
+        "value": "9437314"
+    },
+    "SCOREBOARDSETDISPLAYACTION": {
+        "description": "ScoreboardSetDisplayAction",
+        "index": "131",
+        "value": "3145859"
+    },
+    "TITLERAW_F1": {
+        "description": "unknown",
+        "index": "131",
+        "value": "9437315"
+    },
+    "SCOREBOARDLISTACTION": {
+        "description": "ScoreboardListAction",
+        "index": "132",
+        "value": "3145860"
+    },
+    "WEATHER_F0": {
+        "description": "unknown",
+        "index": "132",
+        "value": "9437316"
+    },
+    "SCOREBOARDRESETACTION": {
+        "description": "ScoreboardResetAction",
+        "index": "133",
+        "value": "3145861"
+    },
+    "WSSERVER_F0": {
+        "description": "unknown",
+        "index": "133",
+        "value": "9437317"
+    },
+    "SCOREBOARDTESTACTION": {
+        "description": "ScoreboardTestAction",
+        "index": "134",
+        "value": "3145862"
+    },
+    "XP_F0": {
+        "description": "unknown",
+        "index": "134",
+        "value": "9437318"
+    },
+    "SCOREBOARDPLAYERSNUMACTION": {
+        "description": "ScoreboardPlayersNumAction",
+        "index": "135",
+        "value": "3145863"
+    },
+    "RECIPE_F0": {
+        "description": "unknown",
+        "index": "135",
+        "value": "9437319"
+    },
+    "SCOREBOARDOPERATIONACTION": {
+        "description": "ScoreboardOperationAction",
+        "index": "136",
+        "value": "3145864"
+    },
+    "AGENT_F0": {
+        "description": "unknown",
+        "index": "136",
+        "value": "9437320"
+    },
+    "SCOREBOARDSORTORDER": {
+        "description": "ScoreboardSortOrder",
+        "index": "137",
+        "value": "3145865"
+    },
+    "AGENT_F1": {
+        "description": "unknown",
+        "index": "137",
+        "value": "9437321"
+    },
+    "SCOREBOARDDISPLAYSLOTSORTABLE": {
+        "description": "ScoreboardDisplaySlotSortable",
+        "index": "138",
+        "value": "3145866"
+    },
+    "AGENT_F2": {
+        "description": "unknown",
+        "index": "138",
+        "value": "9437322"
+    },
+    "SCOREBOARDDISPLAYSLOTNONSORTABLE": {
+        "description": "ScoreboardDisplaySlotNonSortable",
+        "index": "139",
+        "value": "3145867"
+    },
+    "AGENT_F3": {
+        "description": "unknown",
+        "index": "139",
+        "value": "9437323"
+    },
+    "SCOREBOARDCRITERIA": {
+        "description": "ScoreboardCriteria",
+        "index": "140",
+        "value": "3145868"
+    },
+    "CODEBUILDER_ACTORINFO_F0": {
+        "description": "unknown",
+        "index": "140",
+        "value": "9437324"
+    },
+    "SETBLOCKMODE": {
+        "description": "SetBlockMode",
+        "index": "141",
+        "value": "3145869"
+    },
+    "ENCHANT_F0": {
+        "description": "unknown",
+        "index": "141",
+        "value": "9437325"
+    },
+    "STRUCTURESAVEACTION": {
+        "description": "StructureSaveAction",
+        "index": "142",
+        "value": "3145870"
+    },
+    "ENCHANT_F1": {
+        "description": "unknown",
+        "index": "142",
+        "value": "9437326"
+    },
+    "STRUCTURELOADACTION": {
+        "description": "StructureLoadAction",
+        "index": "143",
+        "value": "3145871"
+    },
+    "SAVE_F0": {
+        "description": "unknown",
+        "index": "143",
+        "value": "9437327"
+    },
+    "STRUCTUREDELETEACTION": {
+        "description": "StructureDeleteAction",
+        "index": "144",
+        "value": "3145872"
+    },
+    "ALLOWLIST_F0": {
+        "description": "unknown",
+        "index": "144",
+        "value": "9437328"
+    },
+    "CHANGESETTING_F0": {
+        "description": "unknown",
+        "index": "145",
+        "value": "9437329"
+    },
+    "STRUCTURESAVEMODE": {
+        "description": "StructureSaveMode",
+        "index": "145",
+        "value": "3145873"
+    },
+    "CHANGESETTING_F1": {
+        "description": "unknown",
+        "index": "146",
+        "value": "9437330"
+    },
+    "STRUCTUREANIMATIONMODE": {
+        "description": "StructureAnimationMode",
+        "index": "146",
+        "value": "3145874"
+    },
+    "SENDSHOWSTOREOFFER_F0": {
+        "description": "unknown",
+        "index": "147",
+        "value": "9437331"
+    },
+    "TELEPORTFACING": {
+        "description": "TeleportFacing",
+        "index": "147",
+        "value": "3145875"
+    },
+    "SENDSHOWSTOREOFFER_F1": {
+        "description": "unknown",
+        "index": "148",
+        "value": "9437332"
+    },
+    "TAGCHANGEACTION": {
+        "description": "TagChangeAction",
+        "index": "148",
+        "value": "3145876"
+    },
+    "SCRIPT_F0": {
+        "description": "unknown",
+        "index": "149",
+        "value": "9437333"
+    },
+    "TAGLISTACTION": {
+        "description": "TagListAction",
+        "index": "149",
+        "value": "3145877"
+    },
+    "SCRIPT_F1": {
+        "description": "unknown",
+        "index": "150",
+        "value": "9437334"
+    },
+    "TELEPORTCOMMANDALIASES": {
+        "description": "teleportCommandAliases",
+        "index": "150",
+        "value": "3145878"
+    },
+    "TELLCOMMANDALIASES": {
+        "description": "tellCommandAliases",
+        "index": "151",
+        "value": "3145879"
+    },
+    "LEVILAMINA_F0": {
+        "description": "unknown",
+        "index": "151",
+        "value": "9437335"
+    },
+    "TESTFORBLOCKSMODE": {
+        "description": "TestForBlocksMode",
+        "index": "152",
+        "value": "3145880"
+    },
+    "TICKINGAREAMODEADD": {
+        "description": "TickingAreaModeAdd",
+        "index": "153",
+        "value": "3145881"
+    },
+    "TICKINGAREAMODEREMOVE": {
+        "description": "TickingAreaModeRemove",
+        "index": "154",
+        "value": "3145882"
+    },
+    "TICKINGAREAMODEREMOVEALL": {
+        "description": "TickingAreaModeRemoveAll",
+        "index": "155",
+        "value": "3145883"
+    },
+    "TICKINGAREAMODELIST": {
+        "description": "TickingAreaModeList",
+        "index": "156",
+        "value": "3145884"
+    },
+    "TICKINGAREAMODEPRELOAD": {
+        "description": "TickingAreaModePreload",
+        "index": "157",
+        "value": "3145885"
+    },
+    "ADDTICKINGAREATYPE": {
+        "description": "AddTickingAreaType",
+        "index": "158",
+        "value": "3145886"
+    },
+    "ALLDIMENSIONS": {
+        "description": "AllDimensions",
+        "index": "159",
+        "value": "3145887"
+    },
+    "TIMEMODESET": {
+        "description": "TimeModeSet",
+        "index": "160",
+        "value": "3145888"
+    },
+    "TIMEMODEADD": {
+        "description": "TimeModeAdd",
+        "index": "161",
+        "value": "3145889"
+    },
+    "TIMEMODEQUERY": {
+        "description": "TimeModeQuery",
+        "index": "162",
+        "value": "3145890"
+    },
+    "TIMEQUERY": {
+        "description": "TimeQuery",
+        "index": "163",
+        "value": "3145891"
+    },
+    "TIMESPEC": {
+        "description": "TimeSpec",
+        "index": "164",
+        "value": "3145892"
+    },
+    "TITLECLEAR": {
+        "description": "TitleClear",
+        "index": "165",
+        "value": "3145893"
+    },
+    "TITLERESET": {
+        "description": "TitleReset",
+        "index": "166",
+        "value": "3145894"
+    },
+    "TITLESET": {
+        "description": "TitleSet",
+        "index": "167",
+        "value": "3145895"
+    },
+    "TITLETIMES": {
+        "description": "TitleTimes",
+        "index": "168",
+        "value": "3145896"
+    },
+    "TITLERAWCLEAR": {
+        "description": "TitleRawClear",
+        "index": "169",
+        "value": "3145897"
+    },
+    "TITLERAWRESET": {
+        "description": "TitleRawReset",
+        "index": "170",
+        "value": "3145898"
+    },
+    "TITLERAWSET": {
+        "description": "TitleRawSet",
+        "index": "171",
+        "value": "3145899"
+    },
+    "TITLERAWTIMES": {
+        "description": "TitleRawTimes",
+        "index": "172",
+        "value": "3145900"
+    },
+    "WEATHERTYPE": {
+        "description": "WeatherType",
+        "index": "173",
+        "value": "3145901"
+    },
+    "WEATHERQUERY": {
+        "description": "WeatherQuery",
+        "index": "174",
+        "value": "3145902"
+    },
+    "WSSERVERCOMMANDALIASES": {
+        "description": "wsserverCommandAliases",
+        "index": "175",
+        "value": "3145903"
+    },
+    "TAKE": {
+        "description": "Take",
+        "index": "176",
+        "value": "3145904"
+    },
+    "GIVE": {
+        "description": "Give",
+        "index": "177",
+        "value": "3145905"
+    },
+    "AGENTTELEPORTFACING": {
+        "description": "AgentTeleportFacing",
+        "index": "178",
+        "value": "3145906"
+    },
+    "AGENTDIRECTION": {
+        "description": "AgentDirection",
+        "index": "179",
+        "value": "3145907"
+    },
+    "AGENTTURNDIRECTION": {
+        "description": "AgentTurnDirection",
+        "index": "180",
+        "value": "3145908"
+    },
+    "AGENTDIRECTIONCOMMAND": {
+        "description": "AgentDirectionCommand",
+        "index": "181",
+        "value": "3145909"
+    },
+    "AGENTTURNCOMMAND": {
+        "description": "AgentTurnCommand",
+        "index": "182",
+        "value": "3145910"
+    },
+    "AGENTITEMCOMMAND": {
+        "description": "AgentItemCommand",
+        "index": "183",
+        "value": "3145911"
+    },
+    "AGENTCOMMAND": {
+        "description": "AgentCommand",
+        "index": "184",
+        "value": "3145912"
+    },
+    "AGENTTPCOMMAND": {
+        "description": "AgentTPCommand",
+        "index": "185",
+        "value": "3145913"
+    },
+    "AGENTTRANSFERCOMMAND": {
+        "description": "AgentTransferCommand",
+        "index": "186",
+        "value": "3145914"
+    },
+    "AGENTDROPCOMMAND": {
+        "description": "AgentDropCommand",
+        "index": "187",
+        "value": "3145915"
+    },
+    "AGENTPLACECOMMAND": {
+        "description": "AgentPlaceCommand",
+        "index": "188",
+        "value": "3145916"
+    },
+    "AGENTCOLLECTCOMMAND": {
+        "description": "AgentCollectCommand",
+        "index": "189",
+        "value": "3145917"
+    },
+    "AGENTCOLLECTALLITEMS": {
+        "description": "AgentCollectAllItems",
+        "index": "190",
+        "value": "3145918"
+    },
+    "AGENTSETITEMCOMMAND": {
+        "description": "AgentSetItemCommand",
+        "index": "191",
+        "value": "3145919"
+    },
+    "AGENT_DESTROY": {
+        "description": "AGENT_DESTROY",
+        "index": "192",
+        "value": "3145920"
+    },
+    "AGENT_INSPECT": {
+        "description": "AGENT_INSPECT",
+        "index": "193",
+        "value": "3145921"
+    },
+    "AGENT_INTERACT": {
+        "description": "AGENT_INTERACT",
+        "index": "194",
+        "value": "3145922"
+    },
+    "CODEBUILDERACTIONINVENTORY": {
+        "description": "CodeBuilderActionInventory",
+        "index": "195",
+        "value": "3145923"
+    },
+    "SAVEMODE": {
+        "description": "SaveMode",
+        "index": "196",
+        "value": "3145924"
+    },
+    "ALLOWLISTACTION": {
+        "description": "AllowListAction",
+        "index": "197",
+        "value": "3145925"
+    },
+    "ALLOWLISTCOMMANDALIASES": {
+        "description": "allowlistCommandAliases",
+        "index": "198",
+        "value": "3145926"
+    },
+    "BOOLSETTINGNAME": {
+        "description": "BoolSettingName",
+        "index": "199",
+        "value": "3145927"
+    },
+    "DIFFICULTYSETTINGNAME": {
+        "description": "DifficultySettingName",
+        "index": "200",
+        "value": "3145928"
+    },
+    "REDIRECTLOCATION": {
+        "description": "RedirectLocation",
+        "index": "201",
+        "value": "3145929"
+    },
+    "3PSERVEROFFERLIST": {
+        "description": "3PServerOfferList",
+        "index": "202",
+        "value": "3145930"
+    },
+    "SCRIPTDEBUGMODEPROFILER": {
+        "description": "ScriptDebugModeProfiler",
+        "index": "203",
+        "value": "3145931"
+    },
+    "SCRIPTPROFILERSTART": {
+        "description": "ScriptProfilerStart",
+        "index": "204",
+        "value": "3145932"
+    },
+    "SCRIPTPROFILERSTOP": {
+        "description": "ScriptProfilerStop",
+        "index": "205",
+        "value": "3145933"
+    },
+    "SCRIPTDEBUGMODEWATCHDOG": {
+        "description": "ScriptDebugModeWatchdog",
+        "index": "206",
+        "value": "3145934"
+    },
+    "SCRIPTWATCHDOGDUMPMEMORY": {
+        "description": "ScriptWatchdogDumpMemory",
+        "index": "207",
+        "value": "3145935"
+    },
+    "LEVILAMINACOMMANDALIASES": {
+        "description": "levilaminaCommandAliases",
+        "index": "208",
+        "value": "3145936"
+    },
+    "LL_TEXT_ENUM_NAME_LOAD": {
+        "description": "ll_text_enum_name_load",
+        "index": "209",
+        "value": "3145937"
+    },
+    "LL::COMMAND::LEVICOMMANDOPERATION": {
+        "description": "ll::command::LeviCommandOperation",
+        "index": "210",
+        "value": "3145938"
+    },
+    "LL::COMMAND::LEVICOMMANDOPERATION2": {
+        "description": "ll::command::LeviCommandOperation2",
+        "index": "211",
+        "value": "3145939"
+    },
+    "LL_TEXT_ENUM_NAME_LIST": {
+        "description": "ll_text_enum_name_list",
+        "index": "212",
+        "value": "3145940"
+    }
+}
