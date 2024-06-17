@@ -1,0 +1,437 @@
+{
+    "tag": {
+        "description": "unknown",
+        "index": "30",
+        "value": "33554462"
+    },
+    "camera": {
+        "description": "unknown",
+        "index": "33",
+        "value": "33554465"
+    },
+    "transfer": {
+        "description": "unknown",
+        "index": "3622",
+        "value": "33558054"
+    },
+    "clear": {
+        "description": "unknown",
+        "index": "3628",
+        "value": "33558060"
+    },
+    "time": {
+        "description": "unknown",
+        "index": "3630",
+        "value": "33558062"
+    },
+    "stop": {
+        "description": "unknown",
+        "index": "3633",
+        "value": "33558065"
+    },
+    "camerashake": {
+        "description": "unknown",
+        "index": "3636",
+        "value": "33558068"
+    },
+    "clearspawnpoint": {
+        "description": "unknown",
+        "index": "3637",
+        "value": "33558069"
+    },
+    "clone": {
+        "description": "unknown",
+        "index": "3644",
+        "value": "33558076"
+    },
+    "damage": {
+        "description": "unknown",
+        "index": "3670",
+        "value": "33558102"
+    },
+    "daylock": {
+        "description": "unknown",
+        "index": "3671",
+        "value": "33558103"
+    },
+    "deop": {
+        "description": "unknown",
+        "index": "3673",
+        "value": "33558105"
+    },
+    "dialogue": {
+        "description": "unknown",
+        "index": "3674",
+        "value": "33558106"
+    },
+    "difficulty": {
+        "description": "unknown",
+        "index": "3684",
+        "value": "33558116"
+    },
+    "effect": {
+        "description": "unknown",
+        "index": "3720",
+        "value": "33558152"
+    },
+    "event": {
+        "description": "unknown",
+        "index": "3721",
+        "value": "33558153"
+    },
+    "execute": {
+        "description": "unknown",
+        "index": "3723",
+        "value": "33558155"
+    },
+    "fill": {
+        "description": "unknown",
+        "index": "3741",
+        "value": "33558173"
+    },
+    "fog": {
+        "description": "unknown",
+        "index": "3749",
+        "value": "33558181"
+    },
+    "function": {
+        "description": "unknown",
+        "index": "3750",
+        "value": "33558182"
+    },
+    "gamemode": {
+        "description": "unknown",
+        "index": "3751",
+        "value": "33558183"
+    },
+    "gamerule": {
+        "description": "unknown",
+        "index": "3789",
+        "value": "33558221"
+    },
+    "gametest": {
+        "description": "unknown",
+        "index": "3797",
+        "value": "33558229"
+    },
+    "gettopsolidblock": {
+        "description": "unknown",
+        "index": "3798",
+        "value": "33558230"
+    },
+    "give": {
+        "description": "unknown",
+        "index": "3799",
+        "value": "33558231"
+    },
+    "help": {
+        "description": "unknown",
+        "index": "3800",
+        "value": "33558232"
+    },
+    "hud": {
+        "description": "unknown",
+        "index": "3816",
+        "value": "33558248"
+    },
+    "inputpermission": {
+        "description": "unknown",
+        "index": "3818",
+        "value": "33558250"
+    },
+    "kick": {
+        "description": "unknown",
+        "index": "3819",
+        "value": "33558251"
+    },
+    "kill": {
+        "description": "unknown",
+        "index": "3820",
+        "value": "33558252"
+    },
+    "list": {
+        "description": "unknown",
+        "index": "3821",
+        "value": "33558253"
+    },
+    "listd": {
+        "description": "unknown",
+        "index": "3825",
+        "value": "33558257"
+    },
+    "structure": {
+        "description": "unknown",
+        "index": "3826",
+        "value": "33558258"
+    },
+    "locate": {
+        "description": "unknown",
+        "index": "3828",
+        "value": "33558260"
+    },
+    "loot": {
+        "description": "unknown",
+        "index": "3831",
+        "value": "33558263"
+    },
+    "me": {
+        "description": "unknown",
+        "index": "3833",
+        "value": "33558265"
+    },
+    "mobevent": {
+        "description": "unknown",
+        "index": "3838",
+        "value": "33558270"
+    },
+    "music": {
+        "description": "unknown",
+        "index": "3844",
+        "value": "33558276"
+    },
+    "op": {
+        "description": "unknown",
+        "index": "3845",
+        "value": "33558277"
+    },
+    "particle": {
+        "description": "unknown",
+        "index": "3846",
+        "value": "33558278"
+    },
+    "reload": {
+        "description": "unknown",
+        "index": "3847",
+        "value": "33558279"
+    },
+    "permission": {
+        "description": "unknown",
+        "index": "3851",
+        "value": "33558283"
+    },
+    "playanimation": {
+        "description": "unknown",
+        "index": "3853",
+        "value": "33558285"
+    },
+    "playsound": {
+        "description": "unknown",
+        "index": "3854",
+        "value": "33558286"
+    },
+    "querytarget": {
+        "description": "unknown",
+        "index": "3855",
+        "value": "33558287"
+    },
+    "replaceitem": {
+        "description": "unknown",
+        "index": "3857",
+        "value": "33558289"
+    },
+    "ride": {
+        "description": "unknown",
+        "index": "3858",
+        "value": "33558290"
+    },
+    "say": {
+        "description": "unknown",
+        "index": "3871",
+        "value": "33558303"
+    },
+    "tickingarea": {
+        "description": "unknown",
+        "index": "3874",
+        "value": "33558306"
+    },
+    "schedule": {
+        "description": "unknown",
+        "index": "3875",
+        "value": "33558307"
+    },
+    "scoreboard": {
+        "description": "unknown",
+        "index": "3887",
+        "value": "33558319"
+    },
+    "scriptevent": {
+        "description": "unknown",
+        "index": "3888",
+        "value": "33558320"
+    },
+    "setblock": {
+        "description": "unknown",
+        "index": "3889",
+        "value": "33558321"
+    },
+    "setmaxplayers": {
+        "description": "unknown",
+        "index": "3890",
+        "value": "33558322"
+    },
+    "setworldspawn": {
+        "description": "unknown",
+        "index": "3891",
+        "value": "33558323"
+    },
+    "spawnpoint": {
+        "description": "unknown",
+        "index": "3892",
+        "value": "33558324"
+    },
+    "spreadplayers": {
+        "description": "unknown",
+        "index": "3893",
+        "value": "33558325"
+    },
+    "stopsound": {
+        "description": "unknown",
+        "index": "3894",
+        "value": "33558326"
+    },
+    "save": {
+        "description": "unknown",
+        "index": "3895",
+        "value": "33558327"
+    },
+    "summon": {
+        "description": "unknown",
+        "index": "3902",
+        "value": "33558334"
+    },
+    "teleport": {
+        "description": "unknown",
+        "index": "3903",
+        "value": "33558335"
+    },
+    "tell": {
+        "description": "unknown",
+        "index": "3905",
+        "value": "33558337"
+    },
+    "tellraw": {
+        "description": "unknown",
+        "index": "3908",
+        "value": "33558340"
+    },
+    "testforblock": {
+        "description": "unknown",
+        "index": "3909",
+        "value": "33558341"
+    },
+    "testforblocks": {
+        "description": "unknown",
+        "index": "3910",
+        "value": "33558342"
+    },
+    "testfor": {
+        "description": "unknown",
+        "index": "3911",
+        "value": "33558343"
+    },
+    "title": {
+        "description": "unknown",
+        "index": "3923",
+        "value": "33558355"
+    },
+    "titleraw": {
+        "description": "unknown",
+        "index": "3927",
+        "value": "33558359"
+    },
+    "toggledownfall": {
+        "description": "unknown",
+        "index": "3928",
+        "value": "33558360"
+    },
+    "weather": {
+        "description": "unknown",
+        "index": "3931",
+        "value": "33558363"
+    },
+    "wsserver": {
+        "description": "unknown",
+        "index": "3932",
+        "value": "33558364"
+    },
+    "xp": {
+        "description": "unknown",
+        "index": "3934",
+        "value": "33558366"
+    },
+    "recipe": {
+        "description": "unknown",
+        "index": "3936",
+        "value": "33558368"
+    },
+    "volumearea": {
+        "description": "unknown",
+        "index": "3937",
+        "value": "33558369"
+    },
+    "agent": {
+        "description": "unknown",
+        "index": "3958",
+        "value": "33558390"
+    },
+    "codebuilder_actorinfo": {
+        "description": "unknown",
+        "index": "3961",
+        "value": "33558393"
+    },
+    "enchant": {
+        "description": "unknown",
+        "index": "3963",
+        "value": "33558395"
+    },
+    "clearrealmevents": {
+        "description": "unknown",
+        "index": "3964",
+        "value": "33558396"
+    },
+    "allowlist": {
+        "description": "unknown",
+        "index": "3969",
+        "value": "33558401"
+    },
+    "changesetting": {
+        "description": "unknown",
+        "index": "3972",
+        "value": "33558404"
+    },
+    "sendshowstoreoffer": {
+        "description": "unknown",
+        "index": "3973",
+        "value": "33558405"
+    },
+    "reloadconfig": {
+        "description": "unknown",
+        "index": "3977",
+        "value": "33558409"
+    },
+    "script": {
+        "description": "unknown",
+        "index": "3978",
+        "value": "33558410"
+    },
+    "version": {
+        "description": "unknown",
+        "index": "3983",
+        "value": "33558415"
+    },
+    "memstats": {
+        "description": "unknown",
+        "index": "3984",
+        "value": "33558416"
+    },
+    "crash": {
+        "description": "unknown",
+        "index": "3985",
+        "value": "33558417"
+    },
+    "levilamina": {
+        "description": "unknown",
+        "index": "3986",
+        "value": "33558418"
+    }
+}

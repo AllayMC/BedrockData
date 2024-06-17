@@ -53,6 +53,10 @@ Including all the vanilla hard-coded block <-> block-item pair
 
 Vanilla recipes extracted from BDS
 
+## 13. block materials
+
+## 14. block_correct_tool_special
+
 ### Want to generate these files by yourself?
 
 You can use this tool [DataExtractor](https://github.com/AllayMC/DataExtractor)
