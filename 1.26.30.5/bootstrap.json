@@ -1,0 +1,24 @@
+{
+  "profile": {
+    "default_verbosity": "none",
+    "category_verbosity": {
+      "Default Group": "dev",
+      "Baseline": "default",
+      "Baseline (Creator)": "default",
+      "Chunk load system": "default",
+      "Chunk build system": "default",
+      "Chunk Render System": "default",
+      "World Generation system": "default",
+      "Overworld Generation system": "default",
+      "ResourceLoad": "default",
+      "Init Steps": "default",
+      "Main Loop": "default",
+      "DataDrivenModel": "default",
+      "Particles": "default",
+      "Particles (Creator)": "default",
+      "AnimationComponent": "default"
+    },
+    "min_group_stack_depth": 1,
+    "headers_enabled": true
+  }
+}
